@@ -4,7 +4,6 @@
     "Name": "Adana",
     "PlateCode": 1,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 370000.0,
     "Longitude": 353213.0
   },
@@ -13,7 +12,6 @@
     "Name": "Adıyaman",
     "PlateCode": 2,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 377648.0,
     "Longitude": 382786.0
   },
@@ -22,7 +20,6 @@
     "Name": "Afyonkarahisar",
     "PlateCode": 3,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 387638.0,
     "Longitude": 305403.0
   },
@@ -31,7 +28,6 @@
     "Name": "Ağrı",
     "PlateCode": 4,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 397191.0,
     "Longitude": 430503.0
   },
@@ -40,7 +36,6 @@
     "Name": "Amasya",
     "PlateCode": 5,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 406539.0,
     "Longitude": 358331.0
   },
@@ -49,7 +44,6 @@
     "Name": "Ankara",
     "PlateCode": 6,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 399208.0,
     "Longitude": 328541.0
   },
@@ -58,7 +52,6 @@
     "Name": "Antalya",
     "PlateCode": 7,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 368969.0,
     "Longitude": 307133.0
   },
@@ -67,7 +60,6 @@
     "Name": "Artvin",
     "PlateCode": 8,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 411828.0,
     "Longitude": 418183.0
   },
@@ -76,7 +68,6 @@
     "Name": "Aydın",
     "PlateCode": 9,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 378481.0,
     "Longitude": 278456.0
   },
@@ -85,7 +76,6 @@
     "Name": "Balıkesir",
     "PlateCode": 10,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 396484.0,
     "Longitude": 278826.0
   },
@@ -94,7 +84,6 @@
     "Name": "Bilecik",
     "PlateCode": 11,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 401501.0,
     "Longitude": 299833.0
   },
@@ -103,7 +92,6 @@
     "Name": "Bingöl",
     "PlateCode": 12,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 388853.0,
     "Longitude": 404983.0
   },
@@ -112,7 +100,6 @@
     "Name": "Bitlis",
     "PlateCode": 13,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 384006.0,
     "Longitude": 421095.0
   },
@@ -121,7 +108,6 @@
     "Name": "Bolu",
     "PlateCode": 14,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 407350.0,
     "Longitude": 316069.0
   },
@@ -130,7 +116,6 @@
     "Name": "Burdur",
     "PlateCode": 15,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 377269.0,
     "Longitude": 302889.0
   },
@@ -139,7 +124,6 @@
     "Name": "Bursa",
     "PlateCode": 16,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 401826.0,
     "Longitude": 290669.0
   },
@@ -148,7 +132,6 @@
     "Name": "Çanakkale",
     "PlateCode": 17,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 401553.0,
     "Longitude": 264142.0
   },
@@ -157,7 +140,6 @@
     "Name": "Çankırı",
     "PlateCode": 18,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 406000.0,
     "Longitude": 336167.0
   },
@@ -166,7 +148,6 @@
     "Name": "Çorum",
     "PlateCode": 19,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 405506.0,
     "Longitude": 349556.0
   },
@@ -175,7 +156,6 @@
     "Name": "Denizli",
     "PlateCode": 20,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 377765.0,
     "Longitude": 290864.0
   },
@@ -184,7 +164,6 @@
     "Name": "Diyarbakır",
     "PlateCode": 21,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 379204.0,
     "Longitude": 402306.0
   },
@@ -193,7 +172,6 @@
     "Name": "Edirne",
     "PlateCode": 22,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 416772.0,
     "Longitude": 265556.0
   },
@@ -202,7 +180,6 @@
     "Name": "Elazığ",
     "PlateCode": 23,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 386743.0,
     "Longitude": 392232.0
   },
@@ -211,7 +188,6 @@
     "Name": "Erzincan",
     "PlateCode": 24,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 397505.0,
     "Longitude": 394910.0
   },
@@ -220,7 +196,6 @@
     "Name": "Erzurum",
     "PlateCode": 25,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 399043.0,
     "Longitude": 412679.0
   },
@@ -229,7 +204,6 @@
     "Name": "Eskişehir",
     "PlateCode": 26,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 397767.0,
     "Longitude": 305206.0
   },
@@ -238,7 +212,6 @@
     "Name": "Gaziantep",
     "PlateCode": 27,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 370662.0,
     "Longitude": 373833.0
   },
@@ -247,7 +220,6 @@
     "Name": "Giresun",
     "PlateCode": 28,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 409128.0,
     "Longitude": 383895.0
   },
@@ -256,7 +228,6 @@
     "Name": "Gümüşhane",
     "PlateCode": 29,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 404603.0,
     "Longitude": 394814.0
   },
@@ -265,7 +236,6 @@
     "Name": "Hakkâri",
     "PlateCode": 30,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 375744.0,
     "Longitude": 437408.0
   },
@@ -274,7 +244,6 @@
     "Name": "Hatay",
     "PlateCode": 31,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 362028.0,
     "Longitude": 361606.0
   },
@@ -283,7 +252,6 @@
     "Name": "Isparta",
     "PlateCode": 32,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 377648.0,
     "Longitude": 305566.0
   },
@@ -292,7 +260,6 @@
     "Name": "Mersin",
     "PlateCode": 33,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 368000.0,
     "Longitude": 346333.0
   },
@@ -301,7 +268,6 @@
     "Name": "İstanbul",
     "PlateCode": 34,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 410082.0,
     "Longitude": 289784.0
   },
@@ -310,7 +276,6 @@
     "Name": "İzmir",
     "PlateCode": 35,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 384192.0,
     "Longitude": 271287.0
   },
@@ -319,7 +284,6 @@
     "Name": "Kars",
     "PlateCode": 36,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 406013.0,
     "Longitude": 430975.0
   },
@@ -328,7 +292,6 @@
     "Name": "Kastamonu",
     "PlateCode": 37,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 413887.0,
     "Longitude": 337827.0
   },
@@ -337,7 +300,6 @@
     "Name": "Kayseri",
     "PlateCode": 38,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 387312.0,
     "Longitude": 354787.0
   },
@@ -346,7 +308,6 @@
     "Name": "Kırklareli",
     "PlateCode": 39,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 417351.0,
     "Longitude": 272252.0
   },
@@ -355,7 +316,6 @@
     "Name": "Kırşehir",
     "PlateCode": 40,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 391458.0,
     "Longitude": 341639.0
   },
@@ -364,7 +324,6 @@
     "Name": "Kocaeli",
     "PlateCode": 41,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 408533.0,
     "Longitude": 298815.0
   },
@@ -373,7 +332,6 @@
     "Name": "Konya",
     "PlateCode": 42,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 378714.0,
     "Longitude": 324846.0
   },
@@ -382,7 +340,6 @@
     "Name": "Kütahya",
     "PlateCode": 43,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 394167.0,
     "Longitude": 299833.0
   },
@@ -391,7 +348,6 @@
     "Name": "Malatya",
     "PlateCode": 44,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 383552.0,
     "Longitude": 383095.0
   },
@@ -400,7 +356,6 @@
     "Name": "Manisa",
     "PlateCode": 45,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 386191.0,
     "Longitude": 274289.0
   },
@@ -409,7 +364,6 @@
     "Name": "Kahramanmaraş",
     "PlateCode": 46,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 375736.0,
     "Longitude": 369371.0
   },
@@ -418,7 +372,6 @@
     "Name": "Mardin",
     "PlateCode": 47,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 373212.0,
     "Longitude": 407245.0
   },
@@ -427,7 +380,6 @@
     "Name": "Muğla",
     "PlateCode": 48,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 372153.0,
     "Longitude": 283636.0
   },
@@ -436,7 +388,6 @@
     "Name": "Muş",
     "PlateCode": 49,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 387433.0,
     "Longitude": 415069.0
   },
@@ -445,7 +396,6 @@
     "Name": "Nevşehir",
     "PlateCode": 50,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 386244.0,
     "Longitude": 347239.0
   },
@@ -454,7 +404,6 @@
     "Name": "Niğde",
     "PlateCode": 51,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 379667.0,
     "Longitude": 346833.0
   },
@@ -463,7 +412,6 @@
     "Name": "Ordu",
     "PlateCode": 52,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 409839.0,
     "Longitude": 378764.0
   },
@@ -472,7 +420,6 @@
     "Name": "Rize",
     "PlateCode": 53,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 410201.0,
     "Longitude": 405234.0
   },
@@ -481,7 +428,6 @@
     "Name": "Sakarya",
     "PlateCode": 54,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 407569.0,
     "Longitude": 303781.0
   },
@@ -490,7 +436,6 @@
     "Name": "Samsun",
     "PlateCode": 55,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 412867.0,
     "Longitude": 3633.0
   },
@@ -499,7 +444,6 @@
     "Name": "Siirt",
     "PlateCode": 56,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 379443.0,
     "Longitude": 419320.0
   },
@@ -508,7 +452,6 @@
     "Name": "Sinop",
     "PlateCode": 57,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 420264.0,
     "Longitude": 351550.0
   },
@@ -517,7 +460,6 @@
     "Name": "Sivas",
     "PlateCode": 58,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 397477.0,
     "Longitude": 370179.0
   },
@@ -526,7 +468,6 @@
     "Name": "Tekirdağ",
     "PlateCode": 59,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 409780.0,
     "Longitude": 275110.0
   },
@@ -535,7 +476,6 @@
     "Name": "Tokat",
     "PlateCode": 60,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 403139.0,
     "Longitude": 365544.0
   },
@@ -544,7 +484,6 @@
     "Name": "Trabzon",
     "PlateCode": 61,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 410015.0,
     "Longitude": 397178.0
   },
@@ -553,7 +492,6 @@
     "Name": "Tunceli",
     "PlateCode": 62,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 391081.0,
     "Longitude": 395471.0
   },
@@ -562,7 +500,6 @@
     "Name": "Şanlıurfa",
     "PlateCode": 63,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 371674.0,
     "Longitude": 387955.0
   },
@@ -571,7 +508,6 @@
     "Name": "Uşak",
     "PlateCode": 64,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 386823.0,
     "Longitude": 294082.0
   },
@@ -580,7 +516,7 @@
     "Name": "Van",
     "PlateCode": 65,
     "CountryId": 86,
-    "Color": "#00000",
+
     "Latitude": 384942.0,
     "Longitude": 433832.0
   },
@@ -589,7 +525,6 @@
     "Name": "Yozgat",
     "PlateCode": 66,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 398181.0,
     "Longitude": 348147.0
   },
@@ -598,7 +533,6 @@
     "Name": "Zonguldak",
     "PlateCode": 67,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 414564.0,
     "Longitude": 317987.0
   },
@@ -607,7 +541,6 @@
     "Name": "Aksaray",
     "PlateCode": 68,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 383687.0,
     "Longitude": 340360.0
   },
@@ -616,7 +549,6 @@
     "Name": "Bayburt",
     "PlateCode": 69,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 402552.0,
     "Longitude": 402249.0
   },
@@ -625,7 +557,6 @@
     "Name": "Karaman",
     "PlateCode": 70,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 371811.0,
     "Longitude": 332150.0
   },
@@ -634,7 +565,6 @@
     "Name": "Kırıkkale",
     "PlateCode": 71,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 398468.0,
     "Longitude": 335153.0
   },
@@ -643,7 +573,7 @@
     "Name": "Batman",
     "PlateCode": 72,
     "CountryId": 86,
-    "Color": "#00000",
+
     "Latitude": 378812.0,
     "Longitude": 411351.0
   },
@@ -652,7 +582,6 @@
     "Name": "Şırnak",
     "PlateCode": 73,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 375164.0,
     "Longitude": 424610.0
   },
@@ -661,7 +590,6 @@
     "Name": "Bartın",
     "PlateCode": 74,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 416344.0,
     "Longitude": 323375.0
   },
@@ -670,7 +598,6 @@
     "Name": "Ardahan",
     "PlateCode": 75,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 411105.0,
     "Longitude": 427022.0
   },
@@ -679,7 +606,6 @@
     "Name": "Iğdır",
     "PlateCode": 76,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 399191.0,
     "Longitude": 440440.0
   },
@@ -688,7 +614,6 @@
     "Name": "Yalova",
     "PlateCode": 77,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 406550.0,
     "Longitude": 292769.0
   },
@@ -697,7 +622,6 @@
     "Name": "Karabük",
     "PlateCode": 78,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 412061.0,
     "Longitude": 326204.0
   },
@@ -706,7 +630,6 @@
     "Name": "Kilis",
     "PlateCode": 79,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 367165.0,
     "Longitude": 371150.0
   },
@@ -715,7 +638,6 @@
     "Name": "Osmaniye",
     "PlateCode": 80,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 370742.0,
     "Longitude": 362478.0
   },
@@ -724,7 +646,6 @@
     "Name": "Düzce",
     "PlateCode": 81,
     "CountryId": 86,
-    "Color": "#00000",
     "Latitude": 408438.0,
     "Longitude": 311565.0
   }
