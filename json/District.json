@@ -1,0 +1,4837 @@
+[
+  {
+    "ID": 1,
+    "Name": "Aladağ",
+    "Code": "AD01-ALDG01"
+  },
+  {
+    "ID": 2,
+    "Name": "Ceyhan",
+    "Code": "AD01-CYHN01"
+  },
+  {
+    "ID": 3,
+    "Name": "Çukurova",
+    "Code": "AD01-CKRV01"
+  },
+  {
+    "ID": 4,
+    "Name": "Feke",
+    "Code": "AD01-FEKE01"
+  },
+  {
+    "ID": 5,
+    "Name": "İmamoğlu",
+    "Code": "AD01-IMGL01"
+  },
+  {
+    "ID": 6,
+    "Name": "Karaisalı",
+    "Code": "AD01-KRSL01"
+  },
+  {
+    "ID": 7,
+    "Name": "Karataş",
+    "Code": "AD01-KRTS01"
+  },
+  {
+    "ID": 8,
+    "Name": "Kozan",
+    "Code": "AD01-KOZN01"
+  },
+  {
+    "ID": 9,
+    "Name": "Pozantı",
+    "Code": "AD01-PZNT01"
+  },
+  {
+    "ID": 10,
+    "Name": "Saimbeyli",
+    "Code": "AD01-SMBY01"
+  },
+  {
+    "ID": 11,
+    "Name": "Sarıçam",
+    "Code": "AD01-SRCM01"
+  },
+  {
+    "ID": 12,
+    "Name": "Seyhan",
+    "Code": "AD01-SYHN01"
+  },
+  {
+    "ID": 13,
+    "Name": "Tufanbeyli",
+    "Code": "AD01-TFBL01"
+  },
+  {
+    "ID": 14,
+    "Name": "Yumurtalık",
+    "Code": "AD01-YMRT01"
+  },
+  {
+    "ID": 15,
+    "Name": "Yüreğir",
+    "Code": "AD01-YRGR01"
+  },
+  {
+    "ID": 16,
+    "Name": "Adıyaman Merkez",
+    "Code": "AD02-MRKZ01"
+  },
+  {
+    "ID": 17,
+    "Name": "Besni",
+    "Code": "AD02-BSNI01"
+  },
+  {
+    "ID": 18,
+    "Name": "Çelikhan",
+    "Code": "AD02-CLKH01"
+  },
+  {
+    "ID": 19,
+    "Name": "Gerger",
+    "Code": "AD02-GRGR01"
+  },
+  {
+    "ID": 20,
+    "Name": "Gölbaşı",
+    "Code": "AD02-GLBS01"
+  },
+  {
+    "ID": 21,
+    "Name": "Kahta",
+    "Code": "AD02-KHTA01"
+  },
+  {
+    "ID": 22,
+    "Name": "Samsat",
+    "Code": "AD02-SMST01"
+  },
+  {
+    "ID": 23,
+    "Name": "Sincik",
+    "Code": "AD02-SNCK01"
+  },
+  {
+    "ID": 24,
+    "Name": "Tut",
+    "Code": "AD02-TUT01"
+  },
+  {
+    "ID": 25,
+    "Name": "Bayat",
+    "Code": "AF03-BYAT01"
+  },
+  {
+    "ID": 26,
+    "Name": "Başmakçı",
+    "Code": "AF03-BSMK01"
+  },
+  {
+    "ID": 27,
+    "Name": "Bolvadin",
+    "Code": "AF03-BLVD01"
+  },
+  {
+    "ID": 28,
+    "Name": "Dazkırı",
+    "Code": "AF03-DZKR01"
+  },
+  {
+    "ID": 29,
+    "Name": "Dinar",
+    "Code": "AF03-DNAR01"
+  },
+  {
+    "ID": 30,
+    "Name": "Emirdağ",
+    "Code": "AF03-EMRD01"
+  },
+  {
+    "ID": 31,
+    "Name": "Evciler",
+    "Code": "AF03-EVCL01"
+  },
+  {
+    "ID": 32,
+    "Name": "Hocalar",
+    "Code": "AF03-HCLR01"
+  },
+  {
+    "ID": 33,
+    "Name": "Kızılören",
+    "Code": "AF03-KZLR01"
+  },
+  {
+    "ID": 34,
+    "Name": "Afyon Merkez",
+    "Code": "AF03-MRKZ01"
+  },
+  {
+    "ID": 35,
+    "Name": "Sandıklı",
+    "Code": "AF03-SNDK01"
+  },
+  {
+    "ID": 36,
+    "Name": "Sinanpaşa",
+    "Code": "AF03-SNPS01"
+  },
+  {
+    "ID": 37,
+    "Name": "Sultandağı",
+    "Code": "AF03-SLTD01"
+  },
+  {
+    "ID": 38,
+    "Name": "Çay",
+    "Code": "AF03-CAY01"
+  },
+  {
+    "ID": 39,
+    "Name": "Çobanlar",
+    "Code": "AF03-CBNL01"
+  },
+  {
+    "ID": 40,
+    "Name": "İhsaniye",
+    "Code": "AF03-IHSN01"
+  },
+  {
+    "ID": 41,
+    "Name": "İscehisar",
+    "Code": "AF03-ISCH01"
+  },
+  {
+    "ID": 42,
+    "Name": "Şuhut",
+    "Code": "AF03-SHUT01"
+  },
+  {
+    "ID": 44,
+    "Name": "Diyadin",
+    "Code": "AG04-DYDN01"
+  },
+  {
+    "ID": 45,
+    "Name": "Doğubayazıt",
+    "Code": "AG04-DGBY01"
+  },
+  {
+    "ID": 46,
+    "Name": "Eleşkirt",
+    "Code": "AG04-ELSK01"
+  },
+  {
+    "ID": 47,
+    "Name": "Hamur",
+    "Code": "AG04-HMUR01"
+  },
+  {
+    "ID": 48,
+    "Name": "Ağrı Merkez",
+    "Code": "AG04-MRKZ01"
+  },
+  {
+    "ID": 49,
+    "Name": "Patnos",
+    "Code": "AG04-PTNS01"
+  },
+  {
+    "ID": 50,
+    "Name": "Taşlıçay",
+    "Code": "AG04-TSLC01"
+  },
+  {
+    "ID": 51,
+    "Name": "Tutak",
+    "Code": "AG04-TUTK01"
+  },
+  {
+    "ID": 52,
+    "Name": "Göynücek",
+    "Code": "AM05-GYNC01"
+  },
+  {
+    "ID": 53,
+    "Name": "Gümüşhacıköy",
+    "Code": "AM05-GMHK01"
+  },
+  {
+    "ID": 54,
+    "Name": "Hamamözü",
+    "Code": "AM05-HMMZ01"
+  },
+  {
+    "ID": 55,
+    "Name": "Amasya Merkez",
+    "Code": "AM05-MRKZ01"
+  },
+  {
+    "ID": 56,
+    "Name": "Merzifon",
+    "Code": "AM05-MRZF01"
+  },
+  {
+    "ID": 57,
+    "Name": "Suluova",
+    "Code": "AM05-SLVA01"
+  },
+  {
+    "ID": 58,
+    "Name": "Taşova",
+    "Code": "AM05-TSVA01"
+  },
+  {
+    "ID": 59,
+    "Name": "Altındağ",
+    "Code": "ANK06-ALTD01"
+  },
+  {
+    "ID": 60,
+    "Name": "Ayaş",
+    "Code": "ANK06-AYAS01"
+  },
+  {
+    "ID": 61,
+    "Name": "Bala",
+    "Code": "ANK06-BALA01"
+  },
+  {
+    "ID": 62,
+    "Name": "Beypazarı",
+    "Code": "ANK06-BYPZ01"
+  },
+  {
+    "ID": 63,
+    "Name": "Elmadağ",
+    "Code": "ANK06-ELMD01"
+  },
+  {
+    "ID": 64,
+    "Name": "Etimesgut",
+    "Code": "ANK06-ETMS01"
+  },
+  {
+    "ID": 65,
+    "Name": "Evren",
+    "Code": "ANK06-EVRN01"
+  },
+  {
+    "ID": 66,
+    "Name": "Gölbaşı",
+    "Code": "ANK06-GLBS01"
+  },
+  {
+    "ID": 67,
+    "Name": "Güdül",
+    "Code": "ANK06-GUDL01"
+  },
+  {
+    "ID": 68,
+    "Name": "Haymana",
+    "Code": "ANK06-HYMN01"
+  },
+  {
+    "ID": 69,
+    "Name": "Kahramankazan",
+    "Code": "ANK06-KHMK01"
+  },
+  {
+    "ID": 70,
+    "Name": "Kalecik",
+    "Code": "ANK06-KLCK01"
+  },
+  {
+    "ID": 71,
+    "Name": "Keçiören",
+    "Code": "ANK06-KCNR01"
+  },
+  {
+    "ID": 72,
+    "Name": "Kızılcahamam",
+    "Code": "ANK06-KZCH01"
+  },
+  {
+    "ID": 73,
+    "Name": "Mamak",
+    "Code": "ANK06-MAMK01"
+  },
+  {
+    "ID": 74,
+    "Name": "Nallıhan",
+    "Code": "ANK06-NLLH01"
+  },
+  {
+    "ID": 75,
+    "Name": "Polatlı",
+    "Code": "ANK06-PLTL01"
+  },
+  {
+    "ID": 76,
+    "Name": "Pursaklar",
+    "Code": "ANK06-PRSK01"
+  },
+  {
+    "ID": 77,
+    "Name": "Sincan",
+    "Code": "ANK06-SNCN01"
+  },
+  {
+    "ID": 78,
+    "Name": "Yenimahalle",
+    "Code": "ANK06-YNMH01"
+  },
+  {
+    "ID": 79,
+    "Name": "Çamlıdere",
+    "Code": "ANK06-CMLD01"
+  },
+  {
+    "ID": 80,
+    "Name": "Çankaya",
+    "Code": "ANK06-CNKY01"
+  },
+  {
+    "ID": 81,
+    "Name": "Çubuk",
+    "Code": "ANK06-CBUK01"
+  },
+  {
+    "ID": 82,
+    "Name": "Şereflikoçhisar",
+    "Code": "ANK06-SRFL01"
+  },
+  {
+    "ID": 83,
+    "Name": "Akseki",
+    "Code": "ANT07-AKSK01"
+  },
+  {
+    "ID": 84,
+    "Name": "Aksu",
+    "Code": "ANT07-AKSU01"
+  },
+  {
+    "ID": 85,
+    "Name": "Alanya",
+    "Code": "ANT07-ALNY01"
+  },
+  {
+    "ID": 86,
+    "Name": "Demre",
+    "Code": "ANT07-DMRE01"
+  },
+  {
+    "ID": 87,
+    "Name": "Döşemealtı",
+    "Code": "ANT07-DSML01"
+  },
+  {
+    "ID": 88,
+    "Name": "Elmalı",
+    "Code": "ANT07-ELML01"
+  },
+  {
+    "ID": 89,
+    "Name": "Finike",
+    "Code": "ANT07-FNKE01"
+  },
+  {
+    "ID": 90,
+    "Name": "Gazipaşa",
+    "Code": "ANT07-GZPS01"
+  },
+  {
+    "ID": 91,
+    "Name": "Gündoğmuş",
+    "Code": "ANT07-GNDM01"
+  },
+  {
+    "ID": 92,
+    "Name": "Kaş",
+    "Code": "ANT07-KASH01"
+  },
+  {
+    "ID": 93,
+    "Name": "Kemer",
+    "Code": "ANT07-KEMR01"
+  },
+  {
+    "ID": 94,
+    "Name": "Kepez",
+    "Code": "ANT07-KEPZ01"
+  },
+  {
+    "ID": 95,
+    "Name": "Konyaaltı",
+    "Code": "ANT07-KNYA01"
+  },
+  {
+    "ID": 96,
+    "Name": "Korkuteli",
+    "Code": "ANT07-KKTL01"
+  },
+  {
+    "ID": 97,
+    "Name": "Kumluca",
+    "Code": "ANT07-KMLC01"
+  },
+  {
+    "ID": 98,
+    "Name": "Manavgat",
+    "Code": "ANT07-MNVG01"
+  },
+  {
+    "ID": 99,
+    "Name": "Muratpaşa",
+    "Code": "ANT07-MRTP01"
+  },
+  {
+    "ID": 100,
+    "Name": "Serik",
+    "Code": "ANT07-SERK01"
+  },
+  {
+    "ID": 101,
+    "Name": "İbradı",
+    "Code": "ANT07-IBRD01"
+  },
+  {
+    "ID": 102,
+    "Name": "Ardanuç",
+    "Code": "ART08-ARDC01"
+  },
+  {
+    "ID": 103,
+    "Name": "Arhavi",
+    "Code": "ART08-ARHV01"
+  },
+  {
+    "ID": 104,
+    "Name": "Borçka",
+    "Code": "ART08-BRCK01"
+  },
+  {
+    "ID": 105,
+    "Name": "Hopa",
+    "Code": "ART08-HOPA01"
+  },
+  {
+    "ID": 106,
+    "Name": "Kemalpaşa",
+    "Code": "ART08-KMPS01"
+  },
+  {
+    "ID": 107,
+    "Name": "Murgul",
+    "Code": "ART08-MRGL01"
+  },
+  {
+    "ID": 108,
+    "Name": "Yusufeli",
+    "Code": "ART08-YUSF01"
+  },
+  {
+    "ID": 109,
+    "Name": "Şavşat",
+    "Code": "ART08-SVST01"
+  },
+  {
+    "ID": 110,
+    "Name": "Bozdoğan",
+    "Code": "AY09-BZDG01"
+  },
+  {
+    "ID": 111,
+    "Name": "Buharkent",
+    "Code": "AY09-BHRK01"
+  },
+  {
+    "ID": 112,
+    "Name": "Didim",
+    "Code": "AY09-DDIM01"
+  },
+  {
+    "ID": 113,
+    "Name": "Efeler",
+    "Code": "AY09-EFEL01"
+  },
+  {
+    "ID": 114,
+    "Name": "Germencik",
+    "Code": "AY09-GRMC01"
+  },
+  {
+    "ID": 115,
+    "Name": "Karacasu",
+    "Code": "AY09-KRCS01"
+  },
+  {
+    "ID": 116,
+    "Name": "Karpuzlu",
+    "Code": "AY09-KRPZ01"
+  },
+  {
+    "ID": 117,
+    "Name": "Koçarlı",
+    "Code": "AY09-KCRL01"
+  },
+  {
+    "ID": 118,
+    "Name": "Kuyucak",
+    "Code": "AY09-KYCK01"
+  },
+  {
+    "ID": 119,
+    "Name": "Kuşadası",
+    "Code": "AY09-KSAD01"
+  },
+  {
+    "ID": 120,
+    "Name": "Köşk",
+    "Code": "AY09-KOSK01"
+  },
+  {
+    "ID": 121,
+    "Name": "Nazilli",
+    "Code": "AY09-NZLL01"
+  },
+  {
+    "ID": 122,
+    "Name": "Sultanhisar",
+    "Code": "AY09-SLTH01"
+  },
+  {
+    "ID": 123,
+    "Name": "Söke",
+    "Code": "AY09-SOKE01"
+  },
+  {
+    "ID": 124,
+    "Name": "Yenipazar",
+    "Code": "AY09-YNPZ01"
+  },
+  {
+    "ID": 125,
+    "Name": "Çine",
+    "Code": "AY09-CINE01"
+  },
+  {
+    "ID": 126,
+    "Name": "İncirliova",
+    "Code": "AY09-INCR01"
+  },
+  {
+    "ID": 127,
+    "Name": "Altıeylül",
+    "Code": "BL10-ALTY01"
+  },
+  {
+    "ID": 128,
+    "Name": "Ayvalık",
+    "Code": "BL10-AYVK01"
+  },
+  {
+    "ID": 129,
+    "Name": "Balya",
+    "Code": "BL10-BALY01"
+  },
+  {
+    "ID": 130,
+    "Name": "Bandırma",
+    "Code": "BL10-BNDR01"
+  },
+  {
+    "ID": 131,
+    "Name": "Bigadiç",
+    "Code": "BL10-BGDC01"
+  },
+  {
+    "ID": 132,
+    "Name": "Burhaniye",
+    "Code": "BL10-BRHN01"
+  },
+  {
+    "ID": 133,
+    "Name": "Dursunbey",
+    "Code": "BL10-DRSN01"
+  },
+  {
+    "ID": 134,
+    "Name": "Edremit",
+    "Code": "BL10-EDRM01"
+  },
+  {
+    "ID": 135,
+    "Name": "Erdek",
+    "Code": "BL10-ERDK01"
+  },
+  {
+    "ID": 136,
+    "Name": "Gömeç",
+    "Code": "BL10-GOMC01"
+  },
+  {
+    "ID": 137,
+    "Name": "Gönen",
+    "Code": "BL10-GONN01"
+  },
+  {
+    "ID": 138,
+    "Name": "Havran",
+    "Code": "BL10-HAVR01"
+  },
+  {
+    "ID": 139,
+    "Name": "Karesi",
+    "Code": "BL10-KARS01"
+  },
+  {
+    "ID": 140,
+    "Name": "Kepsut",
+    "Code": "BL10-KPSU01"
+  },
+  {
+    "ID": 141,
+    "Name": "Manyas",
+    "Code": "BL10-MNYS01"
+  },
+  {
+    "ID": 142,
+    "Name": "Marmara",
+    "Code": "BL10-MRMR01"
+  },
+  {
+    "ID": 143,
+    "Name": "Savaştepe",
+    "Code": "BL10-SVST01"
+  },
+  {
+    "ID": 144,
+    "Name": "Susurluk",
+    "Code": "BL10-SSRL01"
+  },
+  {
+    "ID": 145,
+    "Name": "Sındırgı",
+    "Code": "BL10-SNDR01"
+  },
+  {
+    "ID": 146,
+    "Name": "İvrindi",
+    "Code": "BL10-IVRN01"
+  },
+  {
+    "ID": 147,
+    "Name": "Bozüyük",
+    "Code": "BL11-BZYK01"
+  },
+  {
+    "ID": 148,
+    "Name": "Gölpazarı",
+    "Code": "BL11-GLPZ01"
+  },
+  {
+    "ID": 149,
+    "Name": "Bilecik Merkez",
+    "Code": "BL11-MRKZ01"
+  },
+  {
+    "ID": 150,
+    "Name": "Osmaneli",
+    "Code": "BL11-OSMN01"
+  },
+  {
+    "ID": 151,
+    "Name": "Pazaryeri",
+    "Code": "BL11-PZYR01"
+  },
+  {
+    "ID": 152,
+    "Name": "Söğüt",
+    "Code": "BL11-SOGT01"
+  },
+  {
+    "ID": 153,
+    "Name": "Yenipazar",
+    "Code": "BL11-YNPZ01"
+  },
+  {
+    "ID": 154,
+    "Name": "İnhisar",
+    "Code": "BL11-INHS01"
+  },
+  {
+    "ID": 155,
+    "Name": "Adaklı",
+    "Code": "BN12-ADKL01"
+  },
+  {
+    "ID": 156,
+    "Name": "Genç",
+    "Code": "BN12-GENC01"
+  },
+  {
+    "ID": 157,
+    "Name": "Karlıova",
+    "Code": "BN12-KRLO01"
+  },
+  {
+    "ID": 158,
+    "Name": "Kiğı",
+    "Code": "BN12-KIGI01"
+  },
+  {
+    "ID": 159,
+    "Name": "Bingöl Merkez",
+    "Code": "BN12-MRKZ01"
+  },
+  {
+    "ID": 160,
+    "Name": "Solhan",
+    "Code": "BN12-SLHN01"
+  },
+  {
+    "ID": 161,
+    "Name": "Yayladere",
+    "Code": "BN12-YYLD01"
+  },
+  {
+    "ID": 162,
+    "Name": "Yedisu",
+    "Code": "BN12-YDSU01"
+  },
+  {
+    "ID": 163,
+    "Name": "Adilcevaz",
+    "Code": "BT13-ADCV01"
+  },
+  {
+    "ID": 164,
+    "Name": "Ahlat",
+    "Code": "BT13-AHLT01"
+  },
+  {
+    "ID": 165,
+    "Name": "Güroymak",
+    "Code": "BT13-GRYM01"
+  },
+  {
+    "ID": 166,
+    "Name": "Hizan",
+    "Code": "BT13-HIZN01"
+  },
+  {
+    "ID": 167,
+    "Name": "Bitlis Merkez",
+    "Code": "BT13-MRKZ01"
+  },
+  {
+    "ID": 168,
+    "Name": "Mutki",
+    "Code": "BT13-MUTK01"
+  },
+  {
+    "ID": 169,
+    "Name": "Tatvan",
+    "Code": "BT13-TTVN01"
+  },
+  {
+    "ID": 170,
+    "Name": "Dörtdivan",
+    "Code": "BL14-DRDV01"
+  },
+  {
+    "ID": 171,
+    "Name": "Gerede",
+    "Code": "BL14-GRDE01"
+  },
+  {
+    "ID": 172,
+    "Name": "Göynük",
+    "Code": "BL14-GYNK01"
+  },
+  {
+    "ID": 173,
+    "Name": "Kıbrıscık",
+    "Code": "BL14-KBRS01"
+  },
+  {
+    "ID": 174,
+    "Name": "Mengen",
+    "Code": "BL14-MNGN01"
+  },
+  {
+    "ID": 175,
+    "Name": "Bolu Merkez",
+    "Code": "BL14-MRKZ01"
+  },
+  {
+    "ID": 176,
+    "Name": "Mudurnu",
+    "Code": "BL14-MDRN01"
+  },
+  {
+    "ID": 177,
+    "Name": "Seben",
+    "Code": "BL14-SBEN01"
+  },
+  {
+    "ID": 178,
+    "Name": "Yeniçağa",
+    "Code": "BL14-YNCA01"
+  },
+  {
+    "ID": 180,
+    "Name": "Altınyayla",
+    "Code": "BR15-ALTY01"
+  },
+  {
+    "ID": 181,
+    "Name": "Ağlasun",
+    "Code": "BR15-AGLS01"
+  },
+  {
+    "ID": 182,
+    "Name": "Bucak",
+    "Code": "BR15-BUCK01"
+  },
+  {
+    "ID": 183,
+    "Name": "Gölhisar",
+    "Code": "BR15-GLHS01"
+  },
+  {
+    "ID": 184,
+    "Name": "Karamanlı",
+    "Code": "BR15-KRML01"
+  },
+  {
+    "ID": 185,
+    "Name": "Kemer",
+    "Code": "BR15-KEMR01"
+  },
+  {
+    "ID": 186,
+    "Name": "Burdur Merkez",
+    "Code": "BR15-MRKZ01"
+  },
+  {
+    "ID": 187,
+    "Name": "Tefenni",
+    "Code": "BR15-TFNN01"
+  },
+  {
+    "ID": 188,
+    "Name": "Yeşilova",
+    "Code": "BR15-YSLV01"
+  },
+  {
+    "ID": 189,
+    "Name": "Çavdır",
+    "Code": "BR15-CAVD01"
+  },
+  {
+    "ID": 190,
+    "Name": "Çeltikçi",
+    "Code": "BR15-CLTK01"
+  },
+  {
+    "ID": 191,
+    "Name": "Büyükorhan",
+    "Code": "BR16-BYKH01"
+  },
+  {
+    "ID": 192,
+    "Name": "Gemlik",
+    "Code": "BR16-GMLK01"
+  },
+  {
+    "ID": 193,
+    "Name": "Gürsu",
+    "Code": "BR16-GRSU01"
+  },
+  {
+    "ID": 194,
+    "Name": "Harmancık",
+    "Code": "BR16-HRMC01"
+  },
+  {
+    "ID": 195,
+    "Name": "Karacabey",
+    "Code": "BR16-KRCB01"
+  },
+  {
+    "ID": 196,
+    "Name": "Keles",
+    "Code": "BR16-KELS01"
+  },
+  {
+    "ID": 197,
+    "Name": "Kestel",
+    "Code": "BR16-KSTL01"
+  },
+  {
+    "ID": 198,
+    "Name": "Mudanya",
+    "Code": "BR16-MDYN01"
+  },
+  {
+    "ID": 199,
+    "Name": "Mustafakemalpaşa",
+    "Code": "BR16-MSKP01"
+  },
+  {
+    "ID": 200,
+    "Name": "Nilüfer",
+    "Code": "BR16-NLFR01"
+  },
+  {
+    "ID": 201,
+    "Name": "Orhaneli",
+    "Code": "BR16-ORHL01"
+  },
+  {
+    "ID": 202,
+    "Name": "Orhangazi",
+    "Code": "BR16-ORHG01"
+  },
+  {
+    "ID": 203,
+    "Name": "Osmangazi",
+    "Code": "BR16-OSMG01"
+  },
+  {
+    "ID": 204,
+    "Name": "Yenişehir",
+    "Code": "BR16-YNHR01"
+  },
+  {
+    "ID": 205,
+    "Name": "Yıldırım",
+    "Code": "BR16-YLDR01"
+  },
+  {
+    "ID": 206,
+    "Name": "İnegöl",
+    "Code": "BR16-INGL01"
+  },
+  {
+    "ID": 207,
+    "Name": "İznik",
+    "Code": "BR16-IZNK01"
+  },
+  {
+    "ID": 208,
+    "Name": "Ayvacık",
+    "Code": "CN17-AYVC01"
+  },
+  {
+    "ID": 209,
+    "Name": "Bayramiç",
+    "Code": "CN17-BYRM01"
+  },
+  {
+    "ID": 210,
+    "Name": "Biga",
+    "Code": "CN17-BIGA01"
+  },
+  {
+    "ID": 211,
+    "Name": "Bozcaada",
+    "Code": "CN17-BZCD01"
+  },
+  {
+    "ID": 212,
+    "Name": "Eceabat",
+    "Code": "CN17-ECBT01"
+  },
+  {
+    "ID": 213,
+    "Name": "Ezine",
+    "Code": "CN17-EZNE01"
+  },
+  {
+    "ID": 214,
+    "Name": "Gelibolu",
+    "Code": "CN17-GLBL01"
+  },
+  {
+    "ID": 215,
+    "Name": "Gökçeada",
+    "Code": "CN17-GKCD01"
+  },
+  {
+    "ID": 216,
+    "Name": "Lapseki",
+    "Code": "CN17-LPSK01"
+  },
+  {
+    "ID": 217,
+    "Name": "Çanakkale Merkez",
+    "Code": "CN17-MRKZ01"
+  },
+  {
+    "ID": 218,
+    "Name": "Yenice",
+    "Code": "CN17-YNCE01"
+  },
+  {
+    "ID": 219,
+    "Name": "Çan",
+    "Code": "CN17-CAN01"
+  },
+  {
+    "ID": 225,
+    "Name": "Atkaracalar",
+    "Code": "CK18-ATKR01"
+  },
+  {
+    "ID": 226,
+    "Name": "Bayramören",
+    "Code": "CK18-BYRM01"
+  },
+  {
+    "ID": 227,
+    "Name": "Eldivan",
+    "Code": "CK18-ELDV01"
+  },
+  {
+    "ID": 228,
+    "Name": "Ilgaz",
+    "Code": "CK18-ILGZ01"
+  },
+  {
+    "ID": 229,
+    "Name": "Korgun",
+    "Code": "CK18-KRGN01"
+  },
+  {
+    "ID": 230,
+    "Name": "Kurşunlu",
+    "Code": "CK18-KRSN01"
+  },
+  {
+    "ID": 231,
+    "Name": "Kızılırmak",
+    "Code": "CK18-KZLM01"
+  },
+  {
+    "ID": 232,
+    "Name": "Çankırı Merkez",
+    "Code": "CK18-MRKZ01"
+  },
+  {
+    "ID": 233,
+    "Name": "Orta",
+    "Code": "CK18-ORTA01"
+  },
+  {
+    "ID": 234,
+    "Name": "Yapraklı",
+    "Code": "CK18-YPRK01"
+  },
+  {
+    "ID": 235,
+    "Name": "Çerkeş",
+    "Code": "CK18-CRKS01"
+  },
+  {
+    "ID": 236,
+    "Name": "Şabanözü",
+    "Code": "CK18-SBNZ01"
+  },
+  {
+    "ID": 237,
+    "Name": "Alaca",
+    "Code": "CR19-ALAC01"
+  },
+  {
+    "ID": 238,
+    "Name": "Bayat",
+    "Code": "CR19-BYAT01"
+  },
+  {
+    "ID": 239,
+    "Name": "Boğazkale",
+    "Code": "CR19-BGZK01"
+  },
+  {
+    "ID": 240,
+    "Name": "Dodurga",
+    "Code": "CR19-DDRG01"
+  },
+  {
+    "ID": 241,
+    "Name": "Kargı",
+    "Code": "CR19-KARG01"
+  },
+  {
+    "ID": 242,
+    "Name": "Laçin",
+    "Code": "CR19-LACN01"
+  },
+  {
+    "ID": 243,
+    "Name": "Mecitözü",
+    "Code": "CR19-MCTZ01"
+  },
+  {
+    "ID": 244,
+    "Name": "Çorum Merkez",
+    "Code": "CR19-MRKZ01"
+  },
+  {
+    "ID": 245,
+    "Name": "Ortaköy",
+    "Code": "CR19-ORTK01"
+  },
+  {
+    "ID": 246,
+    "Name": "Osmancık",
+    "Code": "CR19-OSMN01"
+  },
+  {
+    "ID": 247,
+    "Name": "Oğuzlar",
+    "Code": "CR19-OGUZ01"
+  },
+  {
+    "ID": 248,
+    "Name": "Sungurlu",
+    "Code": "CR19-SNGR01"
+  },
+  {
+    "ID": 249,
+    "Name": "Uğurludağ",
+    "Code": "CR19-UGRL01"
+  },
+  {
+    "ID": 250,
+    "Name": "İskilip",
+    "Code": "CR19-ISKLP01"
+  },
+  {
+    "ID": 251,
+    "Name": "Acıpayam",
+    "Code": "DN20-ACPM01"
+  },
+  {
+    "ID": 252,
+    "Name": "Babadağ",
+    "Code": "DN20-BBDG01"
+  },
+  {
+    "ID": 253,
+    "Name": "Baklan",
+    "Code": "DN20-BKLN01"
+  },
+  {
+    "ID": 254,
+    "Name": "Bekilli",
+    "Code": "DN20-BKLL01"
+  },
+  {
+    "ID": 255,
+    "Name": "Beyağaç",
+    "Code": "DN20-BYGC01"
+  },
+  {
+    "ID": 256,
+    "Name": "Bozkurt",
+    "Code": "DN20-BZKT01"
+  },
+  {
+    "ID": 257,
+    "Name": "Buldan",
+    "Code": "DN20-BLDN01"
+  },
+  {
+    "ID": 258,
+    "Name": "Güney",
+    "Code": "DN20-GNEY01"
+  },
+  {
+    "ID": 259,
+    "Name": "Honaz",
+    "Code": "DN20-HNZ01"
+  },
+  {
+    "ID": 260,
+    "Name": "Kale",
+    "Code": "DN20-KALE01"
+  },
+  {
+    "ID": 261,
+    "Name": "Merkezefendi",
+    "Code": "DN20-MRKF01"
+  },
+  {
+    "ID": 262,
+    "Name": "Pamukkale",
+    "Code": "DN20-PMKK01"
+  },
+  {
+    "ID": 263,
+    "Name": "Sarayköy",
+    "Code": "DN20-SRKK01"
+  },
+  {
+    "ID": 264,
+    "Name": "Serinhisar",
+    "Code": "DN20-SRNH01"
+  },
+  {
+    "ID": 265,
+    "Name": "Tavas",
+    "Code": "DN20-TAVS01"
+  },
+  {
+    "ID": 266,
+    "Name": "Çal",
+    "Code": "DN20-CAL01"
+  },
+  {
+    "ID": 267,
+    "Name": "Çameli",
+    "Code": "DN20-CMLI01"
+  },
+  {
+    "ID": 268,
+    "Name": "Çardak",
+    "Code": "DN20-CRDK01"
+  },
+  {
+    "ID": 269,
+    "Name": "Çivril",
+    "Code": "DN20-CVRL01"
+  },
+  {
+    "ID": 270,
+    "Name": "Bağlar",
+    "Code": "DY21-BGLR01"
+  },
+  {
+    "ID": 271,
+    "Name": "Bismil",
+    "Code": "DY21-BSML01"
+  },
+  {
+    "ID": 272,
+    "Name": "Dicle",
+    "Code": "DY21-DCL01"
+  },
+  {
+    "ID": 273,
+    "Name": "Ergani",
+    "Code": "DY21-ERGN01"
+  },
+  {
+    "ID": 274,
+    "Name": "Eğil",
+    "Code": "DY21-EGIL01"
+  },
+  {
+    "ID": 275,
+    "Name": "Hani",
+    "Code": "DY21-HANI01"
+  },
+  {
+    "ID": 276,
+    "Name": "Hazro",
+    "Code": "DY21-HAZR01"
+  },
+  {
+    "ID": 277,
+    "Name": "Kayapınar",
+    "Code": "DY21-KYPN01"
+  },
+  {
+    "ID": 278,
+    "Name": "Kocaköy",
+    "Code": "DY21-KCKY01"
+  },
+  {
+    "ID": 279,
+    "Name": "Kulp",
+    "Code": "DY21-KULP01"
+  },
+  {
+    "ID": 280,
+    "Name": "Lice",
+    "Code": "DY21-LICE01"
+  },
+  {
+    "ID": 281,
+    "Name": "Silvan",
+    "Code": "DY21-SLVN01"
+  },
+  {
+    "ID": 282,
+    "Name": "Sur",
+    "Code": "DY21-SUR01"
+  },
+  {
+    "ID": 283,
+    "Name": "Yenişehir",
+    "Code": "DY21-YNHR01"
+  },
+  {
+    "ID": 284,
+    "Name": "Çermik",
+    "Code": "DY21-CRMK01"
+  },
+  {
+    "ID": 285,
+    "Name": "Çüngüş",
+    "Code": "DY21-CNGS01"
+  },
+  {
+    "ID": 286,
+    "Name": "Çınar",
+    "Code": "DY21-CINR01"
+  },
+  {
+    "ID": 287,
+    "Name": "Enez",
+    "Code": "ED22-ENEZ01"
+  },
+  {
+    "ID": 288,
+    "Name": "Havsa",
+    "Code": "ED22-HAVS01"
+  },
+  {
+    "ID": 289,
+    "Name": "Keşan",
+    "Code": "ED22-KESN01"
+  },
+  {
+    "ID": 290,
+    "Name": "Lalapaşa",
+    "Code": "ED22-LALA01"
+  },
+  {
+    "ID": 291,
+    "Name": "Meriç",
+    "Code": "ED22-MERC01"
+  },
+  {
+    "ID": 292,
+    "Name": "Edirne Merkez",
+    "Code": "ED22-MRKZ01"
+  },
+  {
+    "ID": 293,
+    "Name": "Süloğlu",
+    "Code": "ED22-SULO01"
+  },
+  {
+    "ID": 294,
+    "Name": "Uzunköprü",
+    "Code": "ED22-UZKP01"
+  },
+  {
+    "ID": 295,
+    "Name": "İpsala",
+    "Code": "ED22-IPS01"
+  },
+  {
+    "ID": 296,
+    "Name": "Alacakaya",
+    "Code": "EL23-ALCK01"
+  },
+  {
+    "ID": 297,
+    "Name": "Arıcak",
+    "Code": "EL23-ARCK01"
+  },
+  {
+    "ID": 298,
+    "Name": "Ağın",
+    "Code": "EL23-AGIN01"
+  },
+  {
+    "ID": 299,
+    "Name": "Baskil",
+    "Code": "EL23-BSKL01"
+  },
+  {
+    "ID": 300,
+    "Name": "Karakoçan",
+    "Code": "EL23-KRKC01"
+  },
+  {
+    "ID": 301,
+    "Name": "Keban",
+    "Code": "EL23-KEBN01"
+  },
+  {
+    "ID": 302,
+    "Name": "Kovancılar",
+    "Code": "EL23-KVNC01"
+  },
+  {
+    "ID": 303,
+    "Name": "Maden",
+    "Code": "EL23-MADN01"
+  },
+  {
+    "ID": 304,
+    "Name": "Elazığ Merkez",
+    "Code": "EL23-MRKZ01"
+  },
+  {
+    "ID": 305,
+    "Name": "Palu",
+    "Code": "EL23-PALU01"
+  },
+  {
+    "ID": 306,
+    "Name": "Sivrice",
+    "Code": "EL23-SVRC01"
+  },
+  {
+    "ID": 307,
+    "Name": "Kemah",
+    "Code": "ER24-KEMH01"
+  },
+  {
+    "ID": 308,
+    "Name": "Kemaliye",
+    "Code": "ER24-KMLY01"
+  },
+  {
+    "ID": 309,
+    "Name": "Erzincan Merkez",
+    "Code": "ER24-MRKZ01"
+  },
+  {
+    "ID": 310,
+    "Name": "Otlukbeli",
+    "Code": "ER24-OTLK01"
+  },
+  {
+    "ID": 311,
+    "Name": "Refahiye",
+    "Code": "ER24-RFHY01"
+  },
+  {
+    "ID": 312,
+    "Name": "Tercan",
+    "Code": "ER24-TRCN01"
+  },
+  {
+    "ID": 313,
+    "Name": "Çayırlı",
+    "Code": "ER24-CYRL01"
+  },
+  {
+    "ID": 314,
+    "Name": "Üzümlü",
+    "Code": "ER24-UZML01"
+  },
+  {
+    "ID": 315,
+    "Name": "İliç",
+    "Code": "ER24-ILIC01"
+  },
+  {
+    "ID": 316,
+    "Name": "Aziziye",
+    "Code": "ER25-AZIZ01"
+  },
+  {
+    "ID": 317,
+    "Name": "Aşkale",
+    "Code": "ER25-ASKL01"
+  },
+  {
+    "ID": 318,
+    "Name": "Horasan",
+    "Code": "ER25-HRSN01"
+  },
+  {
+    "ID": 319,
+    "Name": "Hınıs",
+    "Code": "ER25-HINS01"
+  },
+  {
+    "ID": 320,
+    "Name": "Karayazı",
+    "Code": "ER25-KRYZ01"
+  },
+  {
+    "ID": 321,
+    "Name": "Karaçoban",
+    "Code": "ER25-KRCB01"
+  },
+  {
+    "ID": 322,
+    "Name": "Köprüköy",
+    "Code": "ER25-KPRK01"
+  },
+  {
+    "ID": 323,
+    "Name": "Narman",
+    "Code": "ER25-NRMN01"
+  },
+  {
+    "ID": 324,
+    "Name": "Oltu",
+    "Code": "ER25-OLTU01"
+  },
+  {
+    "ID": 325,
+    "Name": "Olur",
+    "Code": "ER25-OLUR01"
+  },
+  {
+    "ID": 326,
+    "Name": "Palandöken",
+    "Code": "ER25-PLND01"
+  },
+  {
+    "ID": 327,
+    "Name": "Pasinler",
+    "Code": "ER25-PSNL01"
+  },
+  {
+    "ID": 328,
+    "Name": "Pazaryolu",
+    "Code": "ER25-PZRY01"
+  },
+  {
+    "ID": 329,
+    "Name": "Tekman",
+    "Code": "ER25-TKMN01"
+  },
+  {
+    "ID": 330,
+    "Name": "Tortum",
+    "Code": "ER25-TRTM01"
+  },
+  {
+    "ID": 331,
+    "Name": "Uzundere",
+    "Code": "ER25-UZDR01"
+  },
+  {
+    "ID": 332,
+    "Name": "Yakutiye",
+    "Code": "ER25-YKTY01"
+  },
+  {
+    "ID": 333,
+    "Name": "Çat",
+    "Code": "ER25-CAT01"
+  },
+  {
+    "ID": 334,
+    "Name": "İspir",
+    "Code": "ER25-ISPR01"
+  },
+  {
+    "ID": 335,
+    "Name": "Şenkaya",
+    "Code": "ER25-SNKY01"
+  },
+  {
+    "ID": 336,
+    "Name": "Alpu",
+    "Code": "ES26-ALPU01"
+  },
+  {
+    "ID": 337,
+    "Name": "Beylikova",
+    "Code": "ES26-BYLK01"
+  },
+  {
+    "ID": 338,
+    "Name": "Günyüzü",
+    "Code": "ES26-GNYZ01"
+  },
+  {
+    "ID": 339,
+    "Name": "Han",
+    "Code": "ES26-HAN01"
+  },
+  {
+    "ID": 340,
+    "Name": "Mahmudiye",
+    "Code": "ES26-MHMD01"
+  },
+  {
+    "ID": 341,
+    "Name": "Mihalgazi",
+    "Code": "ES26-MHLG01"
+  },
+  {
+    "ID": 342,
+    "Name": "Mihalıççık",
+    "Code": "ES26-MHLC01"
+  },
+  {
+    "ID": 343,
+    "Name": "Odunpazarı",
+    "Code": "ES26-ODNP01"
+  },
+  {
+    "ID": 344,
+    "Name": "Sarıcakaya",
+    "Code": "ES26-SRCK01"
+  },
+  {
+    "ID": 345,
+    "Name": "Seyitgazi",
+    "Code": "ES26-SYTG01"
+  },
+  {
+    "ID": 346,
+    "Name": "Sivrihisar",
+    "Code": "ES26-SVRH01"
+  },
+  {
+    "ID": 347,
+    "Name": "Tepebaşı",
+    "Code": "ES26-TPBS01"
+  },
+  {
+    "ID": 348,
+    "Name": "Çifteler",
+    "Code": "ES26-CFTL01"
+  },
+  {
+    "ID": 349,
+    "Name": "İnönü",
+    "Code": "ES26-INON01"
+  },
+  {
+    "ID": 350,
+    "Name": "Araban",
+    "Code": "GZ27-ARBN01"
+  },
+  {
+    "ID": 351,
+    "Name": "Karkamış",
+    "Code": "GZ27-KRKM01"
+  },
+  {
+    "ID": 352,
+    "Name": "Nizip",
+    "Code": "GZ27-NIZP01"
+  },
+  {
+    "ID": 353,
+    "Name": "Nurdağı",
+    "Code": "GZ27-NRDA01"
+  },
+  {
+    "ID": 354,
+    "Name": "Oğuzeli",
+    "Code": "GZ27-OGUZ01"
+  },
+  {
+    "ID": 355,
+    "Name": "Yavuzeli",
+    "Code": "GZ27-YVZL01"
+  },
+  {
+    "ID": 356,
+    "Name": "İslahiye",
+    "Code": "GZ27-ISLH01"
+  },
+  {
+    "ID": 357,
+    "Name": "Şahinbey",
+    "Code": "GZ27-SHNB01"
+  },
+  {
+    "ID": 358,
+    "Name": "Şehitkamil",
+    "Code": "GZ27-SHTK01"
+  },
+  {
+    "ID": 359,
+    "Name": "Alucra",
+    "Code": "GR28-ALCR01"
+  },
+  {
+    "ID": 360,
+    "Name": "Bulancak",
+    "Code": "GR28-BLNC01"
+  },
+  {
+    "ID": 361,
+    "Name": "Dereli",
+    "Code": "GR28-DRLI01"
+  },
+  {
+    "ID": 362,
+    "Name": "Doğankent",
+    "Code": "GR28-DGNK01"
+  },
+  {
+    "ID": 363,
+    "Name": "Espiye",
+    "Code": "GR28-ESPY01"
+  },
+  {
+    "ID": 364,
+    "Name": "Eynesil",
+    "Code": "GR28-EYNS01"
+  },
+  {
+    "ID": 365,
+    "Name": "Görele",
+    "Code": "GR28-GORL01"
+  },
+  {
+    "ID": 366,
+    "Name": "Güce",
+    "Code": "GR28-GUCE01"
+  },
+  {
+    "ID": 367,
+    "Name": "Keşap",
+    "Code": "GR28-KESP01"
+  },
+  {
+    "ID": 368,
+    "Name": "Giresun Merkez",
+    "Code": "GR28-MRKZ01"
+  },
+  {
+    "ID": 369,
+    "Name": "Piraziz",
+    "Code": "GR28-PRZZ01"
+  },
+  {
+    "ID": 370,
+    "Name": "Tirebolu",
+    "Code": "GR28-TRBL01"
+  },
+  {
+    "ID": 371,
+    "Name": "Yağlıdere",
+    "Code": "GR28-YGLD01"
+  },
+  {
+    "ID": 372,
+    "Name": "Çamoluk",
+    "Code": "GR28-CMLK01"
+  },
+  {
+    "ID": 373,
+    "Name": "Çanakçı",
+    "Code": "GR28-CNKC01"
+  },
+  {
+    "ID": 374,
+    "Name": "Şebinkarahisar",
+    "Code": "GR28-SBNK01"
+  },
+  {
+    "ID": 375,
+    "Name": "Kelkit",
+    "Code": "GM29-KLKT01"
+  },
+  {
+    "ID": 376,
+    "Name": "Köse",
+    "Code": "GM29-KOSE01"
+  },
+  {
+    "ID": 377,
+    "Name": "Kürtün",
+    "Code": "GM29-KRTN01"
+  },
+  {
+    "ID": 378,
+    "Name": "Gümüşhane Merkez",
+    "Code": "GM29-MRKZ01"
+  },
+  {
+    "ID": 379,
+    "Name": "Torul",
+    "Code": "GM29-TRUL01"
+  },
+  {
+    "ID": 380,
+    "Name": "Şiran",
+    "Code": "GM29-SHRN01"
+  },
+  {
+    "ID": 381,
+    "Name": "Derecik",
+    "Code": "HK30-DRCK01"
+  },
+  {
+    "ID": 382,
+    "Name": "Hakkâri Merkez",
+    "Code": "HK30-MRKZ01"
+  },
+  {
+    "ID": 383,
+    "Name": "Yüksekova",
+    "Code": "HK30-YKSK01"
+  },
+  {
+    "ID": 384,
+    "Name": "Çukurca",
+    "Code": "HK30-CKRC01"
+  },
+  {
+    "ID": 385,
+    "Name": "Şemdinli",
+    "Code": "HK30-SMDN01"
+  },
+  {
+    "ID": 386,
+    "Name": "Altınözü",
+    "Code": "HT31-ALTN01"
+  },
+  {
+    "ID": 387,
+    "Name": "Antakya",
+    "Code": "HT31-ANTK01"
+  },
+  {
+    "ID": 388,
+    "Name": "Arsuz",
+    "Code": "HT31-ARSZ01"
+  },
+  {
+    "ID": 389,
+    "Name": "Belen",
+    "Code": "HT31-BELN01"
+  },
+  {
+    "ID": 390,
+    "Name": "Defne",
+    "Code": "HT31-DEFN01"
+  },
+  {
+    "ID": 391,
+    "Name": "Dörtyol",
+    "Code": "HT31-DRTY01"
+  },
+  {
+    "ID": 392,
+    "Name": "Erzin",
+    "Code": "HT31-ERZN01"
+  },
+  {
+    "ID": 393,
+    "Name": "Hassa",
+    "Code": "HT31-HSSA01"
+  },
+  {
+    "ID": 394,
+    "Name": "Kumlu",
+    "Code": "HT31-KUML01"
+  },
+  {
+    "ID": 395,
+    "Name": "Kırıkhan",
+    "Code": "HT31-KRKH01"
+  },
+  {
+    "ID": 396,
+    "Name": "Payas",
+    "Code": "HT31-PAYS01"
+  },
+  {
+    "ID": 397,
+    "Name": "Reyhanlı",
+    "Code": "HT31-RYHN01"
+  },
+  {
+    "ID": 398,
+    "Name": "Samandağ",
+    "Code": "HT31-SMND01"
+  },
+  {
+    "ID": 399,
+    "Name": "Yayladağı",
+    "Code": "HT31-YYLD01"
+  },
+  {
+    "ID": 400,
+    "Name": "İskenderun",
+    "Code": "HT31-ISKN01"
+  },
+  {
+    "ID": 401,
+    "Name": "Aksu",
+    "Code": "IS32-AKSU01"
+  },
+  {
+    "ID": 402,
+    "Name": "Atabey",
+    "Code": "IS32-ATBY01"
+  },
+  {
+    "ID": 403,
+    "Name": "Eğirdir",
+    "Code": "IS32-EGRD01"
+  },
+  {
+    "ID": 404,
+    "Name": "Gelendost",
+    "Code": "IS32-GLND01"
+  },
+  {
+    "ID": 405,
+    "Name": "Gönen",
+    "Code": "IS32-GONN01"
+  },
+  {
+    "ID": 406,
+    "Name": "Keçiborlu",
+    "Code": "IS32-KCBR01"
+  },
+  {
+    "ID": 407,
+    "Name": "Isparta Merkez",
+    "Code": "IS32-MRKZ01"
+  },
+  {
+    "ID": 408,
+    "Name": "Senirkent",
+    "Code": "IS32-SNRK01"
+  },
+  {
+    "ID": 409,
+    "Name": "Sütçüler",
+    "Code": "IS32-STCL01"
+  },
+  {
+    "ID": 410,
+    "Name": "Uluborlu",
+    "Code": "IS32-ULUB01"
+  },
+  {
+    "ID": 411,
+    "Name": "Yalvaç",
+    "Code": "IS32-YLVC01"
+  },
+  {
+    "ID": 412,
+    "Name": "Yenişarbademli",
+    "Code": "IS32-YNBD01"
+  },
+  {
+    "ID": 413,
+    "Name": "Şarkikaraağaç",
+    "Code": "IS32-SRKK01"
+  },
+  {
+    "ID": 414,
+    "Name": "Akdeniz",
+    "Code": "MR33-AKDN01"
+  },
+  {
+    "ID": 415,
+    "Name": "Anamur",
+    "Code": "MR33-ANMR01"
+  },
+  {
+    "ID": 416,
+    "Name": "Aydıncık",
+    "Code": "MR33-AYDK01"
+  },
+  {
+    "ID": 417,
+    "Name": "Bozyazı",
+    "Code": "MR33-BZYZ01"
+  },
+  {
+    "ID": 418,
+    "Name": "Erdemli",
+    "Code": "MR33-ERDM01"
+  },
+  {
+    "ID": 419,
+    "Name": "Gülnar",
+    "Code": "MR33-GULN01"
+  },
+  {
+    "ID": 420,
+    "Name": "Mezitli",
+    "Code": "MR33-MZTL01"
+  },
+  {
+    "ID": 421,
+    "Name": "Mut",
+    "Code": "MR33-MUT01"
+  },
+  {
+    "ID": 422,
+    "Name": "Silifke",
+    "Code": "MR33-SLFK01"
+  },
+  {
+    "ID": 423,
+    "Name": "Tarsus",
+    "Code": "MR33-TRSS01"
+  },
+  {
+    "ID": 424,
+    "Name": "Toroslar",
+    "Code": "MR33-TRSL01"
+  },
+  {
+    "ID": 425,
+    "Name": "Yenişehir",
+    "Code": "MR33-YNHR01"
+  },
+  {
+    "ID": 426,
+    "Name": "Çamlıyayla",
+    "Code": "MR33-CMLY01"
+  },
+  {
+    "ID": 427,
+    "Name": "Adalar",
+    "Code": "IST34-ADLR01"
+  },
+  {
+    "ID": 428,
+    "Name": "Arnavutköy",
+    "Code": "IST34-ARNV01"
+  },
+  {
+    "ID": 429,
+    "Name": "Ataşehir",
+    "Code": "IST34-ATSH01"
+  },
+  {
+    "ID": 430,
+    "Name": "Avcılar",
+    "Code": "IST34-AVCL01"
+  },
+  {
+    "ID": 431,
+    "Name": "Bahçelievler",
+    "Code": "IST34-BHCL01"
+  },
+  {
+    "ID": 432,
+    "Name": "Bakırköy",
+    "Code": "IST34-BKRK01"
+  },
+  {
+    "ID": 433,
+    "Name": "Bayrampaşa",
+    "Code": "IST34-BYRP01"
+  },
+  {
+    "ID": 434,
+    "Name": "Bağcılar",
+    "Code": "IST34-BGCL01"
+  },
+  {
+    "ID": 435,
+    "Name": "Başakşehir",
+    "Code": "IST34-BSKH01"
+  },
+  {
+    "ID": 436,
+    "Name": "Beykoz",
+    "Code": "IST34-BYKZ01"
+  },
+  {
+    "ID": 437,
+    "Name": "Beylikdüzü",
+    "Code": "IST34-BYLD01"
+  },
+  {
+    "ID": 438,
+    "Name": "Beyoğlu",
+    "Code": "IST34-BYGL01"
+  },
+  {
+    "ID": 439,
+    "Name": "Beşiktaş",
+    "Code": "IST34-BSST01"
+  },
+  {
+    "ID": 440,
+    "Name": "Büyükçekmece",
+    "Code": "IST34-BYKC01"
+  },
+  {
+    "ID": 441,
+    "Name": "Esenler",
+    "Code": "IST34-ESNL01"
+  },
+  {
+    "ID": 442,
+    "Name": "Esenyurt",
+    "Code": "IST34-ESNY01"
+  },
+  {
+    "ID": 443,
+    "Name": "Eyüpsultan",
+    "Code": "IST34-EYUP01"
+  },
+  {
+    "ID": 444,
+    "Name": "Fatih",
+    "Code": "IST34-FTH01"
+  },
+  {
+    "ID": 445,
+    "Name": "Gaziosmanpaşa",
+    "Code": "IST34-GZOS01"
+  },
+  {
+    "ID": 446,
+    "Name": "Güngören",
+    "Code": "IST34-GNGR01"
+  },
+  {
+    "ID": 447,
+    "Name": "Kadıköy",
+    "Code": "IST34-KDKY01"
+  },
+  {
+    "ID": 448,
+    "Name": "Kartal",
+    "Code": "IST34-KRTL01"
+  },
+  {
+    "ID": 449,
+    "Name": "Kağıthane",
+    "Code": "IST34-KGTH01"
+  },
+  {
+    "ID": 450,
+    "Name": "Küçükçekmece",
+    "Code": "IST34-KCKC01"
+  },
+  {
+    "ID": 451,
+    "Name": "Maltepe",
+    "Code": "IST34-MLTP01"
+  },
+  {
+    "ID": 452,
+    "Name": "Pendik",
+    "Code": "IST34-PNDK01"
+  },
+  {
+    "ID": 453,
+    "Name": "Sancaktepe",
+    "Code": "IST34-SNCK01"
+  },
+  {
+    "ID": 454,
+    "Name": "Sarıyer",
+    "Code": "IST34-SRYR01"
+  },
+  {
+    "ID": 455,
+    "Name": "Silivri",
+    "Code": "IST34-SLVR01"
+  },
+  {
+    "ID": 456,
+    "Name": "Sultanbeyli",
+    "Code": "IST34-SLTB01"
+  },
+  {
+    "ID": 457,
+    "Name": "Sultangazi",
+    "Code": "IST34-SLTG01"
+  },
+  {
+    "ID": 458,
+    "Name": "Tuzla",
+    "Code": "IST34-TUZL01"
+  },
+  {
+    "ID": 459,
+    "Name": "Zeytinburnu",
+    "Code": "IST34-ZYTB01"
+  },
+  {
+    "ID": 460,
+    "Name": "Çatalca",
+    "Code": "IST34-CTLC01"
+  },
+  {
+    "ID": 461,
+    "Name": "Çekmeköy",
+    "Code": "IST34-CKMK01"
+  },
+  {
+    "ID": 462,
+    "Name": "Ümraniye",
+    "Code": "IST34-UMRN01"
+  },
+  {
+    "ID": 463,
+    "Name": "Üsküdar",
+    "Code": "IST34-USKD01"
+  },
+  {
+    "ID": 464,
+    "Name": "Şile",
+    "Code": "IST34-SILE01"
+  },
+  {
+    "ID": 465,
+    "Name": "Şişli",
+    "Code": "IST34-SISL01"
+  },
+  {
+    "ID": 466,
+    "Name": "Aliağa",
+    "Code": "IZ35-ALIG01"
+  },
+  {
+    "ID": 467,
+    "Name": "Balçova",
+    "Code": "IZ35-BLCV01"
+  },
+  {
+    "ID": 468,
+    "Name": "Bayraklı",
+    "Code": "IZ35-BYRK01"
+  },
+  {
+    "ID": 469,
+    "Name": "Bayındır",
+    "Code": "IZ35-BYND01"
+  },
+  {
+    "ID": 470,
+    "Name": "Bergama",
+    "Code": "IZ35-BRGM01"
+  },
+  {
+    "ID": 471,
+    "Name": "Beydağ",
+    "Code": "IZ35-BYDG01"
+  },
+  {
+    "ID": 472,
+    "Name": "Bornova",
+    "Code": "IZ35-BRNV01"
+  },
+  {
+    "ID": 473,
+    "Name": "Buca",
+    "Code": "IZ35-BUCA01"
+  },
+  {
+    "ID": 474,
+    "Name": "Dikili",
+    "Code": "IZ35-DIKL01"
+  },
+  {
+    "ID": 475,
+    "Name": "Foça",
+    "Code": "IZ35-FOCA01"
+  },
+  {
+    "ID": 476,
+    "Name": "Gaziemir",
+    "Code": "IZ35-GZMR01"
+  },
+  {
+    "ID": 477,
+    "Name": "Güzelbahçe",
+    "Code": "IZ35-GZLB01"
+  },
+  {
+    "ID": 478,
+    "Name": "Karabağlar",
+    "Code": "IZ35-KRBG01"
+  },
+  {
+    "ID": 479,
+    "Name": "Karaburun",
+    "Code": "IZ35-KRBN01"
+  },
+  {
+    "ID": 480,
+    "Name": "Karşıyaka",
+    "Code": "IZ35-KRSY01"
+  },
+  {
+    "ID": 481,
+    "Name": "Kemalpaşa",
+    "Code": "IZ35-KMLP01"
+  },
+  {
+    "ID": 482,
+    "Name": "Kiraz",
+    "Code": "IZ35-KIRZ01"
+  },
+  {
+    "ID": 483,
+    "Name": "Konak",
+    "Code": "IZ35-KONK01"
+  },
+  {
+    "ID": 484,
+    "Name": "Kınık",
+    "Code": "IZ35-KINK01"
+  },
+  {
+    "ID": 485,
+    "Name": "Menderes",
+    "Code": "IZ35-MNDR01"
+  },
+  {
+    "ID": 486,
+    "Name": "Menemen",
+    "Code": "IZ35-MNEM01"
+  },
+  {
+    "ID": 487,
+    "Name": "Narlıdere",
+    "Code": "IZ35-NRLD01"
+  },
+  {
+    "ID": 488,
+    "Name": "Seferihisar",
+    "Code": "IZ35-SFRH01"
+  },
+  {
+    "ID": 489,
+    "Name": "Selçuk",
+    "Code": "IZ35-SLCK01"
+  },
+  {
+    "ID": 490,
+    "Name": "Tire",
+    "Code": "IZ35-TIRE01"
+  },
+  {
+    "ID": 491,
+    "Name": "Torbalı",
+    "Code": "IZ35-TRBL01"
+  },
+  {
+    "ID": 492,
+    "Name": "Urla",
+    "Code": "IZ35-URLA01"
+  },
+  {
+    "ID": 493,
+    "Name": "Çeşme",
+    "Code": "IZ35-CESM01"
+  },
+  {
+    "ID": 494,
+    "Name": "Çiğli",
+    "Code": "IZ35-CIGL01"
+  },
+  {
+    "ID": 495,
+    "Name": "Ödemiş",
+    "Code": "IZ35-ODMS01"
+  },
+  {
+    "ID": 497,
+    "Name": "Akyaka",
+    "Code": "KR36-AKYK01"
+  },
+  {
+    "ID": 498,
+    "Name": "Arpaçay",
+    "Code": "KR36-ARPC01"
+  },
+  {
+    "ID": 499,
+    "Name": "Digor",
+    "Code": "KR36-DIGR01"
+  },
+  {
+    "ID": 500,
+    "Name": "Kağızman",
+    "Code": "KR36-KGZM01"
+  },
+  {
+    "ID": 501,
+    "Name": "Kars Merkez",
+    "Code": "KR36-MRKZ01"
+  },
+  {
+    "ID": 502,
+    "Name": "Sarıkamış",
+    "Code": "KR36-SRKM01"
+  },
+  {
+    "ID": 503,
+    "Name": "Selim",
+    "Code": "KR36-SELIM01"
+  },
+  {
+    "ID": 504,
+    "Name": "Susuz",
+    "Code": "KR36-SUSZ01"
+  },
+  {
+    "ID": 505,
+    "Name": "Abana",
+    "Code": "KS37-ABAN01"
+  },
+  {
+    "ID": 506,
+    "Name": "Araç",
+    "Code": "KS37-ARAC01"
+  },
+  {
+    "ID": 507,
+    "Name": "Azdavay",
+    "Code": "KS37-AZDV01"
+  },
+  {
+    "ID": 508,
+    "Name": "Ağlı",
+    "Code": "KS37-AGLI01"
+  },
+  {
+    "ID": 509,
+    "Name": "Bozkurt",
+    "Code": "KS37-BZKT01"
+  },
+  {
+    "ID": 510,
+    "Name": "Cide",
+    "Code": "KS37-CIDE01"
+  },
+  {
+    "ID": 511,
+    "Name": "Daday",
+    "Code": "KS37-DADY01"
+  },
+  {
+    "ID": 512,
+    "Name": "Devrekani",
+    "Code": "KS37-DVRK01"
+  },
+  {
+    "ID": 513,
+    "Name": "Doğanyurt",
+    "Code": "KS37-DGNY01"
+  },
+  {
+    "ID": 514,
+    "Name": "Hanönü",
+    "Code": "KS37-HNON01"
+  },
+  {
+    "ID": 515,
+    "Name": "Küre",
+    "Code": "KS37-KURE01"
+  },
+  {
+    "ID": 516,
+    "Name": "Kastamonu Merkez",
+    "Code": "KS37-MRKZ01"
+  },
+  {
+    "ID": 517,
+    "Name": "Pınarbaşı",
+    "Code": "KS37-PNRB01"
+  },
+  {
+    "ID": 518,
+    "Name": "Seydiler",
+    "Code": "KS37-SYDL01"
+  },
+  {
+    "ID": 519,
+    "Name": "Taşköprü",
+    "Code": "KS37-TSKP01"
+  },
+  {
+    "ID": 520,
+    "Name": "Tosya",
+    "Code": "KS37-TOSY01"
+  },
+  {
+    "ID": 521,
+    "Name": "Çatalzeytin",
+    "Code": "KS37-CTZY01"
+  },
+  {
+    "ID": 522,
+    "Name": "İhsangazi",
+    "Code": "KS37-IHSG01"
+  },
+  {
+    "ID": 523,
+    "Name": "İnebolu",
+    "Code": "KS37-INEB01"
+  },
+  {
+    "ID": 524,
+    "Name": "Şenpazar",
+    "Code": "KS37-SNPZ01"
+  },
+  {
+    "ID": 525,
+    "Name": "Akkışla",
+    "Code": "KS38-AKKS01"
+  },
+  {
+    "ID": 526,
+    "Name": "Bünyan",
+    "Code": "KS38-BUNY01"
+  },
+  {
+    "ID": 527,
+    "Name": "Develi",
+    "Code": "KS38-DEVL01"
+  },
+  {
+    "ID": 528,
+    "Name": "Felahiye",
+    "Code": "KS38-FLHY01"
+  },
+  {
+    "ID": 529,
+    "Name": "Hacılar",
+    "Code": "KS38-HCLR01"
+  },
+  {
+    "ID": 530,
+    "Name": "Kocasinan",
+    "Code": "KS38-KCSN01"
+  },
+  {
+    "ID": 531,
+    "Name": "Melikgazi",
+    "Code": "KS38-MLKG01"
+  },
+  {
+    "ID": 532,
+    "Name": "Pınarbaşı",
+    "Code": "KS38-PNBS01"
+  },
+  {
+    "ID": 533,
+    "Name": "Sarıoğlan",
+    "Code": "KS38-SRGL01"
+  },
+  {
+    "ID": 534,
+    "Name": "Sarız",
+    "Code": "KS38-SRZ01"
+  },
+  {
+    "ID": 535,
+    "Name": "Talas",
+    "Code": "KS38-TALS01"
+  },
+  {
+    "ID": 536,
+    "Name": "Tomarza",
+    "Code": "KS38-TMRZ01"
+  },
+  {
+    "ID": 537,
+    "Name": "Yahyalı",
+    "Code": "KS38-YHYL01"
+  },
+  {
+    "ID": 538,
+    "Name": "Yeşilhisar",
+    "Code": "KS38-YSLH01"
+  },
+  {
+    "ID": 539,
+    "Name": "Özvatan",
+    "Code": "KS38-OZVT01"
+  },
+  {
+    "ID": 540,
+    "Name": "İncesu",
+    "Code": "KS38-INCS01"
+  },
+  {
+    "ID": 541,
+    "Name": "Babaeski",
+    "Code": "KR39-BBES01"
+  },
+  {
+    "ID": 542,
+    "Name": "Demirköy",
+    "Code": "KR39-DMRK01"
+  },
+  {
+    "ID": 543,
+    "Name": "Kofçaz",
+    "Code": "KR39-KOFZ01"
+  },
+  {
+    "ID": 544,
+    "Name": "Lüleburgaz",
+    "Code": "KR39-LULB01"
+  },
+  {
+    "ID": 545,
+    "Name": "Kırklareli Merkez",
+    "Code": "KR39-MRKZ01"
+  },
+  {
+    "ID": 546,
+    "Name": "Pehlivanköy",
+    "Code": "KR39-PHLV01"
+  },
+  {
+    "ID": 547,
+    "Name": "Pınarhisar",
+    "Code": "KR39-PNRH01"
+  },
+  {
+    "ID": 548,
+    "Name": "Vize",
+    "Code": "KR39-VIZE01"
+  },
+  {
+    "ID": 549,
+    "Name": "Ayrancı",
+    "Code": "KM40-AYRC01"
+  },
+  {
+    "ID": 550,
+    "Name": "Başyayla",
+    "Code": "KM40-BSYL01"
+  },
+  {
+    "ID": 551,
+    "Name": "Ermenek",
+    "Code": "KM40-ERMN01"
+  },
+  {
+    "ID": 552,
+    "Name": "Kazımkarabekir",
+    "Code": "KM40-KZKR01"
+  },
+  {
+    "ID": 553,
+    "Name": "Karaman Merkez",
+    "Code": "KM40-MRKZ01"
+  },
+  {
+    "ID": 554,
+    "Name": "Sarıveliler",
+    "Code": "KM40-SRVL01"
+  },
+  {
+    "ID": 555,
+    "Name": "Başiskele",
+    "Code": "KC41-BSIS01"
+  },
+  {
+    "ID": 556,
+    "Name": "Darıca",
+    "Code": "KC41-DRCA01"
+  },
+  {
+    "ID": 557,
+    "Name": "Derince",
+    "Code": "KC41-DRNC01"
+  },
+  {
+    "ID": 558,
+    "Name": "Dilovası",
+    "Code": "KC41-DLVS01"
+  },
+  {
+    "ID": 559,
+    "Name": "Gebze",
+    "Code": "KC41-GBZE01"
+  },
+  {
+    "ID": 560,
+    "Name": "Gölcük",
+    "Code": "KC41-GLCK01"
+  },
+  {
+    "ID": 561,
+    "Name": "Kandıra",
+    "Code": "KC41-KNDR01"
+  },
+  {
+    "ID": 562,
+    "Name": "Karamürsel",
+    "Code": "KC41-KRMR01"
+  },
+  {
+    "ID": 563,
+    "Name": "Kartepe",
+    "Code": "KC41-KRTP01"
+  },
+  {
+    "ID": 564,
+    "Name": "Körfez",
+    "Code": "KC41-KRFZ01"
+  },
+  {
+    "ID": 565,
+    "Name": "Çayırova",
+    "Code": "KC41-CYRV01"
+  },
+  {
+    "ID": 566,
+    "Name": "İzmit",
+    "Code": "KC41-IZMT01"
+  },
+  {
+    "ID": 567,
+    "Name": "Akşehir",
+    "Code": "KN42-AKSH01"
+  },
+  {
+    "ID": 568,
+    "Name": "Altınekin",
+    "Code": "KN42-ALTN01"
+  },
+  {
+    "ID": 569,
+    "Name": "Beyşehir",
+    "Code": "KN42-BYSR01"
+  },
+  {
+    "ID": 570,
+    "Name": "Cihanbeyli",
+    "Code": "KN42-CHNB01"
+  },
+  {
+    "ID": 571,
+    "Name": "Derbent",
+    "Code": "KN42-DRBN01"
+  },
+  {
+    "ID": 572,
+    "Name": "Derebucak",
+    "Code": "KN42-DRBC01"
+  },
+  {
+    "ID": 573,
+    "Name": "Doğanhisar",
+    "Code": "KN42-DGNH01"
+  },
+  {
+    "ID": 574,
+    "Name": "Emirgazi",
+    "Code": "KN42-EMRG01"
+  },
+  {
+    "ID": 575,
+    "Name": "Ereğli",
+    "Code": "KN42-ERGL01"
+  },
+  {
+    "ID": 576,
+    "Name": "Güneysınır",
+    "Code": "KN42-GYSN01"
+  },
+  {
+    "ID": 577,
+    "Name": "Hadim",
+    "Code": "KN42-HADM01"
+  },
+  {
+    "ID": 578,
+    "Name": "Halkapınar",
+    "Code": "KN42-HLKP01"
+  },
+  {
+    "ID": 579,
+    "Name": "Hüyük",
+    "Code": "KN42-HUYK01"
+  },
+  {
+    "ID": 580,
+    "Name": "Ilgın",
+    "Code": "KN42-ILGN01"
+  },
+  {
+    "ID": 581,
+    "Name": "Kadınhanı",
+    "Code": "KN42-KDNH01"
+  },
+  {
+    "ID": 582,
+    "Name": "Karapınar",
+    "Code": "KN42-KRPN01"
+  },
+  {
+    "ID": 583,
+    "Name": "Karatay",
+    "Code": "KN42-KRTY01"
+  },
+  {
+    "ID": 584,
+    "Name": "Kulu",
+    "Code": "KN42-KULU01"
+  },
+  {
+    "ID": 585,
+    "Name": "Meram",
+    "Code": "KN42-MERM01"
+  },
+  {
+    "ID": 586,
+    "Name": "Sarayönü",
+    "Code": "KN42-SRYN01"
+  },
+  {
+    "ID": 587,
+    "Name": "Selçuklu",
+    "Code": "KN42-SLCK01"
+  },
+  {
+    "ID": 588,
+    "Name": "Seydişehir",
+    "Code": "KN42-SYDS01"
+  },
+  {
+    "ID": 589,
+    "Name": "Taşkent",
+    "Code": "KN42-TSKN01"
+  },
+  {
+    "ID": 590,
+    "Name": "Tuzlukçu",
+    "Code": "KN42-TZLK01"
+  },
+  {
+    "ID": 591,
+    "Name": "Yalıhüyük",
+    "Code": "KN42-YLHY01"
+  },
+  {
+    "ID": 592,
+    "Name": "Yunak",
+    "Code": "KN42-YUNK01"
+  },
+  {
+    "ID": 593,
+    "Name": "Çeltik",
+    "Code": "KN42-CLTK01"
+  },
+  {
+    "ID": 594,
+    "Name": "Çumra",
+    "Code": "KN42-CUMR01"
+  },
+  {
+    "ID": 595,
+    "Name": "Altıntaş",
+    "Code": "KT43-ALTS01"
+  },
+  {
+    "ID": 596,
+    "Name": "Aslanapa",
+    "Code": "KT43-ASLN01"
+  },
+  {
+    "ID": 597,
+    "Name": "Domaniç",
+    "Code": "KT43-DMNC01"
+  },
+  {
+    "ID": 598,
+    "Name": "Dumlupınar",
+    "Code": "KT43-DMLP01"
+  },
+  {
+    "ID": 599,
+    "Name": "Emet",
+    "Code": "KT43-EMET01"
+  },
+  {
+    "ID": 600,
+    "Name": "Gediz",
+    "Code": "KT43-GEDZ01"
+  },
+  {
+    "ID": 601,
+    "Name": "Hisarcık",
+    "Code": "KT43-HSRC01"
+  },
+  {
+    "ID": 602,
+    "Name": "Kütahya Merkez",
+    "Code": "KT43-MRKZ01"
+  },
+  {
+    "ID": 603,
+    "Name": "Pazarlar",
+    "Code": "KT43-PZRL01"
+  },
+  {
+    "ID": 604,
+    "Name": "Simav",
+    "Code": "KT43-SMAV01"
+  },
+  {
+    "ID": 605,
+    "Name": "Tavşanlı",
+    "Code": "KT43-TVSL01"
+  },
+  {
+    "ID": 606,
+    "Name": "Çavdarhisar",
+    "Code": "KT43-CVDH01"
+  },
+  {
+    "ID": 607,
+    "Name": "Şaphane",
+    "Code": "KT43-SAPH01"
+  },
+  {
+    "ID": 608,
+    "Name": "Akçadağ",
+    "Code": "ML44-AKCD01"
+  },
+  {
+    "ID": 609,
+    "Name": "Arapgir",
+    "Code": "ML44-ARPG01"
+  },
+  {
+    "ID": 610,
+    "Name": "Arguvan",
+    "Code": "ML44-ARGV01"
+  },
+  {
+    "ID": 611,
+    "Name": "Battalgazi",
+    "Code": "ML44-BTLG01"
+  },
+  {
+    "ID": 612,
+    "Name": "Darende",
+    "Code": "ML44-DRND01"
+  },
+  {
+    "ID": 613,
+    "Name": "Doğanyol",
+    "Code": "ML44-DGNY01"
+  },
+  {
+    "ID": 614,
+    "Name": "Doğanşehir",
+    "Code": "ML44-DGNS01"
+  },
+  {
+    "ID": 615,
+    "Name": "Hekimhan",
+    "Code": "ML44-HKMH01"
+  },
+  {
+    "ID": 616,
+    "Name": "Kale",
+    "Code": "ML44-KALE01"
+  },
+  {
+    "ID": 617,
+    "Name": "Kuluncak",
+    "Code": "ML44-KLNC01"
+  },
+  {
+    "ID": 618,
+    "Name": "Pütürge",
+    "Code": "ML44-PTRG01"
+  },
+  {
+    "ID": 619,
+    "Name": "Yazıhan",
+    "Code": "ML44-YZHN01"
+  },
+  {
+    "ID": 620,
+    "Name": "Yeşilyurt",
+    "Code": "ML44-YSLY01"
+  },
+  {
+    "ID": 621,
+    "Name": "Ahmetli",
+    "Code": "MN45-AHMT01"
+  },
+  {
+    "ID": 622,
+    "Name": "Akhisar",
+    "Code": "MN45-AKHS01"
+  },
+  {
+    "ID": 623,
+    "Name": "Alaşehir",
+    "Code": "MN45-ALSH01"
+  },
+  {
+    "ID": 624,
+    "Name": "Demirci",
+    "Code": "MN45-DMRC01"
+  },
+  {
+    "ID": 625,
+    "Name": "Gölmarmara",
+    "Code": "MN45-GLMM01"
+  },
+  {
+    "ID": 626,
+    "Name": "Gördes",
+    "Code": "MN45-GRDS01"
+  },
+  {
+    "ID": 627,
+    "Name": "Kula",
+    "Code": "MN45-KULA01"
+  },
+  {
+    "ID": 628,
+    "Name": "Köprübaşı",
+    "Code": "MN45-KPRB01"
+  },
+  {
+    "ID": 629,
+    "Name": "Kırkağaç",
+    "Code": "MN45-KRKG01"
+  },
+  {
+    "ID": 630,
+    "Name": "Salihli",
+    "Code": "MN45-SLHL01"
+  },
+  {
+    "ID": 631,
+    "Name": "Saruhanlı",
+    "Code": "MN45-SRHL01"
+  },
+  {
+    "ID": 632,
+    "Name": "Sarıgöl",
+    "Code": "MN45-SRGL01"
+  },
+  {
+    "ID": 633,
+    "Name": "Selendi",
+    "Code": "MN45-SLND01"
+  },
+  {
+    "ID": 634,
+    "Name": "Soma",
+    "Code": "MN45-SOMA01"
+  },
+  {
+    "ID": 635,
+    "Name": "Turgutlu",
+    "Code": "MN45-TRGT01"
+  },
+  {
+    "ID": 636,
+    "Name": "Yunusemre",
+    "Code": "MN45-YNSM01"
+  },
+  {
+    "ID": 637,
+    "Name": "Şehzadeler",
+    "Code": "MN45-SHZD01"
+  },
+  {
+    "ID": 638,
+    "Name": "Afşin",
+    "Code": "KM46-AFSN01"
+  },
+  {
+    "ID": 639,
+    "Name": "Andırın",
+    "Code": "KM46-ANDR01"
+  },
+  {
+    "ID": 640,
+    "Name": "Dulkadiroğlu",
+    "Code": "KM46-DLKD01"
+  },
+  {
+    "ID": 641,
+    "Name": "Ekinözü",
+    "Code": "KM46-EKNZ01"
+  },
+  {
+    "ID": 642,
+    "Name": "Elbistan",
+    "Code": "KM46-ELBS01"
+  },
+  {
+    "ID": 643,
+    "Name": "Göksun",
+    "Code": "KM46-GOKS01"
+  },
+  {
+    "ID": 644,
+    "Name": "Nurhak",
+    "Code": "KM46-NRHK01"
+  },
+  {
+    "ID": 645,
+    "Name": "Onikişubat",
+    "Code": "KM46-ONKS01"
+  },
+  {
+    "ID": 646,
+    "Name": "Pazarcık",
+    "Code": "KM46-PZRK01"
+  },
+  {
+    "ID": 647,
+    "Name": "Türkoğlu",
+    "Code": "KM46-TRKG01"
+  },
+  {
+    "ID": 648,
+    "Name": "Çağlayancerit",
+    "Code": "KM46-CGLY01"
+  },
+  {
+    "ID": 649,
+    "Name": "Artuklu",
+    "Code": "MR47-ARTK01"
+  },
+  {
+    "ID": 650,
+    "Name": "Dargeçit",
+    "Code": "MR47-DRGC01"
+  },
+  {
+    "ID": 651,
+    "Name": "Derik",
+    "Code": "MR47-DERK01"
+  },
+  {
+    "ID": 652,
+    "Name": "Kızıltepe",
+    "Code": "MR47-KZLT01"
+  },
+  {
+    "ID": 653,
+    "Name": "Mazıdağı",
+    "Code": "MR47-MZDG01"
+  },
+  {
+    "ID": 654,
+    "Name": "Midyat",
+    "Code": "MR47-MIDY01"
+  },
+  {
+    "ID": 655,
+    "Name": "Nusaybin",
+    "Code": "MR47-NSYB01"
+  },
+  {
+    "ID": 656,
+    "Name": "Savur",
+    "Code": "MR47-SAVR01"
+  },
+  {
+    "ID": 657,
+    "Name": "Yeşilli",
+    "Code": "MR47-YSLL01"
+  },
+  {
+    "ID": 658,
+    "Name": "Ömerli",
+    "Code": "MR47-OMRL01"
+  },
+  {
+    "ID": 659,
+    "Name": "Bodrum",
+    "Code": "MG48-BDRM01"
+  },
+  {
+    "ID": 660,
+    "Name": "Dalaman",
+    "Code": "MG48-DLMN01"
+  },
+  {
+    "ID": 661,
+    "Name": "Datça",
+    "Code": "MG48-DATC01"
+  },
+  {
+    "ID": 662,
+    "Name": "Fethiye",
+    "Code": "MG48-FTHY01"
+  },
+  {
+    "ID": 663,
+    "Name": "Kavaklıdere",
+    "Code": "MG48-KVKL01"
+  },
+  {
+    "ID": 664,
+    "Name": "Köyceğiz",
+    "Code": "MG48-KYCG01"
+  },
+  {
+    "ID": 665,
+    "Name": "Marmaris",
+    "Code": "MG48-MRMR01"
+  },
+  {
+    "ID": 666,
+    "Name": "Menteşe",
+    "Code": "MG48-MNTS01"
+  },
+  {
+    "ID": 667,
+    "Name": "Milas",
+    "Code": "MG48-MILAS01"
+  },
+  {
+    "ID": 668,
+    "Name": "Ortaca",
+    "Code": "MG48-ORTC01"
+  },
+  {
+    "ID": 669,
+    "Name": "Seydikemer",
+    "Code": "MG48-SYDK01"
+  },
+  {
+    "ID": 670,
+    "Name": "Ula",
+    "Code": "MG48-ULA01"
+  },
+  {
+    "ID": 671,
+    "Name": "Yatağan",
+    "Code": "MG48-YTGN01"
+  },
+  {
+    "ID": 672,
+    "Name": "Bulanık",
+    "Code": "MS49-BLNK01"
+  },
+  {
+    "ID": 673,
+    "Name": "Hasköy",
+    "Code": "MS49-HSKY01"
+  },
+  {
+    "ID": 674,
+    "Name": "Korkut",
+    "Code": "MS49-KRKT01"
+  },
+  {
+    "ID": 675,
+    "Name": "Malazgirt",
+    "Code": "MS49-MLZG01"
+  },
+  {
+    "ID": 676,
+    "Name": "Muş Merkez",
+    "Code": "MS49-MRKZ01"
+  },
+  {
+    "ID": 677,
+    "Name": "Varto",
+    "Code": "MS49-VART01"
+  },
+  {
+    "ID": 678,
+    "Name": "Acıgöl",
+    "Code": "NV50-ACGL01"
+  },
+  {
+    "ID": 679,
+    "Name": "Avanos",
+    "Code": "NV50-AVNS01"
+  },
+  {
+    "ID": 680,
+    "Name": "Derinkuyu",
+    "Code": "NV50-DRNK01"
+  },
+  {
+    "ID": 681,
+    "Name": "Gülşehir",
+    "Code": "NV50-GLSR01"
+  },
+  {
+    "ID": 682,
+    "Name": "Hacıbektaş",
+    "Code": "NV50-HCBK01"
+  },
+  {
+    "ID": 683,
+    "Name": "Kozaklı",
+    "Code": "NV50-KZKL01"
+  },
+  {
+    "ID": 684,
+    "Name": "Nevşehir Merkez",
+    "Code": "NV50-MRKZ01"
+  },
+  {
+    "ID": 685,
+    "Name": "Ürgüp",
+    "Code": "NV50-URGP01"
+  },
+  {
+    "ID": 686,
+    "Name": "Altunhisar",
+    "Code": "NG51-ALTN01"
+  },
+  {
+    "ID": 687,
+    "Name": "Bor",
+    "Code": "NG51-BOR01"
+  },
+  {
+    "ID": 688,
+    "Name": "Niğde Merkez",
+    "Code": "NG51-MRKZ01"
+  },
+  {
+    "ID": 689,
+    "Name": "Ulukışla",
+    "Code": "NG51-ULKS01"
+  },
+  {
+    "ID": 690,
+    "Name": "Çamardı",
+    "Code": "NG51-CMDR01"
+  },
+  {
+    "ID": 691,
+    "Name": "Çiftlik",
+    "Code": "NG51-CFTL01"
+  },
+  {
+    "ID": 692,
+    "Name": "Akkuş",
+    "Code": "OR52-AKKS01"
+  },
+  {
+    "ID": 693,
+    "Name": "Altınordu",
+    "Code": "OR52-ALTN01"
+  },
+  {
+    "ID": 694,
+    "Name": "Aybastı",
+    "Code": "OR52-AYBS01"
+  },
+  {
+    "ID": 695,
+    "Name": "Fatsa",
+    "Code": "OR52-FTSA01"
+  },
+  {
+    "ID": 696,
+    "Name": "Gölköy",
+    "Code": "OR52-GLKY01"
+  },
+  {
+    "ID": 697,
+    "Name": "Gülyalı",
+    "Code": "OR52-GLYL01"
+  },
+  {
+    "ID": 698,
+    "Name": "Gürgentepe",
+    "Code": "OR52-GRGT01"
+  },
+  {
+    "ID": 699,
+    "Name": "Kabadüz",
+    "Code": "OR52-KBDZ01"
+  },
+  {
+    "ID": 700,
+    "Name": "Kabataş",
+    "Code": "OR52-KBTS01"
+  },
+  {
+    "ID": 701,
+    "Name": "Korgan",
+    "Code": "OR52-KRGN01"
+  },
+  {
+    "ID": 702,
+    "Name": "Kumru",
+    "Code": "OR52-KUMR01"
+  },
+  {
+    "ID": 703,
+    "Name": "Mesudiye",
+    "Code": "OR52-MSDY01"
+  },
+  {
+    "ID": 704,
+    "Name": "Perşembe",
+    "Code": "OR52-PRSM01"
+  },
+  {
+    "ID": 705,
+    "Name": "Ulubey",
+    "Code": "OR52-ULBY01"
+  },
+  {
+    "ID": 706,
+    "Name": "Çamaş",
+    "Code": "OR52-CMAS01"
+  },
+  {
+    "ID": 707,
+    "Name": "Çatalpınar",
+    "Code": "OR52-CTLP01"
+  },
+  {
+    "ID": 708,
+    "Name": "Çaybaşı",
+    "Code": "OR52-CYBS01"
+  },
+  {
+    "ID": 709,
+    "Name": "Ünye",
+    "Code": "OR52-UNYE01"
+  },
+  {
+    "ID": 710,
+    "Name": "İkizce",
+    "Code": "OR52-IKZC01"
+  },
+  {
+    "ID": 711,
+    "Name": "Ardeşen",
+    "Code": "RZ53-ARDS01"
+  },
+  {
+    "ID": 712,
+    "Name": "Derepazarı",
+    "Code": "RZ53-DRPZ01"
+  },
+  {
+    "ID": 713,
+    "Name": "Fındıklı",
+    "Code": "RZ53-FNDK01"
+  },
+  {
+    "ID": 714,
+    "Name": "Güneysu",
+    "Code": "RZ53-GNYS01"
+  },
+  {
+    "ID": 715,
+    "Name": "Hemşin",
+    "Code": "RZ53-HMSN01"
+  },
+  {
+    "ID": 716,
+    "Name": "Kalkandere",
+    "Code": "RZ53-KLKN01"
+  },
+  {
+    "ID": 717,
+    "Name": "Rize Merkez",
+    "Code": "RZ53-MRKZ01"
+  },
+  {
+    "ID": 718,
+    "Name": "Pazar",
+    "Code": "RZ53-PAZR01"
+  },
+  {
+    "ID": 719,
+    "Name": "Çamlıhemşin",
+    "Code": "RZ53-CMLH01"
+  },
+  {
+    "ID": 720,
+    "Name": "Çayeli",
+    "Code": "RZ53-CYEL01"
+  },
+  {
+    "ID": 721,
+    "Name": "İkizdere",
+    "Code": "RZ53-IKZD01"
+  },
+  {
+    "ID": 722,
+    "Name": "İyidere",
+    "Code": "RZ53-IYDR01"
+  },
+  {
+    "ID": 723,
+    "Name": "Adapazarı",
+    "Code": "SK54-ADAP01"
+  },
+  {
+    "ID": 724,
+    "Name": "Akyazı",
+    "Code": "SK54-AKYZ01"
+  },
+  {
+    "ID": 725,
+    "Name": "Arifiye",
+    "Code": "SK54-ARFY01"
+  },
+  {
+    "ID": 726,
+    "Name": "Erenler",
+    "Code": "SK54-ERNL01"
+  },
+  {
+    "ID": 727,
+    "Name": "Ferizli",
+    "Code": "SK54-FRZL01"
+  },
+  {
+    "ID": 728,
+    "Name": "Geyve",
+    "Code": "SK54-GEYV01"
+  },
+  {
+    "ID": 729,
+    "Name": "Hendek",
+    "Code": "SK54-HNDK01"
+  },
+  {
+    "ID": 730,
+    "Name": "Karapürçek",
+    "Code": "SK54-KRPC01"
+  },
+  {
+    "ID": 731,
+    "Name": "Karasu",
+    "Code": "SK54-KRSU01"
+  },
+  {
+    "ID": 732,
+    "Name": "Kaynarca",
+    "Code": "SK54-KYNR01"
+  },
+  {
+    "ID": 733,
+    "Name": "Kocaali",
+    "Code": "SK54-KCAL01"
+  },
+  {
+    "ID": 734,
+    "Name": "Pamukova",
+    "Code": "SK54-PMUK01"
+  },
+  {
+    "ID": 735,
+    "Name": "Sapanca",
+    "Code": "SK54-SPNC01"
+  },
+  {
+    "ID": 736,
+    "Name": "Serdivan",
+    "Code": "SK54-SRDV01"
+  },
+  {
+    "ID": 737,
+    "Name": "Söğütlü",
+    "Code": "SK54-SOGT01"
+  },
+  {
+    "ID": 738,
+    "Name": "Taraklı",
+    "Code": "SK54-TRKL01"
+  },
+  {
+    "ID": 739,
+    "Name": "19 Mayıs",
+    "Code": "SM55-MAYS01"
+  },
+  {
+    "ID": 740,
+    "Name": "Alaçam",
+    "Code": "SM55-ALCM01"
+  },
+  {
+    "ID": 741,
+    "Name": "Asarcık",
+    "Code": "SM55-ASRC01"
+  },
+  {
+    "ID": 742,
+    "Name": "Atakum",
+    "Code": "SM55-ATKM01"
+  },
+  {
+    "ID": 743,
+    "Name": "Ayvacık",
+    "Code": "SM55-AYVC01"
+  },
+  {
+    "ID": 744,
+    "Name": "Bafra",
+    "Code": "SM55-BAFR01"
+  },
+  {
+    "ID": 745,
+    "Name": "Canik",
+    "Code": "SM55-CANK01"
+  },
+  {
+    "ID": 746,
+    "Name": "Havza",
+    "Code": "SM55-HAVZ01"
+  },
+  {
+    "ID": 747,
+    "Name": "Kavak",
+    "Code": "SM55-KAVK01"
+  },
+  {
+    "ID": 748,
+    "Name": "Ladik",
+    "Code": "SM55-LADK01"
+  },
+  {
+    "ID": 749,
+    "Name": "Salıpazarı",
+    "Code": "SM55-SLPZ01"
+  },
+  {
+    "ID": 750,
+    "Name": "Tekkeköy",
+    "Code": "SM55-TKKY01"
+  },
+  {
+    "ID": 751,
+    "Name": "Terme",
+    "Code": "SM55-TERM01"
+  },
+  {
+    "ID": 752,
+    "Name": "Vezirköprü",
+    "Code": "SM55-VZKP01"
+  },
+  {
+    "ID": 753,
+    "Name": "Yakakent",
+    "Code": "SM55-YKKT01"
+  },
+  {
+    "ID": 754,
+    "Name": "Çarşamba",
+    "Code": "SM55-CARS01"
+  },
+  {
+    "ID": 755,
+    "Name": "İlkadım",
+    "Code": "SM55-ILKD01"
+  },
+  {
+    "ID": 756,
+    "Name": "Aydınlar",
+    "Code": "ST56-AYDN01"
+  },
+  {
+    "ID": 757,
+    "Name": "Baykan",
+    "Code": "ST56-BYKN01"
+  },
+  {
+    "ID": 758,
+    "Name": "Eruh",
+    "Code": "ST56-ERUH01"
+  },
+  {
+    "ID": 759,
+    "Name": "Kurtalan",
+    "Code": "ST56-KRTL01"
+  },
+  {
+    "ID": 760,
+    "Name": "Siirt Merkez",
+    "Code": "ST56-MRKZ01"
+  },
+  {
+    "ID": 761,
+    "Name": "Pervari",
+    "Code": "ST56-PRVR01"
+  },
+  {
+    "ID": 762,
+    "Name": "Tillo",
+    "Code": "ST56-TILL01"
+  },
+  {
+    "ID": 763,
+    "Name": "Şirvan",
+    "Code": "ST56-SHRV01"
+  },
+  {
+    "ID": 764,
+    "Name": "Ayancık",
+    "Code": "SN57-AYNC01"
+  },
+  {
+    "ID": 765,
+    "Name": "Boyabat",
+    "Code": "SN57-BYBT01"
+  },
+  {
+    "ID": 766,
+    "Name": "Dikmen",
+    "Code": "SN57-DIKM01"
+  },
+  {
+    "ID": 767,
+    "Name": "Durağan",
+    "Code": "SN57-DRGN01"
+  },
+  {
+    "ID": 768,
+    "Name": "Erfelek",
+    "Code": "SN57-ERFL01"
+  },
+  {
+    "ID": 769,
+    "Name": "Gerze",
+    "Code": "SN57-GERZ01"
+  },
+  {
+    "ID": 770,
+    "Name": "Sinop Merkez",
+    "Code": "SN57-MRKZ01"
+  },
+  {
+    "ID": 771,
+    "Name": "Saraydüzü",
+    "Code": "SN57-SRYD01"
+  },
+  {
+    "ID": 772,
+    "Name": "Türkeli",
+    "Code": "SN57-TRKL01"
+  },
+  {
+    "ID": 773,
+    "Name": "Akıncılar",
+    "Code": "SV58-AKNC01"
+  },
+  {
+    "ID": 774,
+    "Name": "Altınyayla",
+    "Code": "SV58-ALTY01"
+  },
+  {
+    "ID": 775,
+    "Name": "Divriği",
+    "Code": "SV58-DVRG01"
+  },
+  {
+    "ID": 776,
+    "Name": "Doğanşar",
+    "Code": "SV58-DGNS01"
+  },
+  {
+    "ID": 777,
+    "Name": "Gemerek",
+    "Code": "SV58-GMRK01"
+  },
+  {
+    "ID": 778,
+    "Name": "Gölova",
+    "Code": "SV58-GOLV01"
+  },
+  {
+    "ID": 779,
+    "Name": "Gürün",
+    "Code": "SV58-GURN01"
+  },
+  {
+    "ID": 780,
+    "Name": "Hafik",
+    "Code": "SV58-HAFK01"
+  },
+  {
+    "ID": 781,
+    "Name": "Kangal",
+    "Code": "SV58-KNGL01"
+  },
+  {
+    "ID": 782,
+    "Name": "Koyulhisar",
+    "Code": "SV58-KYLH01"
+  },
+  {
+    "ID": 783,
+    "Name": "Sivas Merkez",
+    "Code": "SV58-MRKZ01"
+  },
+  {
+    "ID": 784,
+    "Name": "Suşehri",
+    "Code": "SV58-SUSH01"
+  },
+  {
+    "ID": 785,
+    "Name": "Ulaş",
+    "Code": "SV58-ULAS01"
+  },
+  {
+    "ID": 786,
+    "Name": "Yıldızeli",
+    "Code": "SV58-YLDZ01"
+  },
+  {
+    "ID": 787,
+    "Name": "Zara",
+    "Code": "SV58-ZARA01"
+  },
+  {
+    "ID": 788,
+    "Name": "İmranlı",
+    "Code": "SV58-IMRN01"
+  },
+  {
+    "ID": 789,
+    "Name": "Şarkışla",
+    "Code": "SV58-SRKS01"
+  },
+  {
+    "ID": 790,
+    "Name": "Ergene",
+    "Code": "TK59-ERGN01"
+  },
+  {
+    "ID": 791,
+    "Name": "Hayrabolu",
+    "Code": "TK59-HYRB01"
+  },
+  {
+    "ID": 792,
+    "Name": "Kapaklı",
+    "Code": "TK59-KPKL01"
+  },
+  {
+    "ID": 793,
+    "Name": "Malkara",
+    "Code": "TK59-MLKR01"
+  },
+  {
+    "ID": 794,
+    "Name": "Marmaraereğlisi",
+    "Code": "TK59-MRMR01"
+  },
+  {
+    "ID": 795,
+    "Name": "Muratlı",
+    "Code": "TK59-MRTL01"
+  },
+  {
+    "ID": 796,
+    "Name": "Saray",
+    "Code": "TK59-SARY01"
+  },
+  {
+    "ID": 797,
+    "Name": "Süleymanpaşa",
+    "Code": "TK59-SLYM01"
+  },
+  {
+    "ID": 798,
+    "Name": "Çerkezköy",
+    "Code": "TK59-CRKZ01"
+  },
+  {
+    "ID": 799,
+    "Name": "Çorlu",
+    "Code": "TK59-CRLU01"
+  },
+  {
+    "ID": 800,
+    "Name": "Şarköy",
+    "Code": "TK59-SRKO01"
+  },
+  {
+    "ID": 801,
+    "Name": "Almus",
+    "Code": "TK60-ALMS01"
+  },
+  {
+    "ID": 802,
+    "Name": "Artova",
+    "Code": "TK60-ARTV01"
+  },
+  {
+    "ID": 803,
+    "Name": "Başçiftlik",
+    "Code": "TK60-BSCT01"
+  },
+  {
+    "ID": 804,
+    "Name": "Erbaa",
+    "Code": "TK60-ERBA01"
+  },
+  {
+    "ID": 805,
+    "Name": "Tokat Merkez",
+    "Code": "TK60-MRKZ01"
+  },
+  {
+    "ID": 806,
+    "Name": "Niksar",
+    "Code": "TK60-NIKS01"
+  },
+  {
+    "ID": 807,
+    "Name": "Pazar",
+    "Code": "TK60-PAZR01"
+  },
+  {
+    "ID": 808,
+    "Name": "Reşadiye",
+    "Code": "TK60-RSAD01"
+  },
+  {
+    "ID": 809,
+    "Name": "Sulusaray",
+    "Code": "TK60-SLSS01"
+  },
+  {
+    "ID": 810,
+    "Name": "Turhal",
+    "Code": "TK60-TRHL01"
+  },
+  {
+    "ID": 811,
+    "Name": "Yeşilyurt",
+    "Code": "TK60-YSLY01"
+  },
+  {
+    "ID": 812,
+    "Name": "Zile",
+    "Code": "TK60-ZILE01"
+  },
+  {
+    "ID": 813,
+    "Name": "Akçaabat",
+    "Code": "TR61-AKCB01"
+  },
+  {
+    "ID": 814,
+    "Name": "Araklı",
+    "Code": "TR61-ARKL01"
+  },
+  {
+    "ID": 815,
+    "Name": "Arsin",
+    "Code": "TR61-ARSN01"
+  },
+  {
+    "ID": 816,
+    "Name": "Beşikdüzü",
+    "Code": "TR61-BSKD01"
+  },
+  {
+    "ID": 817,
+    "Name": "Dernekpazarı",
+    "Code": "TR61-DRNP01"
+  },
+  {
+    "ID": 818,
+    "Name": "Düzköy",
+    "Code": "TR61-DZKY01"
+  },
+  {
+    "ID": 819,
+    "Name": "Hayrat",
+    "Code": "TR61-HYRT01"
+  },
+  {
+    "ID": 820,
+    "Name": "Köprübaşı",
+    "Code": "TR61-KPRB01"
+  },
+  {
+    "ID": 821,
+    "Name": "Maçka",
+    "Code": "TR61-MACK01"
+  },
+  {
+    "ID": 822,
+    "Name": "Of",
+    "Code": "TR61-OF01"
+  },
+  {
+    "ID": 823,
+    "Name": "Ortahisar",
+    "Code": "TR61-ORTH01"
+  },
+  {
+    "ID": 824,
+    "Name": "Sürmene",
+    "Code": "TR61-SRMN01"
+  },
+  {
+    "ID": 825,
+    "Name": "Tonya",
+    "Code": "TR61-TNYA01"
+  },
+  {
+    "ID": 826,
+    "Name": "Vakfıkebir",
+    "Code": "TR61-VKFK01"
+  },
+  {
+    "ID": 827,
+    "Name": "Yomra",
+    "Code": "TR61-YMRA01"
+  },
+  {
+    "ID": 828,
+    "Name": "Çarşıbaşı",
+    "Code": "TR61-CRSB01"
+  },
+  {
+    "ID": 829,
+    "Name": "Çaykara",
+    "Code": "TR61-CAYK01"
+  },
+  {
+    "ID": 830,
+    "Name": "Şalpazarı",
+    "Code": "TR61-SLPZ01"
+  },
+  {
+    "ID": 831,
+    "Name": "Hozat",
+    "Code": "TC62-HOZT01"
+  },
+  {
+    "ID": 832,
+    "Name": "Mazgirt",
+    "Code": "TC62-MZGT01"
+  },
+  {
+    "ID": 833,
+    "Name": "Tunceli Merkez",
+    "Code": "TC62-MRKZ01"
+  },
+  {
+    "ID": 834,
+    "Name": "Nazımiye",
+    "Code": "TC62-NZMY01"
+  },
+  {
+    "ID": 835,
+    "Name": "Ovacık",
+    "Code": "TC62-OVCK01"
+  },
+  {
+    "ID": 836,
+    "Name": "Pertek",
+    "Code": "TC62-PRTK01"
+  },
+  {
+    "ID": 837,
+    "Name": "Pülümür",
+    "Code": "TC62-PLMR01"
+  },
+  {
+    "ID": 838,
+    "Name": "Çemişgezek",
+    "Code": "TC62-CMSG01"
+  },
+  {
+    "ID": 839,
+    "Name": "Akçakale",
+    "Code": "UR63-AKCL01"
+  },
+  {
+    "ID": 840,
+    "Name": "Birecik",
+    "Code": "UR63-BRCK01"
+  },
+  {
+    "ID": 841,
+    "Name": "Bozova",
+    "Code": "UR63-BZVA01"
+  },
+  {
+    "ID": 842,
+    "Name": "Ceylanpınar",
+    "Code": "UR63-CYLP01"
+  },
+  {
+    "ID": 843,
+    "Name": "Eyyübiye",
+    "Code": "UR63-EYYB01"
+  },
+  {
+    "ID": 844,
+    "Name": "Halfeti",
+    "Code": "UR63-HLFT01"
+  },
+  {
+    "ID": 845,
+    "Name": "Haliliye",
+    "Code": "UR63-HLLY01"
+  },
+  {
+    "ID": 846,
+    "Name": "Harran",
+    "Code": "UR63-HRRN01"
+  },
+  {
+    "ID": 847,
+    "Name": "Hilvan",
+    "Code": "UR63-HLVN01"
+  },
+  {
+    "ID": 848,
+    "Name": "Karaköprü",
+    "Code": "UR63-KRKP01"
+  },
+  {
+    "ID": 849,
+    "Name": "Siverek",
+    "Code": "UR63-SVRK01"
+  },
+  {
+    "ID": 850,
+    "Name": "Suruç",
+    "Code": "UR63-SRUC01"
+  },
+  {
+    "ID": 851,
+    "Name": "Viranşehir",
+    "Code": "UR63-VRNS01"
+  },
+  {
+    "ID": 852,
+    "Name": "Banaz",
+    "Code": "US64-BANZ01"
+  },
+  {
+    "ID": 853,
+    "Name": "Eşme",
+    "Code": "US64-ESME01"
+  },
+  {
+    "ID": 854,
+    "Name": "Karahallı",
+    "Code": "US64-KRHL01"
+  },
+  {
+    "ID": 855,
+    "Name": "Uşak Merkez",
+    "Code": "US64-MRKZ01"
+  },
+  {
+    "ID": 856,
+    "Name": "Sivaslı",
+    "Code": "US64-SVSL01"
+  },
+  {
+    "ID": 857,
+    "Name": "Ulubey",
+    "Code": "US64-ULBY01"
+  },
+  {
+    "ID": 858,
+    "Name": "Bahçesaray",
+    "Code": "VN65-BHCS01"
+  },
+  {
+    "ID": 859,
+    "Name": "Başkale",
+    "Code": "VN65-BSKL01"
+  },
+  {
+    "ID": 860,
+    "Name": "Edremit",
+    "Code": "VN65-EDRM01"
+  },
+  {
+    "ID": 861,
+    "Name": "Erciş",
+    "Code": "VN65-ERCS01"
+  },
+  {
+    "ID": 862,
+    "Name": "Gevaş",
+    "Code": "VN65-GEVS01"
+  },
+  {
+    "ID": 863,
+    "Name": "Gürpınar",
+    "Code": "VN65-GRPN01"
+  },
+  {
+    "ID": 864,
+    "Name": "Muradiye",
+    "Code": "VN65-MRDY01"
+  },
+  {
+    "ID": 865,
+    "Name": "Saray",
+    "Code": "VN65-SARY01"
+  },
+  {
+    "ID": 866,
+    "Name": "Tuşba",
+    "Code": "VN65-TUSB01"
+  },
+  {
+    "ID": 867,
+    "Name": "Çaldıran",
+    "Code": "VN65-CALD01"
+  },
+  {
+    "ID": 868,
+    "Name": "Çatak",
+    "Code": "VN65-CATA01"
+  },
+  {
+    "ID": 869,
+    "Name": "Özalp",
+    "Code": "VN65-OZAL01"
+  },
+  {
+    "ID": 870,
+    "Name": "İpekyolu",
+    "Code": "VN65-IPKY01"
+  },
+  {
+    "ID": 871,
+    "Name": "Akdağmadeni",
+    "Code": "YZ66-AKDG01"
+  },
+  {
+    "ID": 872,
+    "Name": "Aydıncık",
+    "Code": "YZ66-AYDN01"
+  },
+  {
+    "ID": 873,
+    "Name": "Boğazlıyan",
+    "Code": "YZ66-BGZL01"
+  },
+  {
+    "ID": 874,
+    "Name": "Kadışehri",
+    "Code": "YZ66-KDSH01"
+  },
+  {
+    "ID": 875,
+    "Name": "Yozgat Merkez",
+    "Code": "YZ66-MRKZ01"
+  },
+  {
+    "ID": 876,
+    "Name": "Saraykent",
+    "Code": "YZ66-SRYK01"
+  },
+  {
+    "ID": 877,
+    "Name": "Sarıkaya",
+    "Code": "YZ66-SRKY01"
+  },
+  {
+    "ID": 878,
+    "Name": "Sorgun",
+    "Code": "YZ66-SRGN01"
+  },
+  {
+    "ID": 879,
+    "Name": "Yenifakılı",
+    "Code": "YZ66-YNFK01"
+  },
+  {
+    "ID": 880,
+    "Name": "Yerköy",
+    "Code": "YZ66-YRKY01"
+  },
+  {
+    "ID": 881,
+    "Name": "Çandır",
+    "Code": "YZ66-CNDR01"
+  },
+  {
+    "ID": 882,
+    "Name": "Çayıralan",
+    "Code": "YZ66-CYRL01"
+  },
+  {
+    "ID": 883,
+    "Name": "Çekerek",
+    "Code": "YZ66-CKRK01"
+  },
+  {
+    "ID": 884,
+    "Name": "Şefaatli",
+    "Code": "YZ66-SFTL01"
+  },
+  {
+    "ID": 885,
+    "Name": "Alaplı",
+    "Code": "ZG67-ALPL01"
+  },
+  {
+    "ID": 886,
+    "Name": "Devrek",
+    "Code": "ZG67-DVRK01"
+  },
+  {
+    "ID": 887,
+    "Name": "Ereğli",
+    "Code": "ZG67-ERGL01"
+  },
+  {
+    "ID": 888,
+    "Name": "Gökçebey",
+    "Code": "ZG67-GKCB01"
+  },
+  {
+    "ID": 889,
+    "Name": "Kilimli",
+    "Code": "ZG67-KLML01"
+  },
+  {
+    "ID": 890,
+    "Name": "Kozlu",
+    "Code": "ZG67-KOZL01"
+  },
+  {
+    "ID": 891,
+    "Name": "Zonguldak Merkez",
+    "Code": "ZG67-MRKZ01"
+  },
+  {
+    "ID": 892,
+    "Name": "Çaycuma",
+    "Code": "ZG67-CYCM01"
+  },
+  {
+    "ID": 893,
+    "Name": "Ağaçören",
+    "Code": "AK68-AGCR01"
+  },
+  {
+    "ID": 894,
+    "Name": "Eskil",
+    "Code": "AK68-ESKL01"
+  },
+  {
+    "ID": 895,
+    "Name": "Gülağaç",
+    "Code": "AK68-GLAG01"
+  },
+  {
+    "ID": 896,
+    "Name": "Güzelyurt",
+    "Code": "AK68-GZLY01"
+  },
+  {
+    "ID": 897,
+    "Name": "Aksaray Merkez",
+    "Code": "AK68-MRKZ01"
+  },
+  {
+    "ID": 898,
+    "Name": "Ortaköy",
+    "Code": "AK68-ORTK01"
+  },
+  {
+    "ID": 899,
+    "Name": "Sarıyahşi",
+    "Code": "AK68-SRYH01"
+  },
+  {
+    "ID": 900,
+    "Name": "Aydıntepe",
+    "Code": "BY69-AYDT01"
+  },
+  {
+    "ID": 901,
+    "Name": "Demirözü",
+    "Code": "BY69-DMRZ01"
+  },
+  {
+    "ID": 902,
+    "Name": "Bayburt Merkez",
+    "Code": "BY69-MRKZ01"
+  },
+  {
+    "ID": 903,
+    "Name": "Ayrancı",
+    "Code": "KM70-AYRC01"
+  },
+  {
+    "ID": 904,
+    "Name": "Başyayla",
+    "Code": "KM70-BSYL01"
+  },
+  {
+    "ID": 905,
+    "Name": "Ermenek",
+    "Code": "KM70-ERMN01"
+  },
+  {
+    "ID": 906,
+    "Name": "Kazımkarabekir",
+    "Code": "KM70-KZKR01"
+  },
+  {
+    "ID": 907,
+    "Name": "Karaman Merkez",
+    "Code": "KM70-MRKZ01"
+  },
+  {
+    "ID": 908,
+    "Name": "Sarıveliler",
+    "Code": "KM70-SRVL01"
+  },
+  {
+    "ID": 909,
+    "Name": "Bahşili",
+    "Code": "KR71-BHSL01"
+  },
+  {
+    "ID": 910,
+    "Name": "Balışeyh",
+    "Code": "KR71-BLSY01"
+  },
+  {
+    "ID": 911,
+    "Name": "Delice",
+    "Code": "KR71-DLCE01"
+  },
+  {
+    "ID": 912,
+    "Name": "Karakeçili",
+    "Code": "KR71-KRKC01"
+  },
+  {
+    "ID": 913,
+    "Name": "Keskin",
+    "Code": "KR71-KSKN01"
+  },
+  {
+    "ID": 914,
+    "Name": "Kırıkkale Merkez",
+    "Code": "KR71-MRKZ01"
+  },
+  {
+    "ID": 915,
+    "Name": "Sulakyurt",
+    "Code": "KR71-SLKY01"
+  },
+  {
+    "ID": 916,
+    "Name": "Yahşihan",
+    "Code": "KR71-YHSN01"
+  },
+  {
+    "ID": 917,
+    "Name": "Çelebi",
+    "Code": "KR71-CLBI01"
+  },
+  {
+    "ID": 918,
+    "Name": "Beşiri",
+    "Code": "BT72-BSRI01"
+  },
+  {
+    "ID": 919,
+    "Name": "Gercüş",
+    "Code": "BT72-GRCS01"
+  },
+  {
+    "ID": 920,
+    "Name": "Hasankeyf",
+    "Code": "BT72-HSNK01"
+  },
+  {
+    "ID": 921,
+    "Name": "Kozluk",
+    "Code": "BT72-KOZL01"
+  },
+  {
+    "ID": 922,
+    "Name": "Batman Merkez",
+    "Code": "BT72-MRKZ01"
+  },
+  {
+    "ID": 923,
+    "Name": "Sason",
+    "Code": "BT72-SASN01"
+  },
+  {
+    "ID": 924,
+    "Name": "Beytüşşebap",
+    "Code": "SR73-BYTS01"
+  },
+  {
+    "ID": 925,
+    "Name": "Cizre",
+    "Code": "SR73-CIZR01"
+  },
+  {
+    "ID": 926,
+    "Name": "Güçlükonak",
+    "Code": "SR73-GCLK01"
+  },
+  {
+    "ID": 927,
+    "Name": "Şırnak Merkez",
+    "Code": "SR73-MRKZ01"
+  },
+  {
+    "ID": 928,
+    "Name": "Silopi",
+    "Code": "SR73-SLPI01"
+  },
+  {
+    "ID": 929,
+    "Name": "Uludere",
+    "Code": "SR73-ULDR01"
+  },
+  {
+    "ID": 930,
+    "Name": "İdil",
+    "Code": "SR73-IDIL01"
+  },
+  {
+    "ID": 931,
+    "Name": "Amasra",
+    "Code": "BR74-AMSR01"
+  },
+  {
+    "ID": 932,
+    "Name": "Kurucaşile",
+    "Code": "BR74-KRCS01"
+  },
+  {
+    "ID": 933,
+    "Name": "Bartın Merkez",
+    "Code": "BR74-MRKZ01"
+  },
+  {
+    "ID": 934,
+    "Name": "Ulus",
+    "Code": "BR74-ULUS01"
+  },
+  {
+    "ID": 935,
+    "Name": "Damal",
+    "Code": "AR75-DAML01"
+  },
+  {
+    "ID": 936,
+    "Name": "Göle",
+    "Code": "AR75-GOLE01"
+  },
+  {
+    "ID": 937,
+    "Name": "Hanak",
+    "Code": "AR75-HANK01"
+  },
+  {
+    "ID": 938,
+    "Name": "Ardahan Merkez",
+    "Code": "AR75-MRKZ01"
+  },
+  {
+    "ID": 939,
+    "Name": "Posof",
+    "Code": "AR75-POSF01"
+  },
+  {
+    "ID": 940,
+    "Name": "Çıldır",
+    "Code": "AR75-CILDR01"
+  },
+  {
+    "ID": 941,
+    "Name": "Aralık",
+    "Code": "IG76-ARLK01"
+  },
+  {
+    "ID": 942,
+    "Name": "Karakoyunlu",
+    "Code": "IG76-KRKY01"
+  },
+  {
+    "ID": 943,
+    "Name": "Iğdır Merkez",
+    "Code": "IG76-MRKZ01"
+  },
+  {
+    "ID": 944,
+    "Name": "Tuzluca",
+    "Code": "IG76-TZLC01"
+  },
+  {
+    "ID": 945,
+    "Name": "Altınova",
+    "Code": "YL77-ALTN01"
+  },
+  {
+    "ID": 946,
+    "Name": "Armutlu",
+    "Code": "YL77-ARMT01"
+  },
+  {
+    "ID": 947,
+    "Name": "Yalova Merkez",
+    "Code": "YL77-MRKZ01"
+  },
+  {
+    "ID": 948,
+    "Name": "Termal",
+    "Code": "YL77-TRML01"
+  },
+  {
+    "ID": 949,
+    "Name": "Çiftlikköy",
+    "Code": "YL77-CFTK01"
+  },
+  {
+    "ID": 950,
+    "Name": "Çınarcık",
+    "Code": "YL77-CNRC01"
+  },
+  {
+    "ID": 951,
+    "Name": "Eflani",
+    "Code": "KB78-EFLN01"
+  },
+  {
+    "ID": 952,
+    "Name": "Eskipazar",
+    "Code": "KB78-ESKP01"
+  },
+  {
+    "ID": 953,
+    "Name": "Karabük Merkez",
+    "Code": "KB78-MRKZ01"
+  },
+  {
+    "ID": 954,
+    "Name": "Ovacık",
+    "Code": "KB78-OVCK01"
+  },
+  {
+    "ID": 955,
+    "Name": "Safranbolu",
+    "Code": "KB78-SFRN01"
+  },
+  {
+    "ID": 956,
+    "Name": "Yenice",
+    "Code": "KB78-YNCE01"
+  },
+  {
+    "ID": 957,
+    "Name": "Elbeyli",
+    "Code": "KL79-ELBY01"
+  },
+  {
+    "ID": 958,
+    "Name": "Kilis Merkez",
+    "Code": "KL79-MRKZ01"
+  },
+  {
+    "ID": 959,
+    "Name": "Musabeyli",
+    "Code": "KL79-MSBY01"
+  },
+  {
+    "ID": 960,
+    "Name": "Polateli",
+    "Code": "KL79-PLTL01"
+  },
+  {
+    "ID": 961,
+    "Name": "Bahçe",
+    "Code": "OS80-BHCE01"
+  },
+  {
+    "ID": 962,
+    "Name": "Düziçi",
+    "Code": "OS80-DZIC01"
+  },
+  {
+    "ID": 963,
+    "Name": "Hasanbeyli",
+    "Code": "OS80-HSNB01"
+  },
+  {
+    "ID": 964,
+    "Name": "Kadirli",
+    "Code": "OS80-KDRL01"
+  },
+  {
+    "ID": 965,
+    "Name": "Osmaniye Merkez",
+    "Code": "OS80-MRKZ01"
+  },
+  {
+    "ID": 966,
+    "Name": "Sumbas",
+    "Code": "OS80-SMBS01"
+  },
+  {
+    "ID": 967,
+    "Name": "Toprakkale",
+    "Code": "OS80-TPRK01"
+  },
+  {
+    "ID": 968,
+    "Name": "Akçakoca",
+    "Code": "DZ81-AKCC01"
+  },
+  {
+    "ID": 969,
+    "Name": "Cumayeri",
+    "Code": "DZ81-CMYR01"
+  },
+  {
+    "ID": 970,
+    "Name": "Gölyaka",
+    "Code": "DZ81-GLYK01"
+  },
+  {
+    "ID": 971,
+    "Name": "Gümüşova",
+    "Code": "DZ81-GMSV01"
+  },
+  {
+    "ID": 972,
+    "Name": "Kaynaşlı",
+    "Code": "DZ81-KYNL01"
+  },
+  {
+    "ID": 973,
+    "Name": "Düzce Merkez",
+    "Code": "DZ81-MRKZ01"
+  },
+  {
+    "ID": 974,
+    "Name": "Yığılca",
+    "Code": "DZ81-YGLC01"
+  },
+  {
+    "ID": 975,
+    "Name": "Çilimli",
+    "Code": "DZ81-CLML01"
+  }
+]

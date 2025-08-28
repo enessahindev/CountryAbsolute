@@ -1,0 +1,4837 @@
+[
+  {
+    "ID": 1,
+    "DistrictId": 1,
+    "CityId": 1
+  },
+  {
+    "ID": 2,
+    "DistrictId": 2,
+    "CityId": 1
+  },
+  {
+    "ID": 3,
+    "DistrictId": 3,
+    "CityId": 1
+  },
+  {
+    "ID": 4,
+    "DistrictId": 4,
+    "CityId": 1
+  },
+  {
+    "ID": 5,
+    "DistrictId": 5,
+    "CityId": 1
+  },
+  {
+    "ID": 6,
+    "DistrictId": 6,
+    "CityId": 1
+  },
+  {
+    "ID": 7,
+    "DistrictId": 7,
+    "CityId": 1
+  },
+  {
+    "ID": 8,
+    "DistrictId": 8,
+    "CityId": 1
+  },
+  {
+    "ID": 9,
+    "DistrictId": 9,
+    "CityId": 1
+  },
+  {
+    "ID": 10,
+    "DistrictId": 10,
+    "CityId": 1
+  },
+  {
+    "ID": 11,
+    "DistrictId": 11,
+    "CityId": 1
+  },
+  {
+    "ID": 12,
+    "DistrictId": 12,
+    "CityId": 1
+  },
+  {
+    "ID": 13,
+    "DistrictId": 13,
+    "CityId": 1
+  },
+  {
+    "ID": 14,
+    "DistrictId": 14,
+    "CityId": 1
+  },
+  {
+    "ID": 15,
+    "DistrictId": 15,
+    "CityId": 1
+  },
+  {
+    "ID": 16,
+    "DistrictId": 16,
+    "CityId": 2
+  },
+  {
+    "ID": 17,
+    "DistrictId": 17,
+    "CityId": 2
+  },
+  {
+    "ID": 18,
+    "DistrictId": 18,
+    "CityId": 2
+  },
+  {
+    "ID": 19,
+    "DistrictId": 19,
+    "CityId": 2
+  },
+  {
+    "ID": 20,
+    "DistrictId": 20,
+    "CityId": 2
+  },
+  {
+    "ID": 21,
+    "DistrictId": 21,
+    "CityId": 2
+  },
+  {
+    "ID": 22,
+    "DistrictId": 22,
+    "CityId": 2
+  },
+  {
+    "ID": 23,
+    "DistrictId": 23,
+    "CityId": 2
+  },
+  {
+    "ID": 24,
+    "DistrictId": 24,
+    "CityId": 2
+  },
+  {
+    "ID": 25,
+    "DistrictId": 25,
+    "CityId": 3
+  },
+  {
+    "ID": 26,
+    "DistrictId": 26,
+    "CityId": 3
+  },
+  {
+    "ID": 27,
+    "DistrictId": 27,
+    "CityId": 3
+  },
+  {
+    "ID": 28,
+    "DistrictId": 28,
+    "CityId": 3
+  },
+  {
+    "ID": 29,
+    "DistrictId": 29,
+    "CityId": 3
+  },
+  {
+    "ID": 30,
+    "DistrictId": 30,
+    "CityId": 3
+  },
+  {
+    "ID": 31,
+    "DistrictId": 31,
+    "CityId": 3
+  },
+  {
+    "ID": 32,
+    "DistrictId": 32,
+    "CityId": 3
+  },
+  {
+    "ID": 33,
+    "DistrictId": 33,
+    "CityId": 3
+  },
+  {
+    "ID": 34,
+    "DistrictId": 34,
+    "CityId": 3
+  },
+  {
+    "ID": 35,
+    "DistrictId": 35,
+    "CityId": 3
+  },
+  {
+    "ID": 36,
+    "DistrictId": 36,
+    "CityId": 3
+  },
+  {
+    "ID": 37,
+    "DistrictId": 37,
+    "CityId": 3
+  },
+  {
+    "ID": 38,
+    "DistrictId": 38,
+    "CityId": 3
+  },
+  {
+    "ID": 39,
+    "DistrictId": 39,
+    "CityId": 3
+  },
+  {
+    "ID": 40,
+    "DistrictId": 40,
+    "CityId": 3
+  },
+  {
+    "ID": 41,
+    "DistrictId": 41,
+    "CityId": 3
+  },
+  {
+    "ID": 42,
+    "DistrictId": 42,
+    "CityId": 3
+  },
+  {
+    "ID": 43,
+    "DistrictId": 44,
+    "CityId": 4
+  },
+  {
+    "ID": 44,
+    "DistrictId": 45,
+    "CityId": 4
+  },
+  {
+    "ID": 45,
+    "DistrictId": 46,
+    "CityId": 4
+  },
+  {
+    "ID": 46,
+    "DistrictId": 47,
+    "CityId": 4
+  },
+  {
+    "ID": 47,
+    "DistrictId": 48,
+    "CityId": 4
+  },
+  {
+    "ID": 48,
+    "DistrictId": 49,
+    "CityId": 4
+  },
+  {
+    "ID": 49,
+    "DistrictId": 50,
+    "CityId": 4
+  },
+  {
+    "ID": 50,
+    "DistrictId": 51,
+    "CityId": 4
+  },
+  {
+    "ID": 51,
+    "DistrictId": 52,
+    "CityId": 5
+  },
+  {
+    "ID": 52,
+    "DistrictId": 53,
+    "CityId": 5
+  },
+  {
+    "ID": 53,
+    "DistrictId": 54,
+    "CityId": 5
+  },
+  {
+    "ID": 54,
+    "DistrictId": 55,
+    "CityId": 5
+  },
+  {
+    "ID": 55,
+    "DistrictId": 56,
+    "CityId": 5
+  },
+  {
+    "ID": 56,
+    "DistrictId": 57,
+    "CityId": 5
+  },
+  {
+    "ID": 57,
+    "DistrictId": 58,
+    "CityId": 5
+  },
+  {
+    "ID": 58,
+    "DistrictId": 59,
+    "CityId": 6
+  },
+  {
+    "ID": 59,
+    "DistrictId": 60,
+    "CityId": 6
+  },
+  {
+    "ID": 60,
+    "DistrictId": 61,
+    "CityId": 6
+  },
+  {
+    "ID": 61,
+    "DistrictId": 62,
+    "CityId": 6
+  },
+  {
+    "ID": 62,
+    "DistrictId": 63,
+    "CityId": 6
+  },
+  {
+    "ID": 63,
+    "DistrictId": 64,
+    "CityId": 6
+  },
+  {
+    "ID": 64,
+    "DistrictId": 65,
+    "CityId": 6
+  },
+  {
+    "ID": 65,
+    "DistrictId": 66,
+    "CityId": 6
+  },
+  {
+    "ID": 66,
+    "DistrictId": 67,
+    "CityId": 6
+  },
+  {
+    "ID": 67,
+    "DistrictId": 68,
+    "CityId": 6
+  },
+  {
+    "ID": 68,
+    "DistrictId": 69,
+    "CityId": 6
+  },
+  {
+    "ID": 69,
+    "DistrictId": 70,
+    "CityId": 6
+  },
+  {
+    "ID": 70,
+    "DistrictId": 71,
+    "CityId": 6
+  },
+  {
+    "ID": 71,
+    "DistrictId": 72,
+    "CityId": 6
+  },
+  {
+    "ID": 72,
+    "DistrictId": 73,
+    "CityId": 6
+  },
+  {
+    "ID": 73,
+    "DistrictId": 74,
+    "CityId": 6
+  },
+  {
+    "ID": 74,
+    "DistrictId": 75,
+    "CityId": 6
+  },
+  {
+    "ID": 75,
+    "DistrictId": 76,
+    "CityId": 6
+  },
+  {
+    "ID": 76,
+    "DistrictId": 77,
+    "CityId": 6
+  },
+  {
+    "ID": 77,
+    "DistrictId": 78,
+    "CityId": 6
+  },
+  {
+    "ID": 78,
+    "DistrictId": 79,
+    "CityId": 6
+  },
+  {
+    "ID": 79,
+    "DistrictId": 80,
+    "CityId": 6
+  },
+  {
+    "ID": 80,
+    "DistrictId": 81,
+    "CityId": 6
+  },
+  {
+    "ID": 81,
+    "DistrictId": 82,
+    "CityId": 6
+  },
+  {
+    "ID": 82,
+    "DistrictId": 83,
+    "CityId": 7
+  },
+  {
+    "ID": 83,
+    "DistrictId": 84,
+    "CityId": 7
+  },
+  {
+    "ID": 84,
+    "DistrictId": 85,
+    "CityId": 7
+  },
+  {
+    "ID": 85,
+    "DistrictId": 86,
+    "CityId": 7
+  },
+  {
+    "ID": 86,
+    "DistrictId": 87,
+    "CityId": 7
+  },
+  {
+    "ID": 87,
+    "DistrictId": 88,
+    "CityId": 7
+  },
+  {
+    "ID": 88,
+    "DistrictId": 89,
+    "CityId": 7
+  },
+  {
+    "ID": 89,
+    "DistrictId": 90,
+    "CityId": 7
+  },
+  {
+    "ID": 90,
+    "DistrictId": 91,
+    "CityId": 7
+  },
+  {
+    "ID": 91,
+    "DistrictId": 92,
+    "CityId": 7
+  },
+  {
+    "ID": 92,
+    "DistrictId": 93,
+    "CityId": 7
+  },
+  {
+    "ID": 93,
+    "DistrictId": 94,
+    "CityId": 7
+  },
+  {
+    "ID": 94,
+    "DistrictId": 95,
+    "CityId": 7
+  },
+  {
+    "ID": 95,
+    "DistrictId": 96,
+    "CityId": 7
+  },
+  {
+    "ID": 96,
+    "DistrictId": 97,
+    "CityId": 7
+  },
+  {
+    "ID": 97,
+    "DistrictId": 98,
+    "CityId": 7
+  },
+  {
+    "ID": 98,
+    "DistrictId": 99,
+    "CityId": 7
+  },
+  {
+    "ID": 99,
+    "DistrictId": 100,
+    "CityId": 7
+  },
+  {
+    "ID": 100,
+    "DistrictId": 101,
+    "CityId": 7
+  },
+  {
+    "ID": 101,
+    "DistrictId": 102,
+    "CityId": 8
+  },
+  {
+    "ID": 102,
+    "DistrictId": 103,
+    "CityId": 8
+  },
+  {
+    "ID": 103,
+    "DistrictId": 104,
+    "CityId": 8
+  },
+  {
+    "ID": 104,
+    "DistrictId": 105,
+    "CityId": 8
+  },
+  {
+    "ID": 105,
+    "DistrictId": 106,
+    "CityId": 8
+  },
+  {
+    "ID": 106,
+    "DistrictId": 107,
+    "CityId": 8
+  },
+  {
+    "ID": 107,
+    "DistrictId": 108,
+    "CityId": 8
+  },
+  {
+    "ID": 108,
+    "DistrictId": 109,
+    "CityId": 8
+  },
+  {
+    "ID": 109,
+    "DistrictId": 110,
+    "CityId": 9
+  },
+  {
+    "ID": 110,
+    "DistrictId": 111,
+    "CityId": 9
+  },
+  {
+    "ID": 111,
+    "DistrictId": 112,
+    "CityId": 9
+  },
+  {
+    "ID": 112,
+    "DistrictId": 113,
+    "CityId": 9
+  },
+  {
+    "ID": 113,
+    "DistrictId": 114,
+    "CityId": 9
+  },
+  {
+    "ID": 114,
+    "DistrictId": 115,
+    "CityId": 9
+  },
+  {
+    "ID": 115,
+    "DistrictId": 116,
+    "CityId": 9
+  },
+  {
+    "ID": 116,
+    "DistrictId": 117,
+    "CityId": 9
+  },
+  {
+    "ID": 117,
+    "DistrictId": 118,
+    "CityId": 9
+  },
+  {
+    "ID": 118,
+    "DistrictId": 119,
+    "CityId": 9
+  },
+  {
+    "ID": 119,
+    "DistrictId": 120,
+    "CityId": 9
+  },
+  {
+    "ID": 120,
+    "DistrictId": 121,
+    "CityId": 9
+  },
+  {
+    "ID": 121,
+    "DistrictId": 122,
+    "CityId": 9
+  },
+  {
+    "ID": 122,
+    "DistrictId": 123,
+    "CityId": 9
+  },
+  {
+    "ID": 123,
+    "DistrictId": 124,
+    "CityId": 9
+  },
+  {
+    "ID": 124,
+    "DistrictId": 125,
+    "CityId": 9
+  },
+  {
+    "ID": 125,
+    "DistrictId": 126,
+    "CityId": 9
+  },
+  {
+    "ID": 126,
+    "DistrictId": 127,
+    "CityId": 10
+  },
+  {
+    "ID": 127,
+    "DistrictId": 128,
+    "CityId": 10
+  },
+  {
+    "ID": 128,
+    "DistrictId": 129,
+    "CityId": 10
+  },
+  {
+    "ID": 129,
+    "DistrictId": 130,
+    "CityId": 10
+  },
+  {
+    "ID": 130,
+    "DistrictId": 131,
+    "CityId": 10
+  },
+  {
+    "ID": 131,
+    "DistrictId": 132,
+    "CityId": 10
+  },
+  {
+    "ID": 132,
+    "DistrictId": 133,
+    "CityId": 10
+  },
+  {
+    "ID": 133,
+    "DistrictId": 134,
+    "CityId": 10
+  },
+  {
+    "ID": 134,
+    "DistrictId": 135,
+    "CityId": 10
+  },
+  {
+    "ID": 135,
+    "DistrictId": 136,
+    "CityId": 10
+  },
+  {
+    "ID": 136,
+    "DistrictId": 137,
+    "CityId": 10
+  },
+  {
+    "ID": 137,
+    "DistrictId": 138,
+    "CityId": 10
+  },
+  {
+    "ID": 138,
+    "DistrictId": 139,
+    "CityId": 10
+  },
+  {
+    "ID": 139,
+    "DistrictId": 140,
+    "CityId": 10
+  },
+  {
+    "ID": 140,
+    "DistrictId": 141,
+    "CityId": 10
+  },
+  {
+    "ID": 141,
+    "DistrictId": 142,
+    "CityId": 10
+  },
+  {
+    "ID": 142,
+    "DistrictId": 143,
+    "CityId": 10
+  },
+  {
+    "ID": 143,
+    "DistrictId": 144,
+    "CityId": 10
+  },
+  {
+    "ID": 144,
+    "DistrictId": 145,
+    "CityId": 10
+  },
+  {
+    "ID": 145,
+    "DistrictId": 146,
+    "CityId": 10
+  },
+  {
+    "ID": 146,
+    "DistrictId": 147,
+    "CityId": 11
+  },
+  {
+    "ID": 147,
+    "DistrictId": 148,
+    "CityId": 11
+  },
+  {
+    "ID": 148,
+    "DistrictId": 149,
+    "CityId": 11
+  },
+  {
+    "ID": 149,
+    "DistrictId": 150,
+    "CityId": 11
+  },
+  {
+    "ID": 150,
+    "DistrictId": 151,
+    "CityId": 11
+  },
+  {
+    "ID": 151,
+    "DistrictId": 152,
+    "CityId": 11
+  },
+  {
+    "ID": 152,
+    "DistrictId": 153,
+    "CityId": 11
+  },
+  {
+    "ID": 153,
+    "DistrictId": 154,
+    "CityId": 11
+  },
+  {
+    "ID": 154,
+    "DistrictId": 155,
+    "CityId": 12
+  },
+  {
+    "ID": 155,
+    "DistrictId": 156,
+    "CityId": 12
+  },
+  {
+    "ID": 156,
+    "DistrictId": 157,
+    "CityId": 12
+  },
+  {
+    "ID": 157,
+    "DistrictId": 158,
+    "CityId": 12
+  },
+  {
+    "ID": 158,
+    "DistrictId": 159,
+    "CityId": 12
+  },
+  {
+    "ID": 159,
+    "DistrictId": 160,
+    "CityId": 12
+  },
+  {
+    "ID": 160,
+    "DistrictId": 161,
+    "CityId": 12
+  },
+  {
+    "ID": 161,
+    "DistrictId": 162,
+    "CityId": 12
+  },
+  {
+    "ID": 162,
+    "DistrictId": 163,
+    "CityId": 13
+  },
+  {
+    "ID": 163,
+    "DistrictId": 164,
+    "CityId": 13
+  },
+  {
+    "ID": 164,
+    "DistrictId": 165,
+    "CityId": 13
+  },
+  {
+    "ID": 165,
+    "DistrictId": 166,
+    "CityId": 13
+  },
+  {
+    "ID": 166,
+    "DistrictId": 167,
+    "CityId": 13
+  },
+  {
+    "ID": 167,
+    "DistrictId": 168,
+    "CityId": 13
+  },
+  {
+    "ID": 168,
+    "DistrictId": 169,
+    "CityId": 13
+  },
+  {
+    "ID": 169,
+    "DistrictId": 170,
+    "CityId": 14
+  },
+  {
+    "ID": 170,
+    "DistrictId": 171,
+    "CityId": 14
+  },
+  {
+    "ID": 171,
+    "DistrictId": 172,
+    "CityId": 14
+  },
+  {
+    "ID": 172,
+    "DistrictId": 173,
+    "CityId": 14
+  },
+  {
+    "ID": 173,
+    "DistrictId": 174,
+    "CityId": 14
+  },
+  {
+    "ID": 174,
+    "DistrictId": 175,
+    "CityId": 14
+  },
+  {
+    "ID": 175,
+    "DistrictId": 176,
+    "CityId": 14
+  },
+  {
+    "ID": 176,
+    "DistrictId": 177,
+    "CityId": 14
+  },
+  {
+    "ID": 177,
+    "DistrictId": 178,
+    "CityId": 14
+  },
+  {
+    "ID": 178,
+    "DistrictId": 180,
+    "CityId": 15
+  },
+  {
+    "ID": 179,
+    "DistrictId": 181,
+    "CityId": 15
+  },
+  {
+    "ID": 180,
+    "DistrictId": 182,
+    "CityId": 15
+  },
+  {
+    "ID": 181,
+    "DistrictId": 183,
+    "CityId": 15
+  },
+  {
+    "ID": 182,
+    "DistrictId": 184,
+    "CityId": 15
+  },
+  {
+    "ID": 183,
+    "DistrictId": 185,
+    "CityId": 15
+  },
+  {
+    "ID": 184,
+    "DistrictId": 186,
+    "CityId": 15
+  },
+  {
+    "ID": 185,
+    "DistrictId": 187,
+    "CityId": 15
+  },
+  {
+    "ID": 186,
+    "DistrictId": 188,
+    "CityId": 15
+  },
+  {
+    "ID": 187,
+    "DistrictId": 189,
+    "CityId": 15
+  },
+  {
+    "ID": 188,
+    "DistrictId": 190,
+    "CityId": 15
+  },
+  {
+    "ID": 189,
+    "DistrictId": 191,
+    "CityId": 16
+  },
+  {
+    "ID": 190,
+    "DistrictId": 192,
+    "CityId": 16
+  },
+  {
+    "ID": 191,
+    "DistrictId": 193,
+    "CityId": 16
+  },
+  {
+    "ID": 192,
+    "DistrictId": 194,
+    "CityId": 16
+  },
+  {
+    "ID": 193,
+    "DistrictId": 195,
+    "CityId": 16
+  },
+  {
+    "ID": 194,
+    "DistrictId": 196,
+    "CityId": 16
+  },
+  {
+    "ID": 195,
+    "DistrictId": 197,
+    "CityId": 16
+  },
+  {
+    "ID": 196,
+    "DistrictId": 198,
+    "CityId": 16
+  },
+  {
+    "ID": 197,
+    "DistrictId": 199,
+    "CityId": 16
+  },
+  {
+    "ID": 198,
+    "DistrictId": 200,
+    "CityId": 16
+  },
+  {
+    "ID": 199,
+    "DistrictId": 201,
+    "CityId": 16
+  },
+  {
+    "ID": 200,
+    "DistrictId": 202,
+    "CityId": 16
+  },
+  {
+    "ID": 201,
+    "DistrictId": 203,
+    "CityId": 16
+  },
+  {
+    "ID": 202,
+    "DistrictId": 204,
+    "CityId": 16
+  },
+  {
+    "ID": 203,
+    "DistrictId": 205,
+    "CityId": 16
+  },
+  {
+    "ID": 204,
+    "DistrictId": 206,
+    "CityId": 16
+  },
+  {
+    "ID": 205,
+    "DistrictId": 207,
+    "CityId": 16
+  },
+  {
+    "ID": 206,
+    "DistrictId": 208,
+    "CityId": 17
+  },
+  {
+    "ID": 207,
+    "DistrictId": 209,
+    "CityId": 17
+  },
+  {
+    "ID": 208,
+    "DistrictId": 210,
+    "CityId": 17
+  },
+  {
+    "ID": 209,
+    "DistrictId": 211,
+    "CityId": 17
+  },
+  {
+    "ID": 210,
+    "DistrictId": 212,
+    "CityId": 17
+  },
+  {
+    "ID": 211,
+    "DistrictId": 213,
+    "CityId": 17
+  },
+  {
+    "ID": 212,
+    "DistrictId": 214,
+    "CityId": 17
+  },
+  {
+    "ID": 213,
+    "DistrictId": 215,
+    "CityId": 17
+  },
+  {
+    "ID": 214,
+    "DistrictId": 216,
+    "CityId": 17
+  },
+  {
+    "ID": 215,
+    "DistrictId": 217,
+    "CityId": 17
+  },
+  {
+    "ID": 216,
+    "DistrictId": 218,
+    "CityId": 17
+  },
+  {
+    "ID": 217,
+    "DistrictId": 219,
+    "CityId": 17
+  },
+  {
+    "ID": 218,
+    "DistrictId": 225,
+    "CityId": 18
+  },
+  {
+    "ID": 219,
+    "DistrictId": 226,
+    "CityId": 18
+  },
+  {
+    "ID": 220,
+    "DistrictId": 227,
+    "CityId": 18
+  },
+  {
+    "ID": 221,
+    "DistrictId": 228,
+    "CityId": 18
+  },
+  {
+    "ID": 222,
+    "DistrictId": 229,
+    "CityId": 18
+  },
+  {
+    "ID": 223,
+    "DistrictId": 230,
+    "CityId": 18
+  },
+  {
+    "ID": 224,
+    "DistrictId": 231,
+    "CityId": 18
+  },
+  {
+    "ID": 225,
+    "DistrictId": 232,
+    "CityId": 18
+  },
+  {
+    "ID": 226,
+    "DistrictId": 233,
+    "CityId": 18
+  },
+  {
+    "ID": 227,
+    "DistrictId": 234,
+    "CityId": 18
+  },
+  {
+    "ID": 228,
+    "DistrictId": 235,
+    "CityId": 18
+  },
+  {
+    "ID": 229,
+    "DistrictId": 236,
+    "CityId": 18
+  },
+  {
+    "ID": 230,
+    "DistrictId": 237,
+    "CityId": 19
+  },
+  {
+    "ID": 231,
+    "DistrictId": 238,
+    "CityId": 19
+  },
+  {
+    "ID": 232,
+    "DistrictId": 239,
+    "CityId": 19
+  },
+  {
+    "ID": 233,
+    "DistrictId": 240,
+    "CityId": 19
+  },
+  {
+    "ID": 234,
+    "DistrictId": 241,
+    "CityId": 19
+  },
+  {
+    "ID": 235,
+    "DistrictId": 242,
+    "CityId": 19
+  },
+  {
+    "ID": 236,
+    "DistrictId": 243,
+    "CityId": 19
+  },
+  {
+    "ID": 237,
+    "DistrictId": 244,
+    "CityId": 19
+  },
+  {
+    "ID": 238,
+    "DistrictId": 245,
+    "CityId": 19
+  },
+  {
+    "ID": 239,
+    "DistrictId": 246,
+    "CityId": 19
+  },
+  {
+    "ID": 240,
+    "DistrictId": 247,
+    "CityId": 19
+  },
+  {
+    "ID": 241,
+    "DistrictId": 248,
+    "CityId": 19
+  },
+  {
+    "ID": 242,
+    "DistrictId": 249,
+    "CityId": 19
+  },
+  {
+    "ID": 243,
+    "DistrictId": 250,
+    "CityId": 19
+  },
+  {
+    "ID": 244,
+    "DistrictId": 251,
+    "CityId": 20
+  },
+  {
+    "ID": 245,
+    "DistrictId": 252,
+    "CityId": 20
+  },
+  {
+    "ID": 246,
+    "DistrictId": 253,
+    "CityId": 20
+  },
+  {
+    "ID": 247,
+    "DistrictId": 254,
+    "CityId": 20
+  },
+  {
+    "ID": 248,
+    "DistrictId": 255,
+    "CityId": 20
+  },
+  {
+    "ID": 249,
+    "DistrictId": 256,
+    "CityId": 20
+  },
+  {
+    "ID": 250,
+    "DistrictId": 257,
+    "CityId": 20
+  },
+  {
+    "ID": 251,
+    "DistrictId": 258,
+    "CityId": 20
+  },
+  {
+    "ID": 252,
+    "DistrictId": 259,
+    "CityId": 20
+  },
+  {
+    "ID": 253,
+    "DistrictId": 260,
+    "CityId": 20
+  },
+  {
+    "ID": 254,
+    "DistrictId": 261,
+    "CityId": 20
+  },
+  {
+    "ID": 255,
+    "DistrictId": 262,
+    "CityId": 20
+  },
+  {
+    "ID": 256,
+    "DistrictId": 263,
+    "CityId": 20
+  },
+  {
+    "ID": 257,
+    "DistrictId": 264,
+    "CityId": 20
+  },
+  {
+    "ID": 258,
+    "DistrictId": 265,
+    "CityId": 20
+  },
+  {
+    "ID": 259,
+    "DistrictId": 266,
+    "CityId": 20
+  },
+  {
+    "ID": 260,
+    "DistrictId": 267,
+    "CityId": 20
+  },
+  {
+    "ID": 261,
+    "DistrictId": 268,
+    "CityId": 20
+  },
+  {
+    "ID": 262,
+    "DistrictId": 269,
+    "CityId": 20
+  },
+  {
+    "ID": 263,
+    "DistrictId": 270,
+    "CityId": 21
+  },
+  {
+    "ID": 264,
+    "DistrictId": 271,
+    "CityId": 21
+  },
+  {
+    "ID": 265,
+    "DistrictId": 272,
+    "CityId": 21
+  },
+  {
+    "ID": 266,
+    "DistrictId": 273,
+    "CityId": 21
+  },
+  {
+    "ID": 267,
+    "DistrictId": 274,
+    "CityId": 21
+  },
+  {
+    "ID": 268,
+    "DistrictId": 275,
+    "CityId": 21
+  },
+  {
+    "ID": 269,
+    "DistrictId": 276,
+    "CityId": 21
+  },
+  {
+    "ID": 270,
+    "DistrictId": 277,
+    "CityId": 21
+  },
+  {
+    "ID": 271,
+    "DistrictId": 278,
+    "CityId": 21
+  },
+  {
+    "ID": 272,
+    "DistrictId": 279,
+    "CityId": 21
+  },
+  {
+    "ID": 273,
+    "DistrictId": 280,
+    "CityId": 21
+  },
+  {
+    "ID": 274,
+    "DistrictId": 281,
+    "CityId": 21
+  },
+  {
+    "ID": 275,
+    "DistrictId": 282,
+    "CityId": 21
+  },
+  {
+    "ID": 276,
+    "DistrictId": 283,
+    "CityId": 21
+  },
+  {
+    "ID": 277,
+    "DistrictId": 284,
+    "CityId": 21
+  },
+  {
+    "ID": 278,
+    "DistrictId": 285,
+    "CityId": 21
+  },
+  {
+    "ID": 279,
+    "DistrictId": 286,
+    "CityId": 21
+  },
+  {
+    "ID": 280,
+    "DistrictId": 287,
+    "CityId": 22
+  },
+  {
+    "ID": 281,
+    "DistrictId": 288,
+    "CityId": 22
+  },
+  {
+    "ID": 282,
+    "DistrictId": 289,
+    "CityId": 22
+  },
+  {
+    "ID": 283,
+    "DistrictId": 290,
+    "CityId": 22
+  },
+  {
+    "ID": 284,
+    "DistrictId": 291,
+    "CityId": 22
+  },
+  {
+    "ID": 285,
+    "DistrictId": 292,
+    "CityId": 22
+  },
+  {
+    "ID": 286,
+    "DistrictId": 293,
+    "CityId": 22
+  },
+  {
+    "ID": 287,
+    "DistrictId": 294,
+    "CityId": 22
+  },
+  {
+    "ID": 288,
+    "DistrictId": 295,
+    "CityId": 22
+  },
+  {
+    "ID": 289,
+    "DistrictId": 296,
+    "CityId": 23
+  },
+  {
+    "ID": 290,
+    "DistrictId": 297,
+    "CityId": 23
+  },
+  {
+    "ID": 291,
+    "DistrictId": 298,
+    "CityId": 23
+  },
+  {
+    "ID": 292,
+    "DistrictId": 299,
+    "CityId": 23
+  },
+  {
+    "ID": 293,
+    "DistrictId": 300,
+    "CityId": 23
+  },
+  {
+    "ID": 294,
+    "DistrictId": 301,
+    "CityId": 23
+  },
+  {
+    "ID": 295,
+    "DistrictId": 302,
+    "CityId": 23
+  },
+  {
+    "ID": 296,
+    "DistrictId": 303,
+    "CityId": 23
+  },
+  {
+    "ID": 297,
+    "DistrictId": 304,
+    "CityId": 23
+  },
+  {
+    "ID": 298,
+    "DistrictId": 305,
+    "CityId": 23
+  },
+  {
+    "ID": 299,
+    "DistrictId": 306,
+    "CityId": 23
+  },
+  {
+    "ID": 300,
+    "DistrictId": 307,
+    "CityId": 24
+  },
+  {
+    "ID": 301,
+    "DistrictId": 308,
+    "CityId": 24
+  },
+  {
+    "ID": 302,
+    "DistrictId": 309,
+    "CityId": 24
+  },
+  {
+    "ID": 303,
+    "DistrictId": 310,
+    "CityId": 24
+  },
+  {
+    "ID": 304,
+    "DistrictId": 311,
+    "CityId": 24
+  },
+  {
+    "ID": 305,
+    "DistrictId": 312,
+    "CityId": 24
+  },
+  {
+    "ID": 306,
+    "DistrictId": 313,
+    "CityId": 24
+  },
+  {
+    "ID": 307,
+    "DistrictId": 314,
+    "CityId": 24
+  },
+  {
+    "ID": 308,
+    "DistrictId": 315,
+    "CityId": 24
+  },
+  {
+    "ID": 309,
+    "DistrictId": 316,
+    "CityId": 25
+  },
+  {
+    "ID": 310,
+    "DistrictId": 317,
+    "CityId": 25
+  },
+  {
+    "ID": 311,
+    "DistrictId": 318,
+    "CityId": 25
+  },
+  {
+    "ID": 312,
+    "DistrictId": 319,
+    "CityId": 25
+  },
+  {
+    "ID": 313,
+    "DistrictId": 320,
+    "CityId": 25
+  },
+  {
+    "ID": 314,
+    "DistrictId": 321,
+    "CityId": 25
+  },
+  {
+    "ID": 315,
+    "DistrictId": 322,
+    "CityId": 25
+  },
+  {
+    "ID": 316,
+    "DistrictId": 323,
+    "CityId": 25
+  },
+  {
+    "ID": 317,
+    "DistrictId": 324,
+    "CityId": 25
+  },
+  {
+    "ID": 318,
+    "DistrictId": 325,
+    "CityId": 25
+  },
+  {
+    "ID": 319,
+    "DistrictId": 326,
+    "CityId": 25
+  },
+  {
+    "ID": 320,
+    "DistrictId": 327,
+    "CityId": 25
+  },
+  {
+    "ID": 321,
+    "DistrictId": 328,
+    "CityId": 25
+  },
+  {
+    "ID": 322,
+    "DistrictId": 329,
+    "CityId": 25
+  },
+  {
+    "ID": 323,
+    "DistrictId": 330,
+    "CityId": 25
+  },
+  {
+    "ID": 324,
+    "DistrictId": 331,
+    "CityId": 25
+  },
+  {
+    "ID": 325,
+    "DistrictId": 332,
+    "CityId": 25
+  },
+  {
+    "ID": 326,
+    "DistrictId": 333,
+    "CityId": 25
+  },
+  {
+    "ID": 327,
+    "DistrictId": 334,
+    "CityId": 25
+  },
+  {
+    "ID": 328,
+    "DistrictId": 335,
+    "CityId": 25
+  },
+  {
+    "ID": 329,
+    "DistrictId": 336,
+    "CityId": 26
+  },
+  {
+    "ID": 330,
+    "DistrictId": 337,
+    "CityId": 26
+  },
+  {
+    "ID": 331,
+    "DistrictId": 338,
+    "CityId": 26
+  },
+  {
+    "ID": 332,
+    "DistrictId": 339,
+    "CityId": 26
+  },
+  {
+    "ID": 333,
+    "DistrictId": 340,
+    "CityId": 26
+  },
+  {
+    "ID": 334,
+    "DistrictId": 341,
+    "CityId": 26
+  },
+  {
+    "ID": 335,
+    "DistrictId": 342,
+    "CityId": 26
+  },
+  {
+    "ID": 336,
+    "DistrictId": 343,
+    "CityId": 26
+  },
+  {
+    "ID": 337,
+    "DistrictId": 344,
+    "CityId": 26
+  },
+  {
+    "ID": 338,
+    "DistrictId": 345,
+    "CityId": 26
+  },
+  {
+    "ID": 339,
+    "DistrictId": 346,
+    "CityId": 26
+  },
+  {
+    "ID": 340,
+    "DistrictId": 347,
+    "CityId": 26
+  },
+  {
+    "ID": 341,
+    "DistrictId": 348,
+    "CityId": 26
+  },
+  {
+    "ID": 342,
+    "DistrictId": 349,
+    "CityId": 26
+  },
+  {
+    "ID": 343,
+    "DistrictId": 350,
+    "CityId": 27
+  },
+  {
+    "ID": 344,
+    "DistrictId": 351,
+    "CityId": 27
+  },
+  {
+    "ID": 345,
+    "DistrictId": 352,
+    "CityId": 27
+  },
+  {
+    "ID": 346,
+    "DistrictId": 353,
+    "CityId": 27
+  },
+  {
+    "ID": 347,
+    "DistrictId": 354,
+    "CityId": 27
+  },
+  {
+    "ID": 348,
+    "DistrictId": 355,
+    "CityId": 27
+  },
+  {
+    "ID": 349,
+    "DistrictId": 356,
+    "CityId": 27
+  },
+  {
+    "ID": 350,
+    "DistrictId": 357,
+    "CityId": 27
+  },
+  {
+    "ID": 351,
+    "DistrictId": 358,
+    "CityId": 27
+  },
+  {
+    "ID": 352,
+    "DistrictId": 359,
+    "CityId": 28
+  },
+  {
+    "ID": 353,
+    "DistrictId": 360,
+    "CityId": 28
+  },
+  {
+    "ID": 354,
+    "DistrictId": 361,
+    "CityId": 28
+  },
+  {
+    "ID": 355,
+    "DistrictId": 362,
+    "CityId": 28
+  },
+  {
+    "ID": 356,
+    "DistrictId": 363,
+    "CityId": 28
+  },
+  {
+    "ID": 357,
+    "DistrictId": 364,
+    "CityId": 28
+  },
+  {
+    "ID": 358,
+    "DistrictId": 365,
+    "CityId": 28
+  },
+  {
+    "ID": 359,
+    "DistrictId": 366,
+    "CityId": 28
+  },
+  {
+    "ID": 360,
+    "DistrictId": 367,
+    "CityId": 28
+  },
+  {
+    "ID": 361,
+    "DistrictId": 368,
+    "CityId": 28
+  },
+  {
+    "ID": 362,
+    "DistrictId": 369,
+    "CityId": 28
+  },
+  {
+    "ID": 363,
+    "DistrictId": 370,
+    "CityId": 28
+  },
+  {
+    "ID": 364,
+    "DistrictId": 371,
+    "CityId": 28
+  },
+  {
+    "ID": 365,
+    "DistrictId": 372,
+    "CityId": 28
+  },
+  {
+    "ID": 366,
+    "DistrictId": 373,
+    "CityId": 28
+  },
+  {
+    "ID": 367,
+    "DistrictId": 374,
+    "CityId": 28
+  },
+  {
+    "ID": 368,
+    "DistrictId": 375,
+    "CityId": 29
+  },
+  {
+    "ID": 369,
+    "DistrictId": 376,
+    "CityId": 29
+  },
+  {
+    "ID": 370,
+    "DistrictId": 377,
+    "CityId": 29
+  },
+  {
+    "ID": 371,
+    "DistrictId": 378,
+    "CityId": 29
+  },
+  {
+    "ID": 372,
+    "DistrictId": 379,
+    "CityId": 29
+  },
+  {
+    "ID": 373,
+    "DistrictId": 380,
+    "CityId": 29
+  },
+  {
+    "ID": 374,
+    "DistrictId": 381,
+    "CityId": 30
+  },
+  {
+    "ID": 375,
+    "DistrictId": 382,
+    "CityId": 30
+  },
+  {
+    "ID": 376,
+    "DistrictId": 383,
+    "CityId": 30
+  },
+  {
+    "ID": 377,
+    "DistrictId": 384,
+    "CityId": 30
+  },
+  {
+    "ID": 378,
+    "DistrictId": 385,
+    "CityId": 30
+  },
+  {
+    "ID": 379,
+    "DistrictId": 386,
+    "CityId": 31
+  },
+  {
+    "ID": 380,
+    "DistrictId": 387,
+    "CityId": 31
+  },
+  {
+    "ID": 381,
+    "DistrictId": 388,
+    "CityId": 31
+  },
+  {
+    "ID": 382,
+    "DistrictId": 389,
+    "CityId": 31
+  },
+  {
+    "ID": 383,
+    "DistrictId": 390,
+    "CityId": 31
+  },
+  {
+    "ID": 384,
+    "DistrictId": 391,
+    "CityId": 31
+  },
+  {
+    "ID": 385,
+    "DistrictId": 392,
+    "CityId": 31
+  },
+  {
+    "ID": 386,
+    "DistrictId": 393,
+    "CityId": 31
+  },
+  {
+    "ID": 387,
+    "DistrictId": 394,
+    "CityId": 31
+  },
+  {
+    "ID": 388,
+    "DistrictId": 395,
+    "CityId": 31
+  },
+  {
+    "ID": 389,
+    "DistrictId": 396,
+    "CityId": 31
+  },
+  {
+    "ID": 390,
+    "DistrictId": 397,
+    "CityId": 31
+  },
+  {
+    "ID": 391,
+    "DistrictId": 398,
+    "CityId": 31
+  },
+  {
+    "ID": 392,
+    "DistrictId": 399,
+    "CityId": 31
+  },
+  {
+    "ID": 393,
+    "DistrictId": 400,
+    "CityId": 31
+  },
+  {
+    "ID": 394,
+    "DistrictId": 401,
+    "CityId": 32
+  },
+  {
+    "ID": 395,
+    "DistrictId": 402,
+    "CityId": 32
+  },
+  {
+    "ID": 396,
+    "DistrictId": 403,
+    "CityId": 32
+  },
+  {
+    "ID": 397,
+    "DistrictId": 404,
+    "CityId": 32
+  },
+  {
+    "ID": 398,
+    "DistrictId": 405,
+    "CityId": 32
+  },
+  {
+    "ID": 399,
+    "DistrictId": 406,
+    "CityId": 32
+  },
+  {
+    "ID": 400,
+    "DistrictId": 407,
+    "CityId": 32
+  },
+  {
+    "ID": 401,
+    "DistrictId": 408,
+    "CityId": 32
+  },
+  {
+    "ID": 402,
+    "DistrictId": 409,
+    "CityId": 32
+  },
+  {
+    "ID": 403,
+    "DistrictId": 410,
+    "CityId": 32
+  },
+  {
+    "ID": 404,
+    "DistrictId": 411,
+    "CityId": 32
+  },
+  {
+    "ID": 405,
+    "DistrictId": 412,
+    "CityId": 32
+  },
+  {
+    "ID": 406,
+    "DistrictId": 413,
+    "CityId": 32
+  },
+  {
+    "ID": 407,
+    "DistrictId": 414,
+    "CityId": 33
+  },
+  {
+    "ID": 408,
+    "DistrictId": 415,
+    "CityId": 33
+  },
+  {
+    "ID": 409,
+    "DistrictId": 416,
+    "CityId": 33
+  },
+  {
+    "ID": 410,
+    "DistrictId": 417,
+    "CityId": 33
+  },
+  {
+    "ID": 411,
+    "DistrictId": 418,
+    "CityId": 33
+  },
+  {
+    "ID": 412,
+    "DistrictId": 419,
+    "CityId": 33
+  },
+  {
+    "ID": 413,
+    "DistrictId": 420,
+    "CityId": 33
+  },
+  {
+    "ID": 414,
+    "DistrictId": 421,
+    "CityId": 33
+  },
+  {
+    "ID": 415,
+    "DistrictId": 422,
+    "CityId": 33
+  },
+  {
+    "ID": 416,
+    "DistrictId": 423,
+    "CityId": 33
+  },
+  {
+    "ID": 417,
+    "DistrictId": 424,
+    "CityId": 33
+  },
+  {
+    "ID": 418,
+    "DistrictId": 425,
+    "CityId": 33
+  },
+  {
+    "ID": 419,
+    "DistrictId": 426,
+    "CityId": 33
+  },
+  {
+    "ID": 420,
+    "DistrictId": 427,
+    "CityId": 34
+  },
+  {
+    "ID": 421,
+    "DistrictId": 428,
+    "CityId": 34
+  },
+  {
+    "ID": 422,
+    "DistrictId": 429,
+    "CityId": 34
+  },
+  {
+    "ID": 423,
+    "DistrictId": 430,
+    "CityId": 34
+  },
+  {
+    "ID": 424,
+    "DistrictId": 431,
+    "CityId": 34
+  },
+  {
+    "ID": 425,
+    "DistrictId": 432,
+    "CityId": 34
+  },
+  {
+    "ID": 426,
+    "DistrictId": 433,
+    "CityId": 34
+  },
+  {
+    "ID": 427,
+    "DistrictId": 434,
+    "CityId": 34
+  },
+  {
+    "ID": 428,
+    "DistrictId": 435,
+    "CityId": 34
+  },
+  {
+    "ID": 429,
+    "DistrictId": 436,
+    "CityId": 34
+  },
+  {
+    "ID": 430,
+    "DistrictId": 437,
+    "CityId": 34
+  },
+  {
+    "ID": 431,
+    "DistrictId": 438,
+    "CityId": 34
+  },
+  {
+    "ID": 432,
+    "DistrictId": 439,
+    "CityId": 34
+  },
+  {
+    "ID": 433,
+    "DistrictId": 440,
+    "CityId": 34
+  },
+  {
+    "ID": 434,
+    "DistrictId": 441,
+    "CityId": 34
+  },
+  {
+    "ID": 435,
+    "DistrictId": 442,
+    "CityId": 34
+  },
+  {
+    "ID": 436,
+    "DistrictId": 443,
+    "CityId": 34
+  },
+  {
+    "ID": 437,
+    "DistrictId": 444,
+    "CityId": 34
+  },
+  {
+    "ID": 438,
+    "DistrictId": 445,
+    "CityId": 34
+  },
+  {
+    "ID": 439,
+    "DistrictId": 446,
+    "CityId": 34
+  },
+  {
+    "ID": 440,
+    "DistrictId": 447,
+    "CityId": 34
+  },
+  {
+    "ID": 441,
+    "DistrictId": 448,
+    "CityId": 34
+  },
+  {
+    "ID": 442,
+    "DistrictId": 449,
+    "CityId": 34
+  },
+  {
+    "ID": 443,
+    "DistrictId": 450,
+    "CityId": 34
+  },
+  {
+    "ID": 444,
+    "DistrictId": 451,
+    "CityId": 34
+  },
+  {
+    "ID": 445,
+    "DistrictId": 452,
+    "CityId": 34
+  },
+  {
+    "ID": 446,
+    "DistrictId": 453,
+    "CityId": 34
+  },
+  {
+    "ID": 447,
+    "DistrictId": 454,
+    "CityId": 34
+  },
+  {
+    "ID": 448,
+    "DistrictId": 455,
+    "CityId": 34
+  },
+  {
+    "ID": 449,
+    "DistrictId": 456,
+    "CityId": 34
+  },
+  {
+    "ID": 450,
+    "DistrictId": 457,
+    "CityId": 34
+  },
+  {
+    "ID": 451,
+    "DistrictId": 458,
+    "CityId": 34
+  },
+  {
+    "ID": 452,
+    "DistrictId": 459,
+    "CityId": 34
+  },
+  {
+    "ID": 453,
+    "DistrictId": 460,
+    "CityId": 34
+  },
+  {
+    "ID": 454,
+    "DistrictId": 461,
+    "CityId": 34
+  },
+  {
+    "ID": 455,
+    "DistrictId": 462,
+    "CityId": 34
+  },
+  {
+    "ID": 456,
+    "DistrictId": 463,
+    "CityId": 34
+  },
+  {
+    "ID": 457,
+    "DistrictId": 464,
+    "CityId": 34
+  },
+  {
+    "ID": 458,
+    "DistrictId": 465,
+    "CityId": 34
+  },
+  {
+    "ID": 459,
+    "DistrictId": 466,
+    "CityId": 35
+  },
+  {
+    "ID": 460,
+    "DistrictId": 467,
+    "CityId": 35
+  },
+  {
+    "ID": 461,
+    "DistrictId": 468,
+    "CityId": 35
+  },
+  {
+    "ID": 462,
+    "DistrictId": 469,
+    "CityId": 35
+  },
+  {
+    "ID": 463,
+    "DistrictId": 470,
+    "CityId": 35
+  },
+  {
+    "ID": 464,
+    "DistrictId": 471,
+    "CityId": 35
+  },
+  {
+    "ID": 465,
+    "DistrictId": 472,
+    "CityId": 35
+  },
+  {
+    "ID": 466,
+    "DistrictId": 473,
+    "CityId": 35
+  },
+  {
+    "ID": 467,
+    "DistrictId": 474,
+    "CityId": 35
+  },
+  {
+    "ID": 468,
+    "DistrictId": 475,
+    "CityId": 35
+  },
+  {
+    "ID": 469,
+    "DistrictId": 476,
+    "CityId": 35
+  },
+  {
+    "ID": 470,
+    "DistrictId": 477,
+    "CityId": 35
+  },
+  {
+    "ID": 471,
+    "DistrictId": 478,
+    "CityId": 35
+  },
+  {
+    "ID": 472,
+    "DistrictId": 479,
+    "CityId": 35
+  },
+  {
+    "ID": 473,
+    "DistrictId": 480,
+    "CityId": 35
+  },
+  {
+    "ID": 474,
+    "DistrictId": 481,
+    "CityId": 35
+  },
+  {
+    "ID": 475,
+    "DistrictId": 482,
+    "CityId": 35
+  },
+  {
+    "ID": 476,
+    "DistrictId": 483,
+    "CityId": 35
+  },
+  {
+    "ID": 477,
+    "DistrictId": 484,
+    "CityId": 35
+  },
+  {
+    "ID": 478,
+    "DistrictId": 485,
+    "CityId": 35
+  },
+  {
+    "ID": 479,
+    "DistrictId": 486,
+    "CityId": 35
+  },
+  {
+    "ID": 480,
+    "DistrictId": 487,
+    "CityId": 35
+  },
+  {
+    "ID": 481,
+    "DistrictId": 488,
+    "CityId": 35
+  },
+  {
+    "ID": 482,
+    "DistrictId": 489,
+    "CityId": 35
+  },
+  {
+    "ID": 483,
+    "DistrictId": 490,
+    "CityId": 35
+  },
+  {
+    "ID": 484,
+    "DistrictId": 491,
+    "CityId": 35
+  },
+  {
+    "ID": 485,
+    "DistrictId": 492,
+    "CityId": 35
+  },
+  {
+    "ID": 486,
+    "DistrictId": 493,
+    "CityId": 35
+  },
+  {
+    "ID": 487,
+    "DistrictId": 494,
+    "CityId": 35
+  },
+  {
+    "ID": 488,
+    "DistrictId": 495,
+    "CityId": 35
+  },
+  {
+    "ID": 489,
+    "DistrictId": 497,
+    "CityId": 36
+  },
+  {
+    "ID": 490,
+    "DistrictId": 498,
+    "CityId": 36
+  },
+  {
+    "ID": 491,
+    "DistrictId": 499,
+    "CityId": 36
+  },
+  {
+    "ID": 492,
+    "DistrictId": 500,
+    "CityId": 36
+  },
+  {
+    "ID": 493,
+    "DistrictId": 501,
+    "CityId": 36
+  },
+  {
+    "ID": 494,
+    "DistrictId": 502,
+    "CityId": 36
+  },
+  {
+    "ID": 495,
+    "DistrictId": 503,
+    "CityId": 36
+  },
+  {
+    "ID": 496,
+    "DistrictId": 504,
+    "CityId": 36
+  },
+  {
+    "ID": 497,
+    "DistrictId": 505,
+    "CityId": 37
+  },
+  {
+    "ID": 498,
+    "DistrictId": 506,
+    "CityId": 37
+  },
+  {
+    "ID": 499,
+    "DistrictId": 507,
+    "CityId": 37
+  },
+  {
+    "ID": 500,
+    "DistrictId": 508,
+    "CityId": 37
+  },
+  {
+    "ID": 501,
+    "DistrictId": 509,
+    "CityId": 37
+  },
+  {
+    "ID": 502,
+    "DistrictId": 510,
+    "CityId": 37
+  },
+  {
+    "ID": 503,
+    "DistrictId": 511,
+    "CityId": 37
+  },
+  {
+    "ID": 504,
+    "DistrictId": 512,
+    "CityId": 37
+  },
+  {
+    "ID": 505,
+    "DistrictId": 513,
+    "CityId": 37
+  },
+  {
+    "ID": 506,
+    "DistrictId": 514,
+    "CityId": 37
+  },
+  {
+    "ID": 507,
+    "DistrictId": 515,
+    "CityId": 37
+  },
+  {
+    "ID": 508,
+    "DistrictId": 516,
+    "CityId": 37
+  },
+  {
+    "ID": 509,
+    "DistrictId": 517,
+    "CityId": 37
+  },
+  {
+    "ID": 510,
+    "DistrictId": 518,
+    "CityId": 37
+  },
+  {
+    "ID": 511,
+    "DistrictId": 519,
+    "CityId": 37
+  },
+  {
+    "ID": 512,
+    "DistrictId": 520,
+    "CityId": 37
+  },
+  {
+    "ID": 513,
+    "DistrictId": 521,
+    "CityId": 37
+  },
+  {
+    "ID": 514,
+    "DistrictId": 522,
+    "CityId": 37
+  },
+  {
+    "ID": 515,
+    "DistrictId": 523,
+    "CityId": 37
+  },
+  {
+    "ID": 516,
+    "DistrictId": 524,
+    "CityId": 37
+  },
+  {
+    "ID": 517,
+    "DistrictId": 525,
+    "CityId": 38
+  },
+  {
+    "ID": 518,
+    "DistrictId": 526,
+    "CityId": 38
+  },
+  {
+    "ID": 519,
+    "DistrictId": 527,
+    "CityId": 38
+  },
+  {
+    "ID": 520,
+    "DistrictId": 528,
+    "CityId": 38
+  },
+  {
+    "ID": 521,
+    "DistrictId": 529,
+    "CityId": 38
+  },
+  {
+    "ID": 522,
+    "DistrictId": 530,
+    "CityId": 38
+  },
+  {
+    "ID": 523,
+    "DistrictId": 531,
+    "CityId": 38
+  },
+  {
+    "ID": 524,
+    "DistrictId": 532,
+    "CityId": 38
+  },
+  {
+    "ID": 525,
+    "DistrictId": 533,
+    "CityId": 38
+  },
+  {
+    "ID": 526,
+    "DistrictId": 534,
+    "CityId": 38
+  },
+  {
+    "ID": 527,
+    "DistrictId": 535,
+    "CityId": 38
+  },
+  {
+    "ID": 528,
+    "DistrictId": 536,
+    "CityId": 38
+  },
+  {
+    "ID": 529,
+    "DistrictId": 537,
+    "CityId": 38
+  },
+  {
+    "ID": 530,
+    "DistrictId": 538,
+    "CityId": 38
+  },
+  {
+    "ID": 531,
+    "DistrictId": 539,
+    "CityId": 38
+  },
+  {
+    "ID": 532,
+    "DistrictId": 540,
+    "CityId": 38
+  },
+  {
+    "ID": 533,
+    "DistrictId": 541,
+    "CityId": 39
+  },
+  {
+    "ID": 534,
+    "DistrictId": 542,
+    "CityId": 39
+  },
+  {
+    "ID": 535,
+    "DistrictId": 543,
+    "CityId": 39
+  },
+  {
+    "ID": 536,
+    "DistrictId": 544,
+    "CityId": 39
+  },
+  {
+    "ID": 537,
+    "DistrictId": 545,
+    "CityId": 39
+  },
+  {
+    "ID": 538,
+    "DistrictId": 546,
+    "CityId": 39
+  },
+  {
+    "ID": 539,
+    "DistrictId": 547,
+    "CityId": 39
+  },
+  {
+    "ID": 540,
+    "DistrictId": 548,
+    "CityId": 39
+  },
+  {
+    "ID": 541,
+    "DistrictId": 549,
+    "CityId": 40
+  },
+  {
+    "ID": 542,
+    "DistrictId": 550,
+    "CityId": 40
+  },
+  {
+    "ID": 543,
+    "DistrictId": 551,
+    "CityId": 40
+  },
+  {
+    "ID": 544,
+    "DistrictId": 552,
+    "CityId": 40
+  },
+  {
+    "ID": 545,
+    "DistrictId": 553,
+    "CityId": 40
+  },
+  {
+    "ID": 546,
+    "DistrictId": 554,
+    "CityId": 40
+  },
+  {
+    "ID": 547,
+    "DistrictId": 555,
+    "CityId": 41
+  },
+  {
+    "ID": 548,
+    "DistrictId": 556,
+    "CityId": 41
+  },
+  {
+    "ID": 549,
+    "DistrictId": 557,
+    "CityId": 41
+  },
+  {
+    "ID": 550,
+    "DistrictId": 558,
+    "CityId": 41
+  },
+  {
+    "ID": 551,
+    "DistrictId": 559,
+    "CityId": 41
+  },
+  {
+    "ID": 552,
+    "DistrictId": 560,
+    "CityId": 41
+  },
+  {
+    "ID": 553,
+    "DistrictId": 561,
+    "CityId": 41
+  },
+  {
+    "ID": 554,
+    "DistrictId": 562,
+    "CityId": 41
+  },
+  {
+    "ID": 555,
+    "DistrictId": 563,
+    "CityId": 41
+  },
+  {
+    "ID": 556,
+    "DistrictId": 564,
+    "CityId": 41
+  },
+  {
+    "ID": 557,
+    "DistrictId": 565,
+    "CityId": 41
+  },
+  {
+    "ID": 558,
+    "DistrictId": 566,
+    "CityId": 41
+  },
+  {
+    "ID": 559,
+    "DistrictId": 567,
+    "CityId": 42
+  },
+  {
+    "ID": 560,
+    "DistrictId": 568,
+    "CityId": 42
+  },
+  {
+    "ID": 561,
+    "DistrictId": 569,
+    "CityId": 42
+  },
+  {
+    "ID": 562,
+    "DistrictId": 570,
+    "CityId": 42
+  },
+  {
+    "ID": 563,
+    "DistrictId": 571,
+    "CityId": 42
+  },
+  {
+    "ID": 564,
+    "DistrictId": 572,
+    "CityId": 42
+  },
+  {
+    "ID": 565,
+    "DistrictId": 573,
+    "CityId": 42
+  },
+  {
+    "ID": 566,
+    "DistrictId": 574,
+    "CityId": 42
+  },
+  {
+    "ID": 567,
+    "DistrictId": 575,
+    "CityId": 42
+  },
+  {
+    "ID": 568,
+    "DistrictId": 576,
+    "CityId": 42
+  },
+  {
+    "ID": 569,
+    "DistrictId": 577,
+    "CityId": 42
+  },
+  {
+    "ID": 570,
+    "DistrictId": 578,
+    "CityId": 42
+  },
+  {
+    "ID": 571,
+    "DistrictId": 579,
+    "CityId": 42
+  },
+  {
+    "ID": 572,
+    "DistrictId": 580,
+    "CityId": 42
+  },
+  {
+    "ID": 573,
+    "DistrictId": 581,
+    "CityId": 42
+  },
+  {
+    "ID": 574,
+    "DistrictId": 582,
+    "CityId": 42
+  },
+  {
+    "ID": 575,
+    "DistrictId": 583,
+    "CityId": 42
+  },
+  {
+    "ID": 576,
+    "DistrictId": 584,
+    "CityId": 42
+  },
+  {
+    "ID": 577,
+    "DistrictId": 585,
+    "CityId": 42
+  },
+  {
+    "ID": 578,
+    "DistrictId": 586,
+    "CityId": 42
+  },
+  {
+    "ID": 579,
+    "DistrictId": 587,
+    "CityId": 42
+  },
+  {
+    "ID": 580,
+    "DistrictId": 588,
+    "CityId": 42
+  },
+  {
+    "ID": 581,
+    "DistrictId": 589,
+    "CityId": 42
+  },
+  {
+    "ID": 582,
+    "DistrictId": 590,
+    "CityId": 42
+  },
+  {
+    "ID": 583,
+    "DistrictId": 591,
+    "CityId": 42
+  },
+  {
+    "ID": 584,
+    "DistrictId": 592,
+    "CityId": 42
+  },
+  {
+    "ID": 585,
+    "DistrictId": 593,
+    "CityId": 42
+  },
+  {
+    "ID": 586,
+    "DistrictId": 594,
+    "CityId": 42
+  },
+  {
+    "ID": 587,
+    "DistrictId": 595,
+    "CityId": 43
+  },
+  {
+    "ID": 588,
+    "DistrictId": 596,
+    "CityId": 43
+  },
+  {
+    "ID": 589,
+    "DistrictId": 597,
+    "CityId": 43
+  },
+  {
+    "ID": 590,
+    "DistrictId": 598,
+    "CityId": 43
+  },
+  {
+    "ID": 591,
+    "DistrictId": 599,
+    "CityId": 43
+  },
+  {
+    "ID": 592,
+    "DistrictId": 600,
+    "CityId": 43
+  },
+  {
+    "ID": 593,
+    "DistrictId": 601,
+    "CityId": 43
+  },
+  {
+    "ID": 594,
+    "DistrictId": 602,
+    "CityId": 43
+  },
+  {
+    "ID": 595,
+    "DistrictId": 603,
+    "CityId": 43
+  },
+  {
+    "ID": 596,
+    "DistrictId": 604,
+    "CityId": 43
+  },
+  {
+    "ID": 597,
+    "DistrictId": 605,
+    "CityId": 43
+  },
+  {
+    "ID": 598,
+    "DistrictId": 606,
+    "CityId": 43
+  },
+  {
+    "ID": 599,
+    "DistrictId": 607,
+    "CityId": 43
+  },
+  {
+    "ID": 600,
+    "DistrictId": 608,
+    "CityId": 44
+  },
+  {
+    "ID": 601,
+    "DistrictId": 609,
+    "CityId": 44
+  },
+  {
+    "ID": 602,
+    "DistrictId": 610,
+    "CityId": 44
+  },
+  {
+    "ID": 603,
+    "DistrictId": 611,
+    "CityId": 44
+  },
+  {
+    "ID": 604,
+    "DistrictId": 612,
+    "CityId": 44
+  },
+  {
+    "ID": 605,
+    "DistrictId": 613,
+    "CityId": 44
+  },
+  {
+    "ID": 606,
+    "DistrictId": 614,
+    "CityId": 44
+  },
+  {
+    "ID": 607,
+    "DistrictId": 615,
+    "CityId": 44
+  },
+  {
+    "ID": 608,
+    "DistrictId": 616,
+    "CityId": 44
+  },
+  {
+    "ID": 609,
+    "DistrictId": 617,
+    "CityId": 44
+  },
+  {
+    "ID": 610,
+    "DistrictId": 618,
+    "CityId": 44
+  },
+  {
+    "ID": 611,
+    "DistrictId": 619,
+    "CityId": 44
+  },
+  {
+    "ID": 612,
+    "DistrictId": 620,
+    "CityId": 44
+  },
+  {
+    "ID": 613,
+    "DistrictId": 621,
+    "CityId": 45
+  },
+  {
+    "ID": 614,
+    "DistrictId": 622,
+    "CityId": 45
+  },
+  {
+    "ID": 615,
+    "DistrictId": 623,
+    "CityId": 45
+  },
+  {
+    "ID": 616,
+    "DistrictId": 624,
+    "CityId": 45
+  },
+  {
+    "ID": 617,
+    "DistrictId": 625,
+    "CityId": 45
+  },
+  {
+    "ID": 618,
+    "DistrictId": 626,
+    "CityId": 45
+  },
+  {
+    "ID": 619,
+    "DistrictId": 627,
+    "CityId": 45
+  },
+  {
+    "ID": 620,
+    "DistrictId": 628,
+    "CityId": 45
+  },
+  {
+    "ID": 621,
+    "DistrictId": 629,
+    "CityId": 45
+  },
+  {
+    "ID": 622,
+    "DistrictId": 630,
+    "CityId": 45
+  },
+  {
+    "ID": 623,
+    "DistrictId": 631,
+    "CityId": 45
+  },
+  {
+    "ID": 624,
+    "DistrictId": 632,
+    "CityId": 45
+  },
+  {
+    "ID": 625,
+    "DistrictId": 633,
+    "CityId": 45
+  },
+  {
+    "ID": 626,
+    "DistrictId": 634,
+    "CityId": 45
+  },
+  {
+    "ID": 627,
+    "DistrictId": 635,
+    "CityId": 45
+  },
+  {
+    "ID": 628,
+    "DistrictId": 636,
+    "CityId": 45
+  },
+  {
+    "ID": 629,
+    "DistrictId": 637,
+    "CityId": 45
+  },
+  {
+    "ID": 630,
+    "DistrictId": 638,
+    "CityId": 46
+  },
+  {
+    "ID": 631,
+    "DistrictId": 639,
+    "CityId": 46
+  },
+  {
+    "ID": 632,
+    "DistrictId": 640,
+    "CityId": 46
+  },
+  {
+    "ID": 633,
+    "DistrictId": 641,
+    "CityId": 46
+  },
+  {
+    "ID": 634,
+    "DistrictId": 642,
+    "CityId": 46
+  },
+  {
+    "ID": 635,
+    "DistrictId": 643,
+    "CityId": 46
+  },
+  {
+    "ID": 636,
+    "DistrictId": 644,
+    "CityId": 46
+  },
+  {
+    "ID": 637,
+    "DistrictId": 645,
+    "CityId": 46
+  },
+  {
+    "ID": 638,
+    "DistrictId": 646,
+    "CityId": 46
+  },
+  {
+    "ID": 639,
+    "DistrictId": 647,
+    "CityId": 46
+  },
+  {
+    "ID": 640,
+    "DistrictId": 648,
+    "CityId": 46
+  },
+  {
+    "ID": 641,
+    "DistrictId": 649,
+    "CityId": 47
+  },
+  {
+    "ID": 642,
+    "DistrictId": 650,
+    "CityId": 47
+  },
+  {
+    "ID": 643,
+    "DistrictId": 651,
+    "CityId": 47
+  },
+  {
+    "ID": 644,
+    "DistrictId": 652,
+    "CityId": 47
+  },
+  {
+    "ID": 645,
+    "DistrictId": 653,
+    "CityId": 47
+  },
+  {
+    "ID": 646,
+    "DistrictId": 654,
+    "CityId": 47
+  },
+  {
+    "ID": 647,
+    "DistrictId": 655,
+    "CityId": 47
+  },
+  {
+    "ID": 648,
+    "DistrictId": 656,
+    "CityId": 47
+  },
+  {
+    "ID": 649,
+    "DistrictId": 657,
+    "CityId": 47
+  },
+  {
+    "ID": 650,
+    "DistrictId": 658,
+    "CityId": 47
+  },
+  {
+    "ID": 651,
+    "DistrictId": 659,
+    "CityId": 48
+  },
+  {
+    "ID": 652,
+    "DistrictId": 660,
+    "CityId": 48
+  },
+  {
+    "ID": 653,
+    "DistrictId": 661,
+    "CityId": 48
+  },
+  {
+    "ID": 654,
+    "DistrictId": 662,
+    "CityId": 48
+  },
+  {
+    "ID": 655,
+    "DistrictId": 663,
+    "CityId": 48
+  },
+  {
+    "ID": 656,
+    "DistrictId": 664,
+    "CityId": 48
+  },
+  {
+    "ID": 657,
+    "DistrictId": 665,
+    "CityId": 48
+  },
+  {
+    "ID": 658,
+    "DistrictId": 666,
+    "CityId": 48
+  },
+  {
+    "ID": 659,
+    "DistrictId": 667,
+    "CityId": 48
+  },
+  {
+    "ID": 660,
+    "DistrictId": 668,
+    "CityId": 48
+  },
+  {
+    "ID": 661,
+    "DistrictId": 669,
+    "CityId": 48
+  },
+  {
+    "ID": 662,
+    "DistrictId": 670,
+    "CityId": 48
+  },
+  {
+    "ID": 663,
+    "DistrictId": 671,
+    "CityId": 48
+  },
+  {
+    "ID": 664,
+    "DistrictId": 672,
+    "CityId": 49
+  },
+  {
+    "ID": 665,
+    "DistrictId": 673,
+    "CityId": 49
+  },
+  {
+    "ID": 666,
+    "DistrictId": 674,
+    "CityId": 49
+  },
+  {
+    "ID": 667,
+    "DistrictId": 675,
+    "CityId": 49
+  },
+  {
+    "ID": 668,
+    "DistrictId": 676,
+    "CityId": 49
+  },
+  {
+    "ID": 669,
+    "DistrictId": 677,
+    "CityId": 49
+  },
+  {
+    "ID": 670,
+    "DistrictId": 678,
+    "CityId": 50
+  },
+  {
+    "ID": 671,
+    "DistrictId": 679,
+    "CityId": 50
+  },
+  {
+    "ID": 672,
+    "DistrictId": 680,
+    "CityId": 50
+  },
+  {
+    "ID": 673,
+    "DistrictId": 681,
+    "CityId": 50
+  },
+  {
+    "ID": 674,
+    "DistrictId": 682,
+    "CityId": 50
+  },
+  {
+    "ID": 675,
+    "DistrictId": 683,
+    "CityId": 50
+  },
+  {
+    "ID": 676,
+    "DistrictId": 684,
+    "CityId": 50
+  },
+  {
+    "ID": 677,
+    "DistrictId": 685,
+    "CityId": 50
+  },
+  {
+    "ID": 678,
+    "DistrictId": 686,
+    "CityId": 51
+  },
+  {
+    "ID": 679,
+    "DistrictId": 687,
+    "CityId": 51
+  },
+  {
+    "ID": 680,
+    "DistrictId": 688,
+    "CityId": 51
+  },
+  {
+    "ID": 681,
+    "DistrictId": 689,
+    "CityId": 51
+  },
+  {
+    "ID": 682,
+    "DistrictId": 690,
+    "CityId": 51
+  },
+  {
+    "ID": 683,
+    "DistrictId": 691,
+    "CityId": 51
+  },
+  {
+    "ID": 684,
+    "DistrictId": 692,
+    "CityId": 52
+  },
+  {
+    "ID": 685,
+    "DistrictId": 693,
+    "CityId": 52
+  },
+  {
+    "ID": 686,
+    "DistrictId": 694,
+    "CityId": 52
+  },
+  {
+    "ID": 687,
+    "DistrictId": 695,
+    "CityId": 52
+  },
+  {
+    "ID": 688,
+    "DistrictId": 696,
+    "CityId": 52
+  },
+  {
+    "ID": 689,
+    "DistrictId": 697,
+    "CityId": 52
+  },
+  {
+    "ID": 690,
+    "DistrictId": 698,
+    "CityId": 52
+  },
+  {
+    "ID": 691,
+    "DistrictId": 699,
+    "CityId": 52
+  },
+  {
+    "ID": 692,
+    "DistrictId": 700,
+    "CityId": 52
+  },
+  {
+    "ID": 693,
+    "DistrictId": 701,
+    "CityId": 52
+  },
+  {
+    "ID": 694,
+    "DistrictId": 702,
+    "CityId": 52
+  },
+  {
+    "ID": 695,
+    "DistrictId": 703,
+    "CityId": 52
+  },
+  {
+    "ID": 696,
+    "DistrictId": 704,
+    "CityId": 52
+  },
+  {
+    "ID": 697,
+    "DistrictId": 705,
+    "CityId": 52
+  },
+  {
+    "ID": 698,
+    "DistrictId": 706,
+    "CityId": 52
+  },
+  {
+    "ID": 699,
+    "DistrictId": 707,
+    "CityId": 52
+  },
+  {
+    "ID": 700,
+    "DistrictId": 708,
+    "CityId": 52
+  },
+  {
+    "ID": 701,
+    "DistrictId": 709,
+    "CityId": 52
+  },
+  {
+    "ID": 702,
+    "DistrictId": 710,
+    "CityId": 52
+  },
+  {
+    "ID": 703,
+    "DistrictId": 711,
+    "CityId": 53
+  },
+  {
+    "ID": 704,
+    "DistrictId": 712,
+    "CityId": 53
+  },
+  {
+    "ID": 705,
+    "DistrictId": 713,
+    "CityId": 53
+  },
+  {
+    "ID": 706,
+    "DistrictId": 714,
+    "CityId": 53
+  },
+  {
+    "ID": 707,
+    "DistrictId": 715,
+    "CityId": 53
+  },
+  {
+    "ID": 708,
+    "DistrictId": 716,
+    "CityId": 53
+  },
+  {
+    "ID": 709,
+    "DistrictId": 717,
+    "CityId": 53
+  },
+  {
+    "ID": 710,
+    "DistrictId": 718,
+    "CityId": 53
+  },
+  {
+    "ID": 711,
+    "DistrictId": 719,
+    "CityId": 53
+  },
+  {
+    "ID": 712,
+    "DistrictId": 720,
+    "CityId": 53
+  },
+  {
+    "ID": 713,
+    "DistrictId": 721,
+    "CityId": 53
+  },
+  {
+    "ID": 714,
+    "DistrictId": 722,
+    "CityId": 53
+  },
+  {
+    "ID": 715,
+    "DistrictId": 723,
+    "CityId": 54
+  },
+  {
+    "ID": 716,
+    "DistrictId": 724,
+    "CityId": 54
+  },
+  {
+    "ID": 717,
+    "DistrictId": 725,
+    "CityId": 54
+  },
+  {
+    "ID": 718,
+    "DistrictId": 726,
+    "CityId": 54
+  },
+  {
+    "ID": 719,
+    "DistrictId": 727,
+    "CityId": 54
+  },
+  {
+    "ID": 720,
+    "DistrictId": 728,
+    "CityId": 54
+  },
+  {
+    "ID": 721,
+    "DistrictId": 729,
+    "CityId": 54
+  },
+  {
+    "ID": 722,
+    "DistrictId": 730,
+    "CityId": 54
+  },
+  {
+    "ID": 723,
+    "DistrictId": 731,
+    "CityId": 54
+  },
+  {
+    "ID": 724,
+    "DistrictId": 732,
+    "CityId": 54
+  },
+  {
+    "ID": 725,
+    "DistrictId": 733,
+    "CityId": 54
+  },
+  {
+    "ID": 726,
+    "DistrictId": 734,
+    "CityId": 54
+  },
+  {
+    "ID": 727,
+    "DistrictId": 735,
+    "CityId": 54
+  },
+  {
+    "ID": 728,
+    "DistrictId": 736,
+    "CityId": 54
+  },
+  {
+    "ID": 729,
+    "DistrictId": 737,
+    "CityId": 54
+  },
+  {
+    "ID": 730,
+    "DistrictId": 738,
+    "CityId": 54
+  },
+  {
+    "ID": 731,
+    "DistrictId": 739,
+    "CityId": 55
+  },
+  {
+    "ID": 732,
+    "DistrictId": 740,
+    "CityId": 55
+  },
+  {
+    "ID": 733,
+    "DistrictId": 741,
+    "CityId": 55
+  },
+  {
+    "ID": 734,
+    "DistrictId": 742,
+    "CityId": 55
+  },
+  {
+    "ID": 735,
+    "DistrictId": 743,
+    "CityId": 55
+  },
+  {
+    "ID": 736,
+    "DistrictId": 744,
+    "CityId": 55
+  },
+  {
+    "ID": 737,
+    "DistrictId": 745,
+    "CityId": 55
+  },
+  {
+    "ID": 738,
+    "DistrictId": 746,
+    "CityId": 55
+  },
+  {
+    "ID": 739,
+    "DistrictId": 747,
+    "CityId": 55
+  },
+  {
+    "ID": 740,
+    "DistrictId": 748,
+    "CityId": 55
+  },
+  {
+    "ID": 741,
+    "DistrictId": 749,
+    "CityId": 55
+  },
+  {
+    "ID": 742,
+    "DistrictId": 750,
+    "CityId": 55
+  },
+  {
+    "ID": 743,
+    "DistrictId": 751,
+    "CityId": 55
+  },
+  {
+    "ID": 744,
+    "DistrictId": 752,
+    "CityId": 55
+  },
+  {
+    "ID": 745,
+    "DistrictId": 753,
+    "CityId": 55
+  },
+  {
+    "ID": 746,
+    "DistrictId": 754,
+    "CityId": 55
+  },
+  {
+    "ID": 747,
+    "DistrictId": 755,
+    "CityId": 55
+  },
+  {
+    "ID": 748,
+    "DistrictId": 756,
+    "CityId": 56
+  },
+  {
+    "ID": 749,
+    "DistrictId": 757,
+    "CityId": 56
+  },
+  {
+    "ID": 750,
+    "DistrictId": 758,
+    "CityId": 56
+  },
+  {
+    "ID": 751,
+    "DistrictId": 759,
+    "CityId": 56
+  },
+  {
+    "ID": 752,
+    "DistrictId": 760,
+    "CityId": 56
+  },
+  {
+    "ID": 753,
+    "DistrictId": 761,
+    "CityId": 56
+  },
+  {
+    "ID": 754,
+    "DistrictId": 762,
+    "CityId": 56
+  },
+  {
+    "ID": 755,
+    "DistrictId": 763,
+    "CityId": 56
+  },
+  {
+    "ID": 756,
+    "DistrictId": 764,
+    "CityId": 57
+  },
+  {
+    "ID": 757,
+    "DistrictId": 765,
+    "CityId": 57
+  },
+  {
+    "ID": 758,
+    "DistrictId": 766,
+    "CityId": 57
+  },
+  {
+    "ID": 759,
+    "DistrictId": 767,
+    "CityId": 57
+  },
+  {
+    "ID": 760,
+    "DistrictId": 768,
+    "CityId": 57
+  },
+  {
+    "ID": 761,
+    "DistrictId": 769,
+    "CityId": 57
+  },
+  {
+    "ID": 762,
+    "DistrictId": 770,
+    "CityId": 57
+  },
+  {
+    "ID": 763,
+    "DistrictId": 771,
+    "CityId": 57
+  },
+  {
+    "ID": 764,
+    "DistrictId": 772,
+    "CityId": 57
+  },
+  {
+    "ID": 765,
+    "DistrictId": 773,
+    "CityId": 58
+  },
+  {
+    "ID": 766,
+    "DistrictId": 774,
+    "CityId": 58
+  },
+  {
+    "ID": 767,
+    "DistrictId": 775,
+    "CityId": 58
+  },
+  {
+    "ID": 768,
+    "DistrictId": 776,
+    "CityId": 58
+  },
+  {
+    "ID": 769,
+    "DistrictId": 777,
+    "CityId": 58
+  },
+  {
+    "ID": 770,
+    "DistrictId": 778,
+    "CityId": 58
+  },
+  {
+    "ID": 771,
+    "DistrictId": 779,
+    "CityId": 58
+  },
+  {
+    "ID": 772,
+    "DistrictId": 780,
+    "CityId": 58
+  },
+  {
+    "ID": 773,
+    "DistrictId": 781,
+    "CityId": 58
+  },
+  {
+    "ID": 774,
+    "DistrictId": 782,
+    "CityId": 58
+  },
+  {
+    "ID": 775,
+    "DistrictId": 783,
+    "CityId": 58
+  },
+  {
+    "ID": 776,
+    "DistrictId": 784,
+    "CityId": 58
+  },
+  {
+    "ID": 777,
+    "DistrictId": 785,
+    "CityId": 58
+  },
+  {
+    "ID": 778,
+    "DistrictId": 786,
+    "CityId": 58
+  },
+  {
+    "ID": 779,
+    "DistrictId": 787,
+    "CityId": 58
+  },
+  {
+    "ID": 780,
+    "DistrictId": 788,
+    "CityId": 58
+  },
+  {
+    "ID": 781,
+    "DistrictId": 789,
+    "CityId": 58
+  },
+  {
+    "ID": 782,
+    "DistrictId": 790,
+    "CityId": 59
+  },
+  {
+    "ID": 783,
+    "DistrictId": 791,
+    "CityId": 59
+  },
+  {
+    "ID": 784,
+    "DistrictId": 792,
+    "CityId": 59
+  },
+  {
+    "ID": 785,
+    "DistrictId": 793,
+    "CityId": 59
+  },
+  {
+    "ID": 786,
+    "DistrictId": 794,
+    "CityId": 59
+  },
+  {
+    "ID": 787,
+    "DistrictId": 795,
+    "CityId": 59
+  },
+  {
+    "ID": 788,
+    "DistrictId": 796,
+    "CityId": 59
+  },
+  {
+    "ID": 789,
+    "DistrictId": 797,
+    "CityId": 59
+  },
+  {
+    "ID": 790,
+    "DistrictId": 798,
+    "CityId": 59
+  },
+  {
+    "ID": 791,
+    "DistrictId": 799,
+    "CityId": 59
+  },
+  {
+    "ID": 792,
+    "DistrictId": 800,
+    "CityId": 59
+  },
+  {
+    "ID": 793,
+    "DistrictId": 801,
+    "CityId": 60
+  },
+  {
+    "ID": 794,
+    "DistrictId": 802,
+    "CityId": 60
+  },
+  {
+    "ID": 795,
+    "DistrictId": 803,
+    "CityId": 60
+  },
+  {
+    "ID": 796,
+    "DistrictId": 804,
+    "CityId": 60
+  },
+  {
+    "ID": 797,
+    "DistrictId": 805,
+    "CityId": 60
+  },
+  {
+    "ID": 798,
+    "DistrictId": 806,
+    "CityId": 60
+  },
+  {
+    "ID": 799,
+    "DistrictId": 807,
+    "CityId": 60
+  },
+  {
+    "ID": 800,
+    "DistrictId": 808,
+    "CityId": 60
+  },
+  {
+    "ID": 801,
+    "DistrictId": 809,
+    "CityId": 60
+  },
+  {
+    "ID": 802,
+    "DistrictId": 810,
+    "CityId": 60
+  },
+  {
+    "ID": 803,
+    "DistrictId": 811,
+    "CityId": 60
+  },
+  {
+    "ID": 804,
+    "DistrictId": 812,
+    "CityId": 60
+  },
+  {
+    "ID": 805,
+    "DistrictId": 813,
+    "CityId": 61
+  },
+  {
+    "ID": 806,
+    "DistrictId": 814,
+    "CityId": 61
+  },
+  {
+    "ID": 807,
+    "DistrictId": 815,
+    "CityId": 61
+  },
+  {
+    "ID": 808,
+    "DistrictId": 816,
+    "CityId": 61
+  },
+  {
+    "ID": 809,
+    "DistrictId": 817,
+    "CityId": 61
+  },
+  {
+    "ID": 810,
+    "DistrictId": 818,
+    "CityId": 61
+  },
+  {
+    "ID": 811,
+    "DistrictId": 819,
+    "CityId": 61
+  },
+  {
+    "ID": 812,
+    "DistrictId": 820,
+    "CityId": 61
+  },
+  {
+    "ID": 813,
+    "DistrictId": 821,
+    "CityId": 61
+  },
+  {
+    "ID": 814,
+    "DistrictId": 822,
+    "CityId": 61
+  },
+  {
+    "ID": 815,
+    "DistrictId": 823,
+    "CityId": 61
+  },
+  {
+    "ID": 816,
+    "DistrictId": 824,
+    "CityId": 61
+  },
+  {
+    "ID": 817,
+    "DistrictId": 825,
+    "CityId": 61
+  },
+  {
+    "ID": 818,
+    "DistrictId": 826,
+    "CityId": 61
+  },
+  {
+    "ID": 819,
+    "DistrictId": 827,
+    "CityId": 61
+  },
+  {
+    "ID": 820,
+    "DistrictId": 828,
+    "CityId": 61
+  },
+  {
+    "ID": 821,
+    "DistrictId": 829,
+    "CityId": 61
+  },
+  {
+    "ID": 822,
+    "DistrictId": 830,
+    "CityId": 61
+  },
+  {
+    "ID": 823,
+    "DistrictId": 831,
+    "CityId": 62
+  },
+  {
+    "ID": 824,
+    "DistrictId": 832,
+    "CityId": 62
+  },
+  {
+    "ID": 825,
+    "DistrictId": 833,
+    "CityId": 62
+  },
+  {
+    "ID": 826,
+    "DistrictId": 834,
+    "CityId": 62
+  },
+  {
+    "ID": 827,
+    "DistrictId": 835,
+    "CityId": 62
+  },
+  {
+    "ID": 828,
+    "DistrictId": 836,
+    "CityId": 62
+  },
+  {
+    "ID": 829,
+    "DistrictId": 837,
+    "CityId": 62
+  },
+  {
+    "ID": 830,
+    "DistrictId": 838,
+    "CityId": 62
+  },
+  {
+    "ID": 831,
+    "DistrictId": 839,
+    "CityId": 63
+  },
+  {
+    "ID": 832,
+    "DistrictId": 840,
+    "CityId": 63
+  },
+  {
+    "ID": 833,
+    "DistrictId": 841,
+    "CityId": 63
+  },
+  {
+    "ID": 834,
+    "DistrictId": 842,
+    "CityId": 63
+  },
+  {
+    "ID": 835,
+    "DistrictId": 843,
+    "CityId": 63
+  },
+  {
+    "ID": 836,
+    "DistrictId": 844,
+    "CityId": 63
+  },
+  {
+    "ID": 837,
+    "DistrictId": 845,
+    "CityId": 63
+  },
+  {
+    "ID": 838,
+    "DistrictId": 846,
+    "CityId": 63
+  },
+  {
+    "ID": 839,
+    "DistrictId": 847,
+    "CityId": 63
+  },
+  {
+    "ID": 840,
+    "DistrictId": 848,
+    "CityId": 63
+  },
+  {
+    "ID": 841,
+    "DistrictId": 849,
+    "CityId": 63
+  },
+  {
+    "ID": 842,
+    "DistrictId": 850,
+    "CityId": 63
+  },
+  {
+    "ID": 843,
+    "DistrictId": 851,
+    "CityId": 63
+  },
+  {
+    "ID": 844,
+    "DistrictId": 852,
+    "CityId": 64
+  },
+  {
+    "ID": 845,
+    "DistrictId": 853,
+    "CityId": 64
+  },
+  {
+    "ID": 846,
+    "DistrictId": 854,
+    "CityId": 64
+  },
+  {
+    "ID": 847,
+    "DistrictId": 855,
+    "CityId": 64
+  },
+  {
+    "ID": 848,
+    "DistrictId": 856,
+    "CityId": 64
+  },
+  {
+    "ID": 849,
+    "DistrictId": 857,
+    "CityId": 64
+  },
+  {
+    "ID": 850,
+    "DistrictId": 858,
+    "CityId": 65
+  },
+  {
+    "ID": 851,
+    "DistrictId": 859,
+    "CityId": 65
+  },
+  {
+    "ID": 852,
+    "DistrictId": 860,
+    "CityId": 65
+  },
+  {
+    "ID": 853,
+    "DistrictId": 861,
+    "CityId": 65
+  },
+  {
+    "ID": 854,
+    "DistrictId": 862,
+    "CityId": 65
+  },
+  {
+    "ID": 855,
+    "DistrictId": 863,
+    "CityId": 65
+  },
+  {
+    "ID": 856,
+    "DistrictId": 864,
+    "CityId": 65
+  },
+  {
+    "ID": 857,
+    "DistrictId": 865,
+    "CityId": 65
+  },
+  {
+    "ID": 858,
+    "DistrictId": 866,
+    "CityId": 65
+  },
+  {
+    "ID": 859,
+    "DistrictId": 867,
+    "CityId": 65
+  },
+  {
+    "ID": 860,
+    "DistrictId": 868,
+    "CityId": 65
+  },
+  {
+    "ID": 861,
+    "DistrictId": 869,
+    "CityId": 65
+  },
+  {
+    "ID": 862,
+    "DistrictId": 870,
+    "CityId": 65
+  },
+  {
+    "ID": 863,
+    "DistrictId": 871,
+    "CityId": 66
+  },
+  {
+    "ID": 864,
+    "DistrictId": 872,
+    "CityId": 66
+  },
+  {
+    "ID": 865,
+    "DistrictId": 873,
+    "CityId": 66
+  },
+  {
+    "ID": 866,
+    "DistrictId": 874,
+    "CityId": 66
+  },
+  {
+    "ID": 867,
+    "DistrictId": 875,
+    "CityId": 66
+  },
+  {
+    "ID": 868,
+    "DistrictId": 876,
+    "CityId": 66
+  },
+  {
+    "ID": 869,
+    "DistrictId": 877,
+    "CityId": 66
+  },
+  {
+    "ID": 870,
+    "DistrictId": 878,
+    "CityId": 66
+  },
+  {
+    "ID": 871,
+    "DistrictId": 879,
+    "CityId": 66
+  },
+  {
+    "ID": 872,
+    "DistrictId": 880,
+    "CityId": 66
+  },
+  {
+    "ID": 873,
+    "DistrictId": 881,
+    "CityId": 66
+  },
+  {
+    "ID": 874,
+    "DistrictId": 882,
+    "CityId": 66
+  },
+  {
+    "ID": 875,
+    "DistrictId": 883,
+    "CityId": 66
+  },
+  {
+    "ID": 876,
+    "DistrictId": 884,
+    "CityId": 66
+  },
+  {
+    "ID": 877,
+    "DistrictId": 885,
+    "CityId": 67
+  },
+  {
+    "ID": 878,
+    "DistrictId": 886,
+    "CityId": 67
+  },
+  {
+    "ID": 879,
+    "DistrictId": 887,
+    "CityId": 67
+  },
+  {
+    "ID": 880,
+    "DistrictId": 888,
+    "CityId": 67
+  },
+  {
+    "ID": 881,
+    "DistrictId": 889,
+    "CityId": 67
+  },
+  {
+    "ID": 882,
+    "DistrictId": 890,
+    "CityId": 67
+  },
+  {
+    "ID": 883,
+    "DistrictId": 891,
+    "CityId": 67
+  },
+  {
+    "ID": 884,
+    "DistrictId": 892,
+    "CityId": 67
+  },
+  {
+    "ID": 885,
+    "DistrictId": 893,
+    "CityId": 68
+  },
+  {
+    "ID": 886,
+    "DistrictId": 894,
+    "CityId": 68
+  },
+  {
+    "ID": 887,
+    "DistrictId": 895,
+    "CityId": 68
+  },
+  {
+    "ID": 888,
+    "DistrictId": 896,
+    "CityId": 68
+  },
+  {
+    "ID": 889,
+    "DistrictId": 897,
+    "CityId": 68
+  },
+  {
+    "ID": 890,
+    "DistrictId": 898,
+    "CityId": 68
+  },
+  {
+    "ID": 891,
+    "DistrictId": 899,
+    "CityId": 68
+  },
+  {
+    "ID": 892,
+    "DistrictId": 900,
+    "CityId": 69
+  },
+  {
+    "ID": 893,
+    "DistrictId": 901,
+    "CityId": 69
+  },
+  {
+    "ID": 894,
+    "DistrictId": 902,
+    "CityId": 69
+  },
+  {
+    "ID": 895,
+    "DistrictId": 903,
+    "CityId": 70
+  },
+  {
+    "ID": 896,
+    "DistrictId": 904,
+    "CityId": 70
+  },
+  {
+    "ID": 897,
+    "DistrictId": 905,
+    "CityId": 70
+  },
+  {
+    "ID": 898,
+    "DistrictId": 906,
+    "CityId": 70
+  },
+  {
+    "ID": 899,
+    "DistrictId": 907,
+    "CityId": 70
+  },
+  {
+    "ID": 900,
+    "DistrictId": 908,
+    "CityId": 70
+  },
+  {
+    "ID": 901,
+    "DistrictId": 909,
+    "CityId": 71
+  },
+  {
+    "ID": 902,
+    "DistrictId": 910,
+    "CityId": 71
+  },
+  {
+    "ID": 903,
+    "DistrictId": 911,
+    "CityId": 71
+  },
+  {
+    "ID": 904,
+    "DistrictId": 912,
+    "CityId": 71
+  },
+  {
+    "ID": 905,
+    "DistrictId": 913,
+    "CityId": 71
+  },
+  {
+    "ID": 906,
+    "DistrictId": 914,
+    "CityId": 71
+  },
+  {
+    "ID": 907,
+    "DistrictId": 915,
+    "CityId": 71
+  },
+  {
+    "ID": 908,
+    "DistrictId": 916,
+    "CityId": 71
+  },
+  {
+    "ID": 909,
+    "DistrictId": 917,
+    "CityId": 71
+  },
+  {
+    "ID": 910,
+    "DistrictId": 918,
+    "CityId": 72
+  },
+  {
+    "ID": 911,
+    "DistrictId": 919,
+    "CityId": 72
+  },
+  {
+    "ID": 912,
+    "DistrictId": 920,
+    "CityId": 72
+  },
+  {
+    "ID": 913,
+    "DistrictId": 921,
+    "CityId": 72
+  },
+  {
+    "ID": 914,
+    "DistrictId": 922,
+    "CityId": 72
+  },
+  {
+    "ID": 915,
+    "DistrictId": 923,
+    "CityId": 72
+  },
+  {
+    "ID": 916,
+    "DistrictId": 924,
+    "CityId": 73
+  },
+  {
+    "ID": 917,
+    "DistrictId": 925,
+    "CityId": 73
+  },
+  {
+    "ID": 918,
+    "DistrictId": 926,
+    "CityId": 73
+  },
+  {
+    "ID": 919,
+    "DistrictId": 927,
+    "CityId": 73
+  },
+  {
+    "ID": 920,
+    "DistrictId": 928,
+    "CityId": 73
+  },
+  {
+    "ID": 921,
+    "DistrictId": 929,
+    "CityId": 73
+  },
+  {
+    "ID": 922,
+    "DistrictId": 930,
+    "CityId": 73
+  },
+  {
+    "ID": 923,
+    "DistrictId": 931,
+    "CityId": 74
+  },
+  {
+    "ID": 924,
+    "DistrictId": 932,
+    "CityId": 74
+  },
+  {
+    "ID": 925,
+    "DistrictId": 933,
+    "CityId": 74
+  },
+  {
+    "ID": 926,
+    "DistrictId": 934,
+    "CityId": 74
+  },
+  {
+    "ID": 927,
+    "DistrictId": 935,
+    "CityId": 75
+  },
+  {
+    "ID": 928,
+    "DistrictId": 936,
+    "CityId": 75
+  },
+  {
+    "ID": 929,
+    "DistrictId": 937,
+    "CityId": 75
+  },
+  {
+    "ID": 930,
+    "DistrictId": 938,
+    "CityId": 75
+  },
+  {
+    "ID": 931,
+    "DistrictId": 939,
+    "CityId": 75
+  },
+  {
+    "ID": 932,
+    "DistrictId": 940,
+    "CityId": 75
+  },
+  {
+    "ID": 933,
+    "DistrictId": 941,
+    "CityId": 76
+  },
+  {
+    "ID": 934,
+    "DistrictId": 942,
+    "CityId": 76
+  },
+  {
+    "ID": 935,
+    "DistrictId": 943,
+    "CityId": 76
+  },
+  {
+    "ID": 936,
+    "DistrictId": 944,
+    "CityId": 76
+  },
+  {
+    "ID": 937,
+    "DistrictId": 945,
+    "CityId": 77
+  },
+  {
+    "ID": 938,
+    "DistrictId": 946,
+    "CityId": 77
+  },
+  {
+    "ID": 939,
+    "DistrictId": 947,
+    "CityId": 77
+  },
+  {
+    "ID": 940,
+    "DistrictId": 948,
+    "CityId": 77
+  },
+  {
+    "ID": 941,
+    "DistrictId": 949,
+    "CityId": 77
+  },
+  {
+    "ID": 942,
+    "DistrictId": 950,
+    "CityId": 77
+  },
+  {
+    "ID": 944,
+    "DistrictId": 951,
+    "CityId": 78
+  },
+  {
+    "ID": 945,
+    "DistrictId": 952,
+    "CityId": 78
+  },
+  {
+    "ID": 946,
+    "DistrictId": 953,
+    "CityId": 78
+  },
+  {
+    "ID": 947,
+    "DistrictId": 954,
+    "CityId": 78
+  },
+  {
+    "ID": 948,
+    "DistrictId": 955,
+    "CityId": 78
+  },
+  {
+    "ID": 949,
+    "DistrictId": 956,
+    "CityId": 78
+  },
+  {
+    "ID": 950,
+    "DistrictId": 957,
+    "CityId": 79
+  },
+  {
+    "ID": 951,
+    "DistrictId": 958,
+    "CityId": 79
+  },
+  {
+    "ID": 952,
+    "DistrictId": 959,
+    "CityId": 79
+  },
+  {
+    "ID": 953,
+    "DistrictId": 960,
+    "CityId": 79
+  },
+  {
+    "ID": 954,
+    "DistrictId": 961,
+    "CityId": 80
+  },
+  {
+    "ID": 955,
+    "DistrictId": 962,
+    "CityId": 80
+  },
+  {
+    "ID": 956,
+    "DistrictId": 963,
+    "CityId": 80
+  },
+  {
+    "ID": 957,
+    "DistrictId": 964,
+    "CityId": 80
+  },
+  {
+    "ID": 958,
+    "DistrictId": 965,
+    "CityId": 80
+  },
+  {
+    "ID": 959,
+    "DistrictId": 966,
+    "CityId": 80
+  },
+  {
+    "ID": 960,
+    "DistrictId": 967,
+    "CityId": 80
+  },
+  {
+    "ID": 961,
+    "DistrictId": 968,
+    "CityId": 81
+  },
+  {
+    "ID": 962,
+    "DistrictId": 969,
+    "CityId": 81
+  },
+  {
+    "ID": 963,
+    "DistrictId": 970,
+    "CityId": 81
+  },
+  {
+    "ID": 964,
+    "DistrictId": 971,
+    "CityId": 81
+  },
+  {
+    "ID": 965,
+    "DistrictId": 972,
+    "CityId": 81
+  },
+  {
+    "ID": 966,
+    "DistrictId": 973,
+    "CityId": 81
+  },
+  {
+    "ID": 967,
+    "DistrictId": 974,
+    "CityId": 81
+  },
+  {
+    "ID": 968,
+    "DistrictId": 975,
+    "CityId": 81
+  }
+]
